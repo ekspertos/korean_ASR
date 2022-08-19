@@ -1,6 +1,10 @@
+*.log
 __pycache__/
 *.py[cod]
 korean_ASR/*/result/*
-korean_ASR/generate_lm_transcript/data/*
+korean_ASR/*/data/*
+
+!korean_ASR/*/data/,gitkeep
+!korean_ASR/*/result/.gitkeep
 
 
