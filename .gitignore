@@ -4,7 +4,7 @@
 __pycache__/
 *.py[cod]
 */*/result/*
-*/*/data/*
+*/*/dataset/*
 
 !*/*/dataset/.gitkeep
 !*/*/result/.gitkeep
