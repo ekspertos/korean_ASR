@@ -3,10 +3,10 @@
 .idea/
 __pycache__/
 *.py[cod]
-*/*/result/*
-*/*/dataset/*
 
-!*/*/dataset/*/.gitkeep
 !*/*/result/.gitkeep
+
+!*/*/dataset/KoreanSpeech/.gitkeep
+!*/*/dataset/KoreanFreeSpeech/.gitkeep
 
 
