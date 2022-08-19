@@ -3,10 +3,10 @@
 .idea/
 __pycache__/
 *.py[cod]
-korean_ASR/*/result/*
-korean_ASR/*/data/*
+*/*/result/*
+*/*/data/*
 
-!korean_ASR/*/data/,gitkeep
-!korean_ASR/*/result/.gitkeep
+!*/*/data/,gitkeep
+!*/*/result/.gitkeep
 
 
