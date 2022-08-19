@@ -4,6 +4,10 @@
 __pycache__/
 *.py[cod]
 
+*/*/result/*
+*/*/dataset/KoreanSpeech/*
+*/*/dataset/KoreanFreeSpeech/*
+
 !*/*/result/.gitkeep
 
 !*/*/dataset/KoreanSpeech/.gitkeep
