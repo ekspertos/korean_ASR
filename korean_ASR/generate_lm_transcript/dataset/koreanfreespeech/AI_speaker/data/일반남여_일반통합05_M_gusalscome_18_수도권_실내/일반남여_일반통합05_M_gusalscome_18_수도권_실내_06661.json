@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "실리콘 기판 위에 머리카락 모습이 보입니다.",
+    "scriptId" : "06661",
+    "fileNm" : "일반남여_일반통합05_M_gusalscome_18_수도권_실내_06661.wav",
+    "recrdTime" : "5.000",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-06 18:18:38",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "gusalscome",
+    "age" : 18
+  }
+}

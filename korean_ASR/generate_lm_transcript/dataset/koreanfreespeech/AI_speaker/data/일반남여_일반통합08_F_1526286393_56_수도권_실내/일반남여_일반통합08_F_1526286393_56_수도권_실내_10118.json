@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "맞아 요요 나도 그게 제일 무서워 ",
+    "scriptId" : "일반통합-10118",
+    "fileNm" : "일반남여_일반통합08_F_1526286393_56_수도권_실내_10118.wav",
+    "recrdTime" : "4.440",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-13 22:32:23",
+    "scriptSetNo" : "T_일반통합_8"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "다이어트 후, 체중 유지하려면?"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526286393",
+    "age" : 56
+  }
+}

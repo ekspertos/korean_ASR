@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(SP:처음에는) 자기가 가장 기록하기 쉽고 쓰기 편한 형태의 가계부를 선택하는 게 좋아",
+    "scriptId" : "일반통합-09579",
+    "fileNm" : "일반남여_일반통합08_F_1526006809_42_수도권_실내_09579.wav",
+    "recrdTime" : "6.830",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-10 18:52:51",
+    "scriptSetNo" : "T_일반통합_8"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "가계부 쓰기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526006809",
+    "age" : 42
+  }
+}

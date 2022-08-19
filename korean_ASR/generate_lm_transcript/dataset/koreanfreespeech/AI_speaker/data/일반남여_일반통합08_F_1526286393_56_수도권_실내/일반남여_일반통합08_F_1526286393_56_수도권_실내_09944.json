@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "맞아 화초들이 죽을까 봐 진짜 가고 싶었던 여행도 취소한 적 있다",
+    "scriptId" : "일반통합-09944",
+    "fileNm" : "일반남여_일반통합08_F_1526286393_56_수도권_실내_09944.wav",
+    "recrdTime" : "7.930",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-11 19:10:36",
+    "scriptSetNo" : "T_일반통합_8"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "아이스팩 활용법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526286393",
+    "age" : 56
+  }
+}

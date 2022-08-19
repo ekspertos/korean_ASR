@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "갑자기 훅 치고 들어오시니까 제가 좀 당황스럽네요 음 이 대답은 유보하겠습니다",
+    "scriptId" : "일반통합-15823",
+    "fileNm" : "일반남여_일반통합11_F_1527167301_42_수도권_실내_15823.wav",
+    "recrdTime" : "8.280",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-14 22:41:33",
+    "scriptSetNo" : "T_일반통합_11"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "사귀자는 고백"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1527167301",
+    "age" : 42
+  }
+}

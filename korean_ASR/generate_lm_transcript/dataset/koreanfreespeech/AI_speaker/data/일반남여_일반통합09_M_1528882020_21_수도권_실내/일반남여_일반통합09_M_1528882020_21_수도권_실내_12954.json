@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그래 어차피 나트륨 많이 먹어봐야 좋을 건 없지 다른 건",
+    "scriptId" : "일반통합-12954",
+    "fileNm" : "일반남여_일반통합09_M_1528882020_21_수도권_실내_12954.wav",
+    "recrdTime" : "5.030",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-14 05:14:06",
+    "scriptSetNo" : "T_일반통합_9"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "어지럼증에 관하여 "
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1528882020",
+    "age" : 21
+  }
+}

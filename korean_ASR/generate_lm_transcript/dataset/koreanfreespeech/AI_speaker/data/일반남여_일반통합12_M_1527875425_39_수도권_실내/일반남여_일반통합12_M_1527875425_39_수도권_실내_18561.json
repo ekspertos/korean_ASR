@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "다음은 샘성픈 콤 프로야구 소식입니다",
+    "scriptId" : "일반통합-18561",
+    "fileNm" : "일반남여_일반통합12_M_1527875425_39_수도권_실내_18561.wav",
+    "recrdTime" : "6.230",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-25 11:54:03",
+    "scriptSetNo" : "T_일반통합_12"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527875425",
+    "age" : 39
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "내 자신에 대한 자신감을 잃으면 온 세상에 나의 적이 된다",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1532180705_30_수도권_실내_20201213123716.wav",
+    "recrdTime" : "7.170",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-13 12:37:17",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "영화 문학 성격 뭐든"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1532180705",
+    "age" : 30
+  }
+}

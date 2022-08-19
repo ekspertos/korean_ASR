@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(NO:)발효가 백 오십건이나 떴다고요 이거 녹음하는 거 반려가 그렇게 많이 뜬 거예요 왜 많이 뜬 거예요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1542570778_32_수도권_실외_20201129083010.wav",
+    "recrdTime" : "10.660",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-29 08:30:11",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실외",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "아무거나"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1542570778",
+    "age" : 32
+  }
+}

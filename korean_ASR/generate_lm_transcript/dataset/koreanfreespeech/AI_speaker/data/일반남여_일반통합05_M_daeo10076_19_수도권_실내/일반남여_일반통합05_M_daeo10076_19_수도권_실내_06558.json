@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그것도 좋은 방법이네.",
+    "scriptId" : "06558",
+    "fileNm" : "일반남여_일반통합05_M_daeo10076_19_수도권_실내_06558.wav",
+    "recrdTime" : "3.680",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-11 18:08:30",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "에어비앤비 실패하지 않고 고르는 법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "daeo10076",
+    "age" : 19
+  }
+}

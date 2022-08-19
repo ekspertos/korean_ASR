@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그럴수록 조심시켜야겠다",
+    "scriptId" : "07334",
+    "fileNm" : "일반남여_일반통합05_M_sansuyu0_24_수도권_실내_07334.wav",
+    "recrdTime" : "4.120",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-11 23:22:36",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "손소독제 위험"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "sansuyu0",
+    "age" : 24
+  }
+}

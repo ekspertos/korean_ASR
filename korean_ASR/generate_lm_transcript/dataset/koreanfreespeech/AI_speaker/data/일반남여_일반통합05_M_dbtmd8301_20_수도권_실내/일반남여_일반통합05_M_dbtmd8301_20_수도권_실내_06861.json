@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "의약분업이 칠월 일일부터 시행됩니다",
+    "scriptId" : "06861",
+    "fileNm" : "일반남여_일반통합05_M_dbtmd8301_20_수도권_실내_06861.wav",
+    "recrdTime" : "4.520",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-12 11:24:03",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "dbtmd8301",
+    "age" : 20
+  }
+}

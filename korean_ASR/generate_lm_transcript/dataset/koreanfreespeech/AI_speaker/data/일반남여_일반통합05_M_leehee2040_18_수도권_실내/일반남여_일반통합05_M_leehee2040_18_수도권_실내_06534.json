@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(NO:) 아 그럼 다인 실은 해외여행 갈 때 (SP:무) 묵었던 도미토리 같은 거겠네",
+    "scriptId" : "06534",
+    "fileNm" : "일반남여_일반통합05_M_leehee2040_18_수도권_실내_06534.wav",
+    "recrdTime" : "10.040",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-06 16:19:26",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "에어비앤비 실패하지 않고 고르는 법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "leehee2040",
+    "age" : 18
+  }
+}

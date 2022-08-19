@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "석주의 왼발 슛은 그 결정타였습니다",
+    "scriptId" : "일반통합-21901",
+    "fileNm" : "일반남여_일반통합14_F_1526829062_42_경상_실내_21901.wav",
+    "recrdTime" : "3.840",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-02 01:47:46",
+    "scriptSetNo" : "T_일반통합_14"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526829062",
+    "age" : 42
+  }
+}

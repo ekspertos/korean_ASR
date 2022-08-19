@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "이번에는 후진 주차를 해볼까",
+    "scriptId" : "일반통합-07089",
+    "fileNm" : "일반남여_일반통합06_F_1527838744_47_충청_실내_07089.wav",
+    "recrdTime" : "4.690",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-17 18:31:15",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "운전 초보자 주차하기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1527838744",
+    "age" : 47
+  }
+}

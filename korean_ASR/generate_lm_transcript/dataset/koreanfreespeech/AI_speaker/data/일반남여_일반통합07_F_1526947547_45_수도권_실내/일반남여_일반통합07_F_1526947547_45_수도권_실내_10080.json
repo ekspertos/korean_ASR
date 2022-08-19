@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "단 찬 우유는 오히려 숙면을 방해하기 때문에 꼭 따뜻하게 데워마시는 게 좋아",
+    "scriptId" : "일반통합-10080",
+    "fileNm" : "일반남여_일반통합07_F_1526947547_45_수도권_실내_10080.wav",
+    "recrdTime" : "6.830",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-16 13:56:47",
+    "scriptSetNo" : "T_일반통합_7"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "불면증에 도움이 되는 음식"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526947547",
+    "age" : 45
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "매일 밤 가계부를 쓴다고 생각하니까 스트레스가 이만저만이 아니더라구",
+    "scriptId" : "일반통합-09594",
+    "fileNm" : "일반남여_일반통합07_F_1526272257_54_수도권_실내_09594.wav",
+    "recrdTime" : "8.620",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-09 00:11:17",
+    "scriptSetNo" : "T_일반통합_7"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "가계부 쓰기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526272257",
+    "age" : 54
+  }
+}

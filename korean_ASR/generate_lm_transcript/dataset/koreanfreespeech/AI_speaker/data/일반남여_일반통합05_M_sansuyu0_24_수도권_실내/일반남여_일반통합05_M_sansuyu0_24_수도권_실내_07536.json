@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그런 데에서 소통하면서 채식에 대한 확신이 들었고, 사람들에게 약 대신 식단 처방을 해준대.",
+    "scriptId" : "07536",
+    "fileNm" : "일반남여_일반통합05_M_sansuyu0_24_수도권_실내_07536.wav",
+    "recrdTime" : "7.840",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-11 23:41:53",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "독서 후기"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "sansuyu0",
+    "age" : 24
+  }
+}

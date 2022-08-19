@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "저도 광고나 말이 많이 나오는 방송은 별로였어요",
+    "scriptId" : "일반통합-19670",
+    "fileNm" : "일반남여_일반통합14_F_1520925689_20_수도권_실내_19670.wav",
+    "recrdTime" : "5.030",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-10 19:31:01",
+    "scriptSetNo" : "T_일반통합_14"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "출연자 인터뷰"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1520925689",
+    "age" : 20
+  }
+}

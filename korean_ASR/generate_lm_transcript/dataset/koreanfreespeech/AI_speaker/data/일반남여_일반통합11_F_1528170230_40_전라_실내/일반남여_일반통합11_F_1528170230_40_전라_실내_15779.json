@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "좋아요 햇빛 받은지도 오래됐어요 저도 걷는 거 좋아요",
+    "scriptId" : "일반통합-15779",
+    "fileNm" : "일반남여_일반통합11_F_1528170230_40_전라_실내_15779.wav",
+    "recrdTime" : "5.630",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-10 23:38:49",
+    "scriptSetNo" : "T_일반통합_11"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "전라",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "데이트"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1528170230",
+    "age" : 40
+  }
+}

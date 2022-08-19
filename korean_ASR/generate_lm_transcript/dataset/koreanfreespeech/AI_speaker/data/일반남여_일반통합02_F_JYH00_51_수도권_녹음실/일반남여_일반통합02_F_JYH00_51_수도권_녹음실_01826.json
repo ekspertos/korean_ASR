@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "갑작스런 눈의 피로나 충혈 혹은 눈이 부었을 경우엔 냉찜질을 하는게 효과적이지",
+    "scriptId" : "01826",
+    "fileNm" : "일반남여_일반통합02_F_JYH00_51_수도권_녹음실_01826.wavp",
+    "recrdTime" : "8.500",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-10-06 13:14:56",
+    "scriptSetNo" : "일반통합02"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "녹음실",
+    "colctUnitCode" : "스튜디오",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AI스피커",
+    "convrsThema" : "찜질 증상에 맞게 하자"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "JYH00",
+    "age" : 51
+  }
+}

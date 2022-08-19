@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "요즘은 친구들과 여럿이서 만나는 일도 드물고 술집 영업도 늦게까지 하질 않으니 기분이 안나",
+    "scriptId" : "일반통합-23766",
+    "fileNm" : "일반남여_일반통합15_F_1528442936_33_경상_실내_23766.wav",
+    "recrdTime" : "10.150",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-11 14:46:18",
+    "scriptSetNo" : "T_일반통합_15"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "코로나가 종식된다면 나는"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1528442936",
+    "age" : 33
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "두레주택이라는 말은 들어봤어?",
+    "scriptId" : "06999",
+    "fileNm" : "일반남여_일반통합05_F_joosik3632_19_수도권_실내_06999.wav",
+    "recrdTime" : "4.160",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-04 19:11:38",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "혼족을 위한 지원 정책"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "joosik3632",
+    "age" : 19
+  }
+}

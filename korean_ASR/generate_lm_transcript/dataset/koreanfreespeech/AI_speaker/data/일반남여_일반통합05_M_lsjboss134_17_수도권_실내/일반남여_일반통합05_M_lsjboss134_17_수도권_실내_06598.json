@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "종금? 엠엠에프? 다 생소한 단어들이네 .(NO:)",
+    "scriptId" : "06598",
+    "fileNm" : "일반남여_일반통합05_M_lsjboss134_17_수도권_실내_06598.wav",
+    "recrdTime" : "6.440",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-06 13:21:24",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "CMA 통장이 뭐야"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "lsjboss134",
+    "age" : 17
+  }
+}

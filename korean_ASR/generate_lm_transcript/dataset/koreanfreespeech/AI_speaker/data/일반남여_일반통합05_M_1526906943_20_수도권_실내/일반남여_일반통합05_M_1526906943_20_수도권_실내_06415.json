@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "비행기 안에서 술 마신 거 아니야?",
+    "scriptId" : "일반통합-06415",
+    "fileNm" : "일반남여_일반통합05_M_1526906943_20_수도권_실내_06415.wav",
+    "recrdTime" : "3.410",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-09 22:46:02",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "해외에서 시차 적응 잘하는 방법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1526906943",
+    "age" : 20
+  }
+}

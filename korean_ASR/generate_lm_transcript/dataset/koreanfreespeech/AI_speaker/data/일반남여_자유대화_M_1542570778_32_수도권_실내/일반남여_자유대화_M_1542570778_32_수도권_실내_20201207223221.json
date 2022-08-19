@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "스크립트 한 거는 한 세트 다하신 다음에 신청을 하시면은 이제 앞으로 다른 작업은 추가로 진행할 수 없어요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1542570778_32_수도권_실내_20201207223221.wav",
+    "recrdTime" : "12.110",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-07 22:32:23",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "녹음"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1542570778",
+    "age" : 32
+  }
+}

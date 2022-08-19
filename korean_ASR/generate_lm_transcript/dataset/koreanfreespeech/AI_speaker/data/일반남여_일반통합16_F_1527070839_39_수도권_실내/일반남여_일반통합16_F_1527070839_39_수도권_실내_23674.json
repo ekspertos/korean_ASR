@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그 대나무에 매달린 물건이 간판 역할을 하는 꺼이베오야 ",
+    "scriptId" : "일반통합-23674",
+    "fileNm" : "일반남여_일반통합16_F_1527070839_39_수도권_실내_23674.wav",
+    "recrdTime" : "6.830",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-12 00:41:37",
+    "scriptSetNo" : "T_일반통합_16"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "세계의 시장"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1527070839",
+    "age" : 39
+  }
+}

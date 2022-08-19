@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "재미난 산타 인형부터 과일이 담겨있는 양초까지 크리스마스 소품이 가득해",
+    "scriptId" : "일반통합-23697",
+    "fileNm" : "일반남여_일반통합15_F_1528442936_33_경상_실내_23697.wav",
+    "recrdTime" : "7.850",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-11 14:31:54",
+    "scriptSetNo" : "T_일반통합_15"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "세계의 시장"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1528442936",
+    "age" : 33
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "이러한 문제점은 기능어의 정의에서도 볼 수 있다 ",
+    "scriptId" : "일반통합-17602",
+    "fileNm" : "일반남여_일반통합12_M_1527875425_39_수도권_실내_17602.wav",
+    "recrdTime" : "6.400",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-23 15:34:09",
+    "scriptSetNo" : "T_일반통합_12"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527875425",
+    "age" : 39
+  }
+}

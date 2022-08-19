@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "예술은 본질적으로 아름답고 속성적으로 진실한 것이다 ",
+    "scriptId" : "일반통합-15755",
+    "fileNm" : "일반남여_일반통합12_M_1525659786_29_수도권_실내_15755.wav",
+    "recrdTime" : "6.060",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-12 00:00:54",
+    "scriptSetNo" : "T_일반통합_12"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1525659786",
+    "age" : 29
+  }
+}

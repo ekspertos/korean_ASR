@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "속상해 죽겠어.",
+    "scriptId" : "06313",
+    "fileNm" : "일반남여_일반통합05_F_gyubin85877024_18_수도권_실내_06313.wav",
+    "recrdTime" : "4.640",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-12 15:31:03",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "장마철 젖은 물건 관리하기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "gyubin85877024",
+    "age" : 18
+  }
+}

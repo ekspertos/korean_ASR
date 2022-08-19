@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그러다 보면 조금씩 익숙해질 거고 부담이 없어질 때 횟수를 늘리면 되거든",
+    "scriptId" : "일반통합-09596",
+    "fileNm" : "일반남여_일반통합08_F_1526758068_19_수도권_실내_09596.wav",
+    "recrdTime" : "7.930",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-11 04:31:32",
+    "scriptSetNo" : "T_일반통합_8"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "가계부 쓰기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526758068",
+    "age" : 19
+  }
+}

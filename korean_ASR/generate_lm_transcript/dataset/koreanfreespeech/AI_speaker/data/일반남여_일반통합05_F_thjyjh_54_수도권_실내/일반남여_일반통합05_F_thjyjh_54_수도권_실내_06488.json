@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "한 잔에 삼백 원이나 할인이 돼",
+    "scriptId" : "06488",
+    "fileNm" : "일반남여_일반통합05_F_thjyjh_54_수도권_실내_06488.wav",
+    "recrdTime" : "4.360",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-12 15:43:03",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "커피 싸게 마시는 방법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "thjyjh",
+    "age" : 54
+  }
+}

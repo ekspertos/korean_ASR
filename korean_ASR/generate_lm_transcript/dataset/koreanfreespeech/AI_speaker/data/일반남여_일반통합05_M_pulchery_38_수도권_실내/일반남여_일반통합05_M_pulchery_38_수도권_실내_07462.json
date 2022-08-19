@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(NO:) 병원에서는 의사의 처방을 따라야 한다",
+    "scriptId" : "07462",
+    "fileNm" : "일반남여_일반통합05_M_pulchery_38_수도권_실내_07462.wav",
+    "recrdTime" : "5.520",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-13 09:23:57",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "호캉스 즐기기 "
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "pulchery",
+    "age" : 38
+  }
+}

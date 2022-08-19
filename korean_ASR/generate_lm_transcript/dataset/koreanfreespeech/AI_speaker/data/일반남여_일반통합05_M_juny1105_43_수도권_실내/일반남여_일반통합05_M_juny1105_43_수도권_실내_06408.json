@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "겨울 난 자동차 살펴 보셨나요",
+    "scriptId" : "06408",
+    "fileNm" : "일반남여_일반통합05_M_juny1105_43_수도권_실내_06408.wav",
+    "recrdTime" : "5.800",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-11 13:06:57",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "juny1105",
+    "age" : 43
+  }
+}

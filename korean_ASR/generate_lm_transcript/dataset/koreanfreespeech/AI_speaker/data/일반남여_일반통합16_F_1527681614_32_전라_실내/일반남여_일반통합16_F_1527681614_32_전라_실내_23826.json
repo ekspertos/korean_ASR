@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "넌 밀떡파야 쌀떡파야",
+    "scriptId" : "일반통합-23826",
+    "fileNm" : "일반남여_일반통합16_F_1527681614_32_전라_실내_23826.wav",
+    "recrdTime" : "3.240",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-12 13:51:12",
+    "scriptSetNo" : "T_일반통합_16"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "전라",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "떡볶이에 관하여 "
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1527681614",
+    "age" : 32
+  }
+}

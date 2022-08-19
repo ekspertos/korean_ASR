@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "너무 좋아서 결혼 십주년이 될 때 오자는 얘기를 많이 했어요",
+    "scriptId" : "일반통합-19867",
+    "fileNm" : "일반남여_일반통합13_M_1526358925_24_수도권_실내_19867.wav",
+    "recrdTime" : "4.780",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-10 16:34:16",
+    "scriptSetNo" : "T_일반통합_13"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "아이와 함께 한 해외여행 Ⅱ"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1526358925",
+    "age" : 24
+  }
+}

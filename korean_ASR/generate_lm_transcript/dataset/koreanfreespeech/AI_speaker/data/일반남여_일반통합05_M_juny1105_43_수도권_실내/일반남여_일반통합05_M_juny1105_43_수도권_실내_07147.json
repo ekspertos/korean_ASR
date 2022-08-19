@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "이렇게 효과적인 방법을 알면서도 우리 집 싱크대는 왜 매일 더러운 걸까 (SN:)",
+    "scriptId" : "07147",
+    "fileNm" : "일반남여_일반통합05_M_juny1105_43_수도권_실내_07147.wav",
+    "recrdTime" : "6.600",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-12 00:06:52",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "김빠진 콜라 활용법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "juny1105",
+    "age" : 43
+  }
+}

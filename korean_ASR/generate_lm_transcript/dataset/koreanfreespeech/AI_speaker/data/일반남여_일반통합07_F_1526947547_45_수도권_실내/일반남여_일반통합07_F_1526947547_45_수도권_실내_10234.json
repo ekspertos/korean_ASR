@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "근데 바람피우는 남편 (SP:사진) 찍었대 아주 제대로",
+    "scriptId" : "일반통합-10234",
+    "fileNm" : "일반남여_일반통합07_F_1526947547_45_수도권_실내_10234.wav",
+    "recrdTime" : "5.630",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-16 14:57:02",
+    "scriptSetNo" : "T_일반통합_7"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "아는 집 이혼 이야기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526947547",
+    "age" : 45
+  }
+}

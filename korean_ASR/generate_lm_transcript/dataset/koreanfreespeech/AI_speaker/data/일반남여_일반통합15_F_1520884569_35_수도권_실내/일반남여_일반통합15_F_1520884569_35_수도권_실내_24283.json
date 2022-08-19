@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그러니까 시간이 천천히  슬로우 모션처럼 (SN:)흘러가는 것 같이 느껴지더라",
+    "scriptId" : "일반통합-24283",
+    "fileNm" : "일반남여_일반통합15_F_1520884569_35_수도권_실내_24283.wav",
+    "recrdTime" : "6.140",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-05 23:43:40",
+    "scriptSetNo" : "T_일반통합_15"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "소개팅 후기 2"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1520884569",
+    "age" : 35
+  }
+}

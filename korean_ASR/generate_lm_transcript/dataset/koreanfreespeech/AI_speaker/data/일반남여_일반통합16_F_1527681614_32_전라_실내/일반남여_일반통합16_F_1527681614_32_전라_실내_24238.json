@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "아니 다른 차도 맛있다고 그래서 맛보여 주고 싶었대",
+    "scriptId" : "일반통합-24238",
+    "fileNm" : "일반남여_일반통합16_F_1527681614_32_전라_실내_24238.wav",
+    "recrdTime" : "4.522",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-16 23:05:38",
+    "scriptSetNo" : "T_일반통합_16"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "전라",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "소개팅 후기 1"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1527681614",
+    "age" : 32
+  }
+}

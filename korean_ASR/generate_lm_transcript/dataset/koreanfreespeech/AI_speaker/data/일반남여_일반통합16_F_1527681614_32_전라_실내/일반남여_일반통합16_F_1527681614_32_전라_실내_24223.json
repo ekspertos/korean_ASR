@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "나도 몰랐어 근데 웃는 인상이 좋아서 그런가 그리고 안웃기면 바로 미안하대",
+    "scriptId" : "일반통합-24223",
+    "fileNm" : "일반남여_일반통합16_F_1527681614_32_전라_실내_24223.wav",
+    "recrdTime" : "8.100",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-16 00:20:51",
+    "scriptSetNo" : "T_일반통합_16"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "전라",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "소개팅 후기 1"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1527681614",
+    "age" : 32
+  }
+}

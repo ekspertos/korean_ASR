@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "월요일 출근이 정말 가장 하기 싫은 것 같아요 벌써 월요일이 계속 다가오고 있다니 토요일도 지금 벌써 열시 삼십 삼분 이라는 사실이 안타까워",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1542570778_32_수도권_실내_20201205223323.wav",
+    "recrdTime" : "14.250",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-05 22:33:25",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "#자유"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1542570778",
+    "age" : 32
+  }
+}

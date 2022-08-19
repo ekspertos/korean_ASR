@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "이렇게 또 꽁짜로 주니까 더 먹어야 되겠네요",
+    "scriptId" : "일반통합-13408",
+    "fileNm" : "일반남여_일반통합10_M_1527076639_24_수도권_실외_13408.wav",
+    "recrdTime" : "5.120",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-11 00:08:04",
+    "scriptSetNo" : "T_일반통합_10"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실외",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527076639",
+    "age" : 24
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "저는 그곳이 알고싶다 팬이라서 그것이 알고 싶다를 보러면 아직도 몇시간 남아 있어서 다른 채널을 봐야지 되겠네요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1533683176_38_수도권_실내_20201121213319.wav",
+    "recrdTime" : "15.020",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-21 21:33:23",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "저녁 식단"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1533683176",
+    "age" : 38
+  }
+}

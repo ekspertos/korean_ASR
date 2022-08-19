@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "과학자들은 침팬지를 원숭이들 가운데 가장 인간에 가까운 동물이라고 생각했다 ",
+    "scriptId" : "일반통합-19404",
+    "fileNm" : "일반남여_일반통합12_M_1527875425_39_수도권_실내_19404.wav",
+    "recrdTime" : "7.170",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-26 20:23:33",
+    "scriptSetNo" : "T_일반통합_12"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527875425",
+    "age" : 39
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "충치 치료 때문에 또 병원에 가야 하는데 노이로제가 걸릴 지경이었거든",
+    "scriptId" : "일반통합-09753",
+    "fileNm" : "일반남여_일반통합07_F_1526744676_45_수도권_실내_09753.wav",
+    "recrdTime" : "6.310",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-16 11:34:21",
+    "scriptSetNo" : "T_일반통합_7"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "치과 공포증 극복하기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526744676",
+    "age" : 45
+  }
+}

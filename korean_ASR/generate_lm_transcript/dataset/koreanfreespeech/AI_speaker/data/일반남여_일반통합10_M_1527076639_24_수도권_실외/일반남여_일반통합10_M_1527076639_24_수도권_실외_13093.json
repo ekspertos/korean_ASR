@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그럴리가 연료 주입구 주변도 체크할 부분 중 하나야",
+    "scriptId" : "일반통합-13093",
+    "fileNm" : "일반남여_일반통합10_M_1527076639_24_수도권_실외_13093.wav",
+    "recrdTime" : "5.720",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-10 19:59:21",
+    "scriptSetNo" : "T_일반통합_10"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실외",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "중고차 구매시 침수 차량 구별법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527076639",
+    "age" : 24
+  }
+}

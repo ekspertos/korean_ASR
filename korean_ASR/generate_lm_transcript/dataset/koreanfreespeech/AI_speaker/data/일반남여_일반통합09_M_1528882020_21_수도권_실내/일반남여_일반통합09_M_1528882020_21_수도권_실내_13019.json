@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그러니까 근데 제일 먼저 좋은 날짜로 턱 하니 잡은 것도 기가 막히는데 ",
+    "scriptId" : "일반통합-13019",
+    "fileNm" : "일반남여_일반통합09_M_1528882020_21_수도권_실내_13019.wav",
+    "recrdTime" : "5.970",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-14 05:20:30",
+    "scriptSetNo" : "T_일반통합_9"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "나도 꼰대인 걸까?"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1528882020",
+    "age" : 21
+  }
+}

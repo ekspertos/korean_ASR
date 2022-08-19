@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(NO:)(FP:어)저 마션 보고 싶었는데 아직 안 봐서 궁금했어요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1533897881_31_수도권_실내_20201123003147.wav",
+    "recrdTime" : "7.170",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-23 00:31:48",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "#영화"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1533897881",
+    "age" : 31
+  }
+}

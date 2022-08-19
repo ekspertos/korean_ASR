@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "어디서 들었는데 코피가 날 때도 냉찜질이 효과가 있다더라",
+    "scriptId" : "01833",
+    "fileNm" : "일반남여_일반통합02_F_JYH00_51_수도권_녹음실_01833.wavp",
+    "recrdTime" : "6.590",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-10-06 13:15:44",
+    "scriptSetNo" : "일반통합02"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "녹음실",
+    "colctUnitCode" : "스튜디오",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AI스피커",
+    "convrsThema" : "찜질 증상에 맞게 하자"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "JYH00",
+    "age" : 51
+  }
+}

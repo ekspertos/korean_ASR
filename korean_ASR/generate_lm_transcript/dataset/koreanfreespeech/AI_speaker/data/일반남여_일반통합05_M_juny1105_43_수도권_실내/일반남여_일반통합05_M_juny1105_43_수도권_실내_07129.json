@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "김 빠진 콜라가 고기를 연하게 한다고 어떻게",
+    "scriptId" : "07129",
+    "fileNm" : "일반남여_일반통합05_M_juny1105_43_수도권_실내_07129.wav",
+    "recrdTime" : "6.520",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-12 00:01:25",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "김빠진 콜라 활용법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "juny1105",
+    "age" : 43
+  }
+}

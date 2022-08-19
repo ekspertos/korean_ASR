@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그러겠네요 이번 장마는 유독 길어서 제 주변에서도 제습기 사는 사람들이 많더라고요",
+    "scriptId" : "일반통합-20070",
+    "fileNm" : "일반남여_일반통합14_F_1526829062_42_경상_실내_20070.wav",
+    "recrdTime" : "6.910",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-27 20:24:22",
+    "scriptSetNo" : "T_일반통합_14"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "날씨 변화로 달라진 것들"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526829062",
+    "age" : 42
+  }
+}

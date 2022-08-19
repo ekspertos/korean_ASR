@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "설명을 잘해주셔서 그런가 기분이 좋네요 이색적인 특징을 지닌 사람이라고 받아들일게요",
+    "scriptId" : "일반통합-15797",
+    "fileNm" : "일반남여_일반통합11_F_1527167301_42_수도권_실내_15797.wav",
+    "recrdTime" : "9.380",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-14 22:38:12",
+    "scriptSetNo" : "T_일반통합_11"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "데이트"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1527167301",
+    "age" : 42
+  }
+}

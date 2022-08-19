@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "이번에 아이패드인가 아이폰 (SP:맥) 맥북인가 그거 가로수길에서 (SP:이에) 에이에스 사건 터졌잖아요 그래서 좀 불안해요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1542783989_25_전라_실내_20201130230153.wav",
+    "recrdTime" : "11.860",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-30 23:01:55",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "전라",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "#자유"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1542783989",
+    "age" : 25
+  }
+}

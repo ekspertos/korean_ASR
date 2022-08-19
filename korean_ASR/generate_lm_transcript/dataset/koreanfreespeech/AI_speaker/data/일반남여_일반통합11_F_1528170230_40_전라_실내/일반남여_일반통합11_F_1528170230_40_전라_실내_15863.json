@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(NO:)어우 당 땡겨",
+    "scriptId" : "일반통합-15863",
+    "fileNm" : "일반남여_일반통합11_F_1528170230_40_전라_실내_15863.wav",
+    "recrdTime" : "3.160",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-10 23:50:49",
+    "scriptSetNo" : "T_일반통합_11"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "전라",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "단맛에 대한 오해와 진실"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1528170230",
+    "age" : 40
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(NO:) 근데 우리 가족들은 다 고기를 워낙 좋아해서",
+    "scriptId" : "06822",
+    "fileNm" : "일반남여_일반통합05_M_dbtmd8301_20_수도권_실내_06822.wav",
+    "recrdTime" : "5.560",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-12 11:15:52",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "변비에 좋은 음식"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "dbtmd8301",
+    "age" : 20
+  }
+}

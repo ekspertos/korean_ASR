@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "원래 계몽은 세계를 마술에서 해방시키고 탈주술화하는 것이었다 ",
+    "scriptId" : "일반통합-16004",
+    "fileNm" : "일반남여_일반통합11_F_1527844391_41_경상_실내_16004.wav",
+    "recrdTime" : "7.170",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-18 14:18:58",
+    "scriptSetNo" : "T_일반통합_11"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1527844391",
+    "age" : 41
+  }
+}

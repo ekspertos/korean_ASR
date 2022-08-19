@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(NO:)응. 반만 으깨서 쉐이빙 크림에 섞어주고 반이 남으면 그건 립밤을 만들면 돼.(NO:)",
+    "scriptId" : "06731",
+    "fileNm" : "일반남여_일반통합05_M_hfs68_54_수도권_실내_06731.wav",
+    "recrdTime" : "10.120",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-05 14:23:56",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "아보카도, 피부에 양보하세요"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "hfs68",
+    "age" : 54
+  }
+}

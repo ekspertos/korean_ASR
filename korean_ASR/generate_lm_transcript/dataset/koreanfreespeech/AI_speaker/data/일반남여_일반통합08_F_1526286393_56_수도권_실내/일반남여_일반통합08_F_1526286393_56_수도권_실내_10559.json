@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그렇게 하는 가운데 인류의 문화는 서서히 발달해왔다 ",
+    "scriptId" : "일반통합-10559",
+    "fileNm" : "일반남여_일반통합08_F_1526286393_56_수도권_실내_10559.wav",
+    "recrdTime" : "3.580",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-01 21:48:41",
+    "scriptSetNo" : "T_일반통합_8"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526286393",
+    "age" : 56
+  }
+}

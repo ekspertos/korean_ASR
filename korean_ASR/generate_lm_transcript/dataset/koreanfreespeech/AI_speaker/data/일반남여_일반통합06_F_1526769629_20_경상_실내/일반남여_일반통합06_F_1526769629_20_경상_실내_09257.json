@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "구혼자들보다는 오히려 자네 모친이 나빴지 ",
+    "scriptId" : "일반통합-09257",
+    "fileNm" : "일반남여_일반통합06_F_1526769629_20_경상_실내_09257.wav",
+    "recrdTime" : "4.090",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-01 13:16:19",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526769629",
+    "age" : 20
+  }
+}

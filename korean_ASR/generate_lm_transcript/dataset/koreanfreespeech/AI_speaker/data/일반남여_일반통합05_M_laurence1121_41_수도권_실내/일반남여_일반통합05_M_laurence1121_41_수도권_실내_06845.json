@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "화장실에 자주 갈 수만 있어도 삼킬로그램 정도는 그냥 빠질 거 같은 느낌이야",
+    "scriptId" : "06845",
+    "fileNm" : "일반남여_일반통합05_M_laurence1121_41_수도권_실내_06845.wav",
+    "recrdTime" : "7.760",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-25 15:50:43",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "변비에 좋은 음식"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "laurence1121",
+    "age" : 41
+  }
+}

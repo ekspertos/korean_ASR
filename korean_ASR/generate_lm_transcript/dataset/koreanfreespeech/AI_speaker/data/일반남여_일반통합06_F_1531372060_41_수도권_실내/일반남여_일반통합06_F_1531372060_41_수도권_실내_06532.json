@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "숙소 종류는 세 가지가 있는데 집 전체 개인실 다인실이야",
+    "scriptId" : "일반통합-06532",
+    "fileNm" : "일반남여_일반통합06_F_1531372060_41_수도권_실내_06532.wav",
+    "recrdTime" : "6.400",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-14 01:39:32",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "에어비앤비 실패하지 않고 고르는 법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1531372060",
+    "age" : 41
+  }
+}

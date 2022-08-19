@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(SN:)그러니까 넌 그게 되는데 나는 그게 안되더라고(SN:) 그래서 그냥 이렇게 살았지",
+    "scriptId" : "일반통합-24301",
+    "fileNm" : "일반남여_일반통합15_F_1520884569_35_수도권_실내_24301.wav",
+    "recrdTime" : "6.570",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-05 23:45:04",
+    "scriptSetNo" : "T_일반통합_15"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "소개팅 후기 2"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1520884569",
+    "age" : 35
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "로마 카톨릭의 성례된 제도는 비성서적이다 ",
+    "scriptId" : "일반통합-18790",
+    "fileNm" : "일반남여_일반통합11_F_1527000216_43_수도권_실내_18790.wav",
+    "recrdTime" : "4.010",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-30 22:32:40",
+    "scriptSetNo" : "T_일반통합_11"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1527000216",
+    "age" : 43
+  }
+}

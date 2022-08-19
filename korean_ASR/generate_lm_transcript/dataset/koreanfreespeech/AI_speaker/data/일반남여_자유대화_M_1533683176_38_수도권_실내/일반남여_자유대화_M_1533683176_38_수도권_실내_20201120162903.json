@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "우리나라는 참 아이돌 가수가 정말 많고 다른 여러 나라 가수 들보다 뛰어나고 인기가 많은 것 같아요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1533683176_38_수도권_실내_20201120162903.wav",
+    "recrdTime" : "15.020",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-20 16:29:06",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "#음악"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1533683176",
+    "age" : 38
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(NO:)앞바퀴랑 왼쪽 라인 이렇게",
+    "scriptId" : "07083",
+    "fileNm" : "일반남여_일반통합05_F_hangyeol1379_19_수도권_실내_07083.wav",
+    "recrdTime" : "5.240",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-12 11:15:33",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "운전 초보자 주차하기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "hangyeol1379",
+    "age" : 19
+  }
+}

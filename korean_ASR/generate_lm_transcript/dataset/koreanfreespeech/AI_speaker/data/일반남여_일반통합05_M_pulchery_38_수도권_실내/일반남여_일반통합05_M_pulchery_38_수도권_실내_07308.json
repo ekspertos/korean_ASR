@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "요즘 나도 엄마 레시피 하나씩 정리해",
+    "scriptId" : "07308",
+    "fileNm" : "일반남여_일반통합05_M_pulchery_38_수도권_실내_07308.wav",
+    "recrdTime" : "5.600",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-11 17:03:08",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "요리 개발하기 "
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "pulchery",
+    "age" : 38
+  }
+}

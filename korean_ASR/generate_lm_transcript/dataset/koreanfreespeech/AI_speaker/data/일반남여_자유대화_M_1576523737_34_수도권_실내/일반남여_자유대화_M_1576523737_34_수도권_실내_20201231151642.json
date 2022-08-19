@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "다들 경찰들이 벌금을 더 (SP:걸어) 갈 거라고 생각하시지만 그것보다 더 중요한 문제는 보험사들의 이득인 것 같아요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1576523737_34_수도권_실내_20201231151642.wav",
+    "recrdTime" : "10.580",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 15:16:45",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "구디"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1576523737",
+    "age" : 34
+  }
+}

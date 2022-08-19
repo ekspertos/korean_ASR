@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "개인적으로도 너무 좋아해서 시즌 투가 반영이 되었으면 하는데 아직까지 방향이 안되고 있네요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1533683176_38_수도권_실내_20201209084427.wav",
+    "recrdTime" : "10.750",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-09 08:44:32",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "영화 문학 성격 뭐든"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1533683176",
+    "age" : 38
+  }
+}

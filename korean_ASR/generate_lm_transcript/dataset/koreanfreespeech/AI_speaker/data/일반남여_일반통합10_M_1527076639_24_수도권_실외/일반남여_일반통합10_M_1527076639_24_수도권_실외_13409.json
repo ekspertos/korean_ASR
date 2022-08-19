@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "자녀를 가르치는 일을 반드시 엄격하게 하라 ",
+    "scriptId" : "일반통합-13409",
+    "fileNm" : "일반남여_일반통합10_M_1527076639_24_수도권_실외_13409.wav",
+    "recrdTime" : "5.460",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-11 00:08:15",
+    "scriptSetNo" : "T_일반통합_10"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실외",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527076639",
+    "age" : 24
+  }
+}

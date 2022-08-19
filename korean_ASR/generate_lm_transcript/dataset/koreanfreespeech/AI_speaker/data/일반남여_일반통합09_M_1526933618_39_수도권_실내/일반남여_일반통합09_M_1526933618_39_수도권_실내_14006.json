@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "잘못 쓰여진 주소는 얼마든지 있다 ",
+    "scriptId" : "일반통합-14006",
+    "fileNm" : "일반남여_일반통합09_M_1526933618_39_수도권_실내_14006.wav",
+    "recrdTime" : "3.580",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-24 18:43:01",
+    "scriptSetNo" : "T_일반통합_9"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1526933618",
+    "age" : 39
+  }
+}

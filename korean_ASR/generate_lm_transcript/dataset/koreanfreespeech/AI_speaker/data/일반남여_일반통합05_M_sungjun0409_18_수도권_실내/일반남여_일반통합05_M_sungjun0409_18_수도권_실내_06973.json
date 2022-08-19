@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "최근에는 불필요한 감정 소모를 없애고 편리한 생활을 하고 싶어서 혼족하는 사람들이 많대.",
+    "scriptId" : "06973",
+    "fileNm" : "일반남여_일반통합05_M_sungjun0409_18_수도권_실내_06973.wav",
+    "recrdTime" : "8.120",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-10 23:05:56",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "혼족을 위한 지원 정책"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "sungjun0409",
+    "age" : 18
+  }
+}

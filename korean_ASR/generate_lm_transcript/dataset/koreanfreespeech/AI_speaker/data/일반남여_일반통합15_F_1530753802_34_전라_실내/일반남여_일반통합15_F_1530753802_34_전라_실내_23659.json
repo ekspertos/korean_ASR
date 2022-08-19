@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "어디 크레페 뿐인가 일본이 또 유명한 디저트가 은근 많지",
+    "scriptId" : "일반통합-23659",
+    "fileNm" : "일반남여_일반통합15_F_1530753802_34_전라_실내_23659.wav",
+    "recrdTime" : "5.970",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-16 16:19:42",
+    "scriptSetNo" : "T_일반통합_15"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "전라",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "세계의 디저트"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1530753802",
+    "age" : 34
+  }
+}

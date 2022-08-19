@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "여름철에 제습제 사는데 들어가는 돈도 만만치 않은데 좋은 방법이네",
+    "scriptId" : "일반통합-06932",
+    "fileNm" : "일반남여_일반통합06_F_1527838744_47_충청_실내_06932.wav",
+    "recrdTime" : "8.530",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-11 18:58:01",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "커피 찌꺼기 활용법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1527838744",
+    "age" : 47
+  }
+}

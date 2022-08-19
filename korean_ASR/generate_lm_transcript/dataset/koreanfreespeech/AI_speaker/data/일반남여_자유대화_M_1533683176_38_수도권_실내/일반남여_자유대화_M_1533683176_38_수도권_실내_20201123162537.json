@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "날씨도 추워지고 일주일 중 월요일 어떻게 보자며 시작하는 한 주에 첫번째 날이라 그런네",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1533683176_38_수도권_실내_20201123162537.wav",
+    "recrdTime" : "15.020",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-23 16:25:41",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "저녁 식단"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1533683176",
+    "age" : 38
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "엄마 아빠는 바깥에서(SP:) 좀 기다리고 계세요 제가 뭐 상 받는 것도 아니니까 같이 안 들어가셔도 돼요",
+    "scriptId" : "일반통합-12772",
+    "fileNm" : "일반남여_일반통합10_M_1524868190_31_수도권_실내_12772.wav",
+    "recrdTime" : "6.140",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-09 15:11:04",
+    "scriptSetNo" : "T_일반통합_10"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "대학 졸업식장에서 친구와"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1524868190",
+    "age" : 31
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "어 포(SP:정)도 정말 고급스럽고 향이 너무너무 좋았어",
+    "scriptId" : "07249",
+    "fileNm" : "일반남여_일반통합05_M_fkghghfk0987_18_수도권_실내_07249.wav",
+    "recrdTime" : "5.640",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-12 10:07:28",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "홍차 마시기 "
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "fkghghfk0987",
+    "age" : 18
+  }
+}

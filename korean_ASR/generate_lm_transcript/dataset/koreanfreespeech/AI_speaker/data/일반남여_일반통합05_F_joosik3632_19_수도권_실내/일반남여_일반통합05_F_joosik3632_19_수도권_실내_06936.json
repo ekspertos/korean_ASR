@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "나도 몰랐는데 커피 찌꺼기에는 무기질과 단백질이 들어있어서 비료로 사용된대",
+    "scriptId" : "06936",
+    "fileNm" : "일반남여_일반통합05_F_joosik3632_19_수도권_실내_06936.wav",
+    "recrdTime" : "8.080",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-04 19:02:21",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "커피 찌꺼기 활용법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "joosik3632",
+    "age" : 19
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "저는 하와이랑 뉴질랜드 영국 그리고 스위스 이 나라들이 되게 가보고 싶어요 그런데 요즘에 코로나 때문에 도저히 갈 엄두가 안 나죠",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1542570778_32_수도권_실내_20201208175633.wav",
+    "recrdTime" : "14.330",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-08 17:56:35",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "#여행"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1542570778",
+    "age" : 32
+  }
+}

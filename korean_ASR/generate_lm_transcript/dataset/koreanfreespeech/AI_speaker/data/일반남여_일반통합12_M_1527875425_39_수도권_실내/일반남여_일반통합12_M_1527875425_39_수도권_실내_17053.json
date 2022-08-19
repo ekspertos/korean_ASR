@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(SN:)번증법이란 이러한 의미에서 가장 구체적인 존재의 발전 논리이다 ",
+    "scriptId" : "일반통합-17053",
+    "fileNm" : "일반남여_일반통합12_M_1527875425_39_수도권_실내_17053.wav",
+    "recrdTime" : "7.510",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-22 19:01:36",
+    "scriptSetNo" : "T_일반통합_12"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527875425",
+    "age" : 39
+  }
+}

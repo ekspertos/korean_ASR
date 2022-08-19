@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "신문지가 습기를 먹는다는 걸 미리 알았으면 좋았을 텐데.",
+    "scriptId" : "06340",
+    "fileNm" : "일반남여_일반통합05_F_kyj031117_19_수도권_실내_06340.wav",
+    "recrdTime" : "6.360",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-04 15:27:32",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "장마철 젖은 물건 관리하기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "kyj031117",
+    "age" : 19
+  }
+}

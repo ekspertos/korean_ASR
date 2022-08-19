@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "저도 (SP:꼭)통영 진짜 꼭 한번 가보고 싶어요 통영 바다가 정말 예쁜 거 같거든요 한번도 가보지 못했지만 (SP:인)스타나 사진이나 영상 같은 거 보면은 정말 가고 싶더라고요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1542570778_32_수도권_실내_20201209190719.wav",
+    "recrdTime" : "14.250",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-09 19:07:22",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "#여행"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1542570778",
+    "age" : 32
+  }
+}

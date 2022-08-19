@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "잠을 많이 자서 눈이 붓는 줄 알았는데 건강과 관련이 있는 줄은 몰랐어",
+    "scriptId" : "일반통합-24133",
+    "fileNm" : "일반남여_일반통합16_F_1527681614_32_전라_실내_24133.wav",
+    "recrdTime" : "6.830",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-16 00:05:15",
+    "scriptSetNo" : "T_일반통합_16"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "전라",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "눈으로 체크할 수 있는 질병"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1527681614",
+    "age" : 32
+  }
+}

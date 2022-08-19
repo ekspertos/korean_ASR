@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "오늘은 시원하게 열무국수를 먹을까 합니다 그리고 떡갈비도 같이 먹을까 합니다",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1533683176_38_수도권_실내_20201120173920.wav",
+    "recrdTime" : "15.020",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-20 17:39:22",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "저녁 식단"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1533683176",
+    "age" : 38
+  }
+}

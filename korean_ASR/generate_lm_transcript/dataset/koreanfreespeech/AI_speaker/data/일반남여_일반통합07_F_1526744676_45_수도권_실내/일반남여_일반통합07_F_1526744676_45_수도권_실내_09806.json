@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "명심할게 그나저나 좀 생각해봐 줘",
+    "scriptId" : "일반통합-09806",
+    "fileNm" : "일반남여_일반통합07_F_1526744676_45_수도권_실내_09806.wav",
+    "recrdTime" : "5.030",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-16 11:39:37",
+    "scriptSetNo" : "T_일반통합_7"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "아버지 봉양하기 "
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526744676",
+    "age" : 45
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "인터스텔라 영화 좋아하시는 분 있나요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1534671772_23_수도권_실내_20201118000022.wav",
+    "recrdTime" : "4.270",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-18 00:00:23",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "#영화"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1534671772",
+    "age" : 23
+  }
+}

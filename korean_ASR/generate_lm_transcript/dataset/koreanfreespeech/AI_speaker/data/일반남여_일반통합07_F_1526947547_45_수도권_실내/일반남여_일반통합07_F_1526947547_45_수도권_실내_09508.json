@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "듣기만 해도 속이 다 시원하네 고마워",
+    "scriptId" : "일반통합-09508",
+    "fileNm" : "일반남여_일반통합07_F_1526947547_45_수도권_실내_09508.wav",
+    "recrdTime" : "4.010",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-09 19:09:26",
+    "scriptSetNo" : "T_일반통합_7"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "욕실화 힘들이지 않고 세탁하는 법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526947547",
+    "age" : 45
+  }
+}

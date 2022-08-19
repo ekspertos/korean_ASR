@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "저는 몇 달 전에 에니어그램을 검사를 해봤어요 멘토카페 그러니까 멘토힐링카페에서 여자친구와 함께 방문 했었거든요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1542570778_32_수도권_실내_20201207225911.wav",
+    "recrdTime" : "13.740",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-07 22:59:13",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "취미생활"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1542570778",
+    "age" : 32
+  }
+}

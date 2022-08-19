@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "이건 이제 좀 고급 단계인데 점심 메뉴는 내가 마음대로 골라도 되는 거지",
+    "scriptId" : "일반통합-13174",
+    "fileNm" : "일반남여_일반통합10_M_1527076639_24_수도권_실외_13174.wav",
+    "recrdTime" : "7.590",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-10 21:10:15",
+    "scriptSetNo" : "T_일반통합_10"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실외",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "썸녀의 호감을 얻고 싶다면?"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527076639",
+    "age" : 24
+  }
+}

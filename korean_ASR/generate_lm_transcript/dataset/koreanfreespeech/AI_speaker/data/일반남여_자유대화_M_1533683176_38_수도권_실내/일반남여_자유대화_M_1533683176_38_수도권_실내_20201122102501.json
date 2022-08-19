@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "하겠습니다 그래야 이 소중한 일요일을 (SP:좋게 )기분좋게 보낼 수 있어요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1533683176_38_수도권_실내_20201122102501.wav",
+    "recrdTime" : "15.020",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-22 10:25:06",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "#음악"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1533683176",
+    "age" : 38
+  }
+}

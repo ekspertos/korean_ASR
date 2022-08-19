@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "음식점에 가면 항상 무엇을 먹을까 고민 했었는데 마땅한 음식이 없으면",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1533816289_38_수도권_실내_20201126195148.wav",
+    "recrdTime" : "15.020",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-26 19:51:51",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "Windows Server 2008 R2 / 7",
+    "convrsThema" : "#자유"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1533816289",
+    "age" : 38
+  }
+}

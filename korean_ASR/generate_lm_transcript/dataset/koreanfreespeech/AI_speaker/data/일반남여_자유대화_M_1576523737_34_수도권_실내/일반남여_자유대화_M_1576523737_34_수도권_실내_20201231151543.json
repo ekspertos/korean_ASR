@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "한편으로는 아이들을 기르는 입장이라 학교 주변에서 운전자들이 조금 더 조심하게 되는 계기가 될 것 같아 다행이라는 생각도 있어요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1576523737_34_수도권_실내_20201231151543.wav",
+    "recrdTime" : "11.090",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 15:15:46",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "구디"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1576523737",
+    "age" : 34
+  }
+}

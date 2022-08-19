@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "근데, 그건 좀 더 고민이 필요할 거 같애.",
+    "scriptId" : "06595",
+    "fileNm" : "일반남여_일반통합05_F_ss1122aabb_18_수도권_실내_06595.wav",
+    "recrdTime" : "5.160",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-13 18:12:38",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "CMA 통장이 뭐야"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "ss1122aabb",
+    "age" : 18
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그나저나 나 선글라스를 하나 사야할까봐.",
+    "scriptId" : "06876",
+    "fileNm" : "일반남여_일반통합05_F_joosik3632_19_수도권_실내_06876.wav",
+    "recrdTime" : "5.320",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-04 18:53:49",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "식초 활용법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "joosik3632",
+    "age" : 19
+  }
+}

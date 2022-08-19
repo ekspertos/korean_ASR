@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(SP:지난달)에 시작했으면 이제 두달째인데 포기는 이르지",
+    "scriptId" : "일반통합-09570",
+    "fileNm" : "일반남여_일반통합08_F_1526006809_42_수도권_실내_09570.wav",
+    "recrdTime" : "5.890",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-10 18:50:31",
+    "scriptSetNo" : "T_일반통합_8"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "가계부 쓰기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526006809",
+    "age" : 42
+  }
+}

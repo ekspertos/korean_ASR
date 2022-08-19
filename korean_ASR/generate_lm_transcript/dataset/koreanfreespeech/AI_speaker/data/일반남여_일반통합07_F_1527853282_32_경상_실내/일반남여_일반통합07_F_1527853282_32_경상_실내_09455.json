@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그 생각을 못했네 어쩐지 아무리 여드름 연고를 발라도 쉽게 낫지를 않더라고",
+    "scriptId" : "일반통합-09455",
+    "fileNm" : "일반남여_일반통합07_F_1527853282_32_경상_실내_09455.wav",
+    "recrdTime" : "7.250",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-10 23:44:13",
+    "scriptSetNo" : "T_일반통합_7"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "마스크 속 피부 관리"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1527853282",
+    "age" : 32
+  }
+}

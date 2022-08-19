@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "기술은 점점 좋아져서 차에 제한 속도는 점점 올라가는데 제한 속도를 낮추니 정말 답답 하네요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1576523737_34_수도권_실내_20201231151757.wav",
+    "recrdTime" : "9.130",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 15:18:00",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "구디"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1576523737",
+    "age" : 34
+  }
+}

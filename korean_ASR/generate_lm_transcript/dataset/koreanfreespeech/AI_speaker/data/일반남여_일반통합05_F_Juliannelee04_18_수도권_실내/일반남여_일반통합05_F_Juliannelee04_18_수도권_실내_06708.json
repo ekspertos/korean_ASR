@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(NO:) 네 지금 당장 깔게요",
+    "scriptId" : "06708",
+    "fileNm" : "일반남여_일반통합05_F_Juliannelee04_18_수도권_실내_06708.wav",
+    "recrdTime" : "4.280",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-09 18:47:42",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "일의 능률을 올려주는 휴대폰 어플"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "Juliannelee04",
+    "age" : 18
+  }
+}

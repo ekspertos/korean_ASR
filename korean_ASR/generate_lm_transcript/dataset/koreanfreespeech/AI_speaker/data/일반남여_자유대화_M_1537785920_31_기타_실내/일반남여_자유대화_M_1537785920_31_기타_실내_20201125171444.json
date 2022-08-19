@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "이천 사백개 끝내니까 칠만 칠천원 정도된것 같아요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1537785920_31_기타_실내_20201125171444.wav",
+    "recrdTime" : "6.480",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-25 17:14:47",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "기타",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "집"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1537785920",
+    "age" : 31
+  }
+}

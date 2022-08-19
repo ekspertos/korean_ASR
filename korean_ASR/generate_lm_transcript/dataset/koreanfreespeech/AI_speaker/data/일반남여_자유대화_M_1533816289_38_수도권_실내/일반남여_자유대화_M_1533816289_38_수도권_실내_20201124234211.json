@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "저는 뉴스를 자주 보려고 노력합니다 뉴스에서 요즘 어떤 일이 일어나는지 알 수 있으니까요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1533816289_38_수도권_실내_20201124234211.wav",
+    "recrdTime" : "14.860",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-24 23:42:12",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "Windows Server 2008 R2 / 7",
+    "convrsThema" : "#자유"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1533816289",
+    "age" : 38
+  }
+}

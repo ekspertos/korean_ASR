@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "마스크를 쓰고 올라 가시는데 내려 오시면 마스크를  벗습니다",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1543151530_28_기타_실내_20201130005042.wav",
+    "recrdTime" : "7.590",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-30 00:50:42",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "기타",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "취미생활"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1543151530",
+    "age" : 28
+  }
+}

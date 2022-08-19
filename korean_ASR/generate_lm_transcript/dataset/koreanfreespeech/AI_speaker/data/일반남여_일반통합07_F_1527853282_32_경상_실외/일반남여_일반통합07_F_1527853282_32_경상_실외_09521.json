@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "냉장고가 두개인데 더 이상 들어갈 데가 없다니까요",
+    "scriptId" : "일반통합-09521",
+    "fileNm" : "일반남여_일반통합07_F_1527853282_32_경상_실외_09521.wav",
+    "recrdTime" : "5.460",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-12 11:28:50",
+    "scriptSetNo" : "T_일반통합_7"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실외",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "냉장고 정리하기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1527853282",
+    "age" : 32
+  }
+}

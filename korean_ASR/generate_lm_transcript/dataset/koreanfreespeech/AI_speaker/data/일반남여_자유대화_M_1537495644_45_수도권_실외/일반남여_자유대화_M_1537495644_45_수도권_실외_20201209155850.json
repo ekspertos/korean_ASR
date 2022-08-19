@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "훌륭한 사람과 어리석은 사람의 차이는 불과 한 걸음 차이다",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1537495644_45_수도권_실외_20201209155850.wav",
+    "recrdTime" : "8.020",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-09 15:58:54",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실외",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "#외국명언 #국내명언"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1537495644",
+    "age" : 45
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "세째로는 언어 체계를 사회적 실체로 취급하는 견해이다 ",
+    "scriptId" : "일반통합-22258",
+    "fileNm" : "일반남여_일반통합14_F_1526829062_42_경상_실내_22258.wav",
+    "recrdTime" : "4.350",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-03 01:10:49",
+    "scriptSetNo" : "T_일반통합_14"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526829062",
+    "age" : 42
+  }
+}

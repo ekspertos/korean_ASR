@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그래 사는 건 어쨌든 선택의 문제니까 ",
+    "scriptId" : "일반통합-14856",
+    "fileNm" : "일반남여_일반통합10_M_1523896068_51_수도권_실외_14856.wav",
+    "recrdTime" : "3.240",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-16 11:11:32",
+    "scriptSetNo" : "T_일반통합_10"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실외",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "직장인의 투잡"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1523896068",
+    "age" : 51
+  }
+}

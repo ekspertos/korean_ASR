@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "아이들 학교 보내고 혼자서 음악 틀어놓고 집안일하던 그 조용한 시간이 너무 그리워",
+    "scriptId" : "일반통합-23810",
+    "fileNm" : "일반남여_일반통합15_F_1525658307_31_수도권_실내_23810.wav",
+    "recrdTime" : "8.190",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-09 17:38:01",
+    "scriptSetNo" : "T_일반통합_15"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "코로나가 종식된다면 나는"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1525658307",
+    "age" : 31
+  }
+}

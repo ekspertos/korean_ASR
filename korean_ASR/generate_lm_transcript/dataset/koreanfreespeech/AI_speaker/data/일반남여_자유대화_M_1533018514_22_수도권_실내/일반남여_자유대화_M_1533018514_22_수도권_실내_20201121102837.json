@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "주말인데 주말 같다고 느껴 지지가 않네요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1533018514_22_수도권_실내_20201121102837.wav",
+    "recrdTime" : "6.310",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-21 10:28:39",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "#일상 "
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1533018514",
+    "age" : 22
+  }
+}

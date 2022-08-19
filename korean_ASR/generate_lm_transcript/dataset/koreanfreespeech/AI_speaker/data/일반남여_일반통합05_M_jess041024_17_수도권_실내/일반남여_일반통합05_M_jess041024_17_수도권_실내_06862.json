@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "작년에도 (SP:걸렸는데) 왜 올해 하셨어요",
+    "scriptId" : "06862",
+    "fileNm" : "일반남여_일반통합05_M_jess041024_17_수도권_실내_06862.wav",
+    "recrdTime" : "3.320",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-09 16:55:44",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "jess041024",
+    "age" : 17
+  }
+}

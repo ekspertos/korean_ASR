@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "나도 뭔 게임하고 싶 뭔 게임하고 싶은데 무슨 게임",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1509868234_27_경상_실내_20201022185558.wav",
+    "recrdTime" : "15.020",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-10-22 09:55:59",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "기타-"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1509868234",
+    "age" : 27
+  }
+}

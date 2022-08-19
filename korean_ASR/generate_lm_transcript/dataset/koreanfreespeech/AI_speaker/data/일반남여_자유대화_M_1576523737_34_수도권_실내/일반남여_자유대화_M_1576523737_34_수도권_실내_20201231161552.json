@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "오히려 곰탕 국물은 조금 밍밍 한데도 김치가 너무 맛있어서 찾아가게 되는 집이 있는 것 같아요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1576523737_34_수도권_실내_20201231161552.wav",
+    "recrdTime" : "9.810",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 16:15:55",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "구디"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1576523737",
+    "age" : 34
+  }
+}

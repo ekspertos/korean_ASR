@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "장기간의 흡연이 원인으로 지목됐습니다",
+    "scriptId" : "일반통합-12860",
+    "fileNm" : "일반남여_일반통합10_M_1524868190_31_수도권_실내_12860.wav",
+    "recrdTime" : "4.860",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-10 14:18:09",
+    "scriptSetNo" : "T_일반통합_10"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1524868190",
+    "age" : 31
+  }
+}

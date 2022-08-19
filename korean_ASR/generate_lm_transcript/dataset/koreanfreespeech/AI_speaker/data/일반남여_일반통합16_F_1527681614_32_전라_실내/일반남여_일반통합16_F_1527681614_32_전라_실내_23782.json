@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그러게 한가한 주말에 도서관에서 시간 것도 괜찮은 힐링인데",
+    "scriptId" : "일반통합-23782",
+    "fileNm" : "일반남여_일반통합16_F_1527681614_32_전라_실내_23782.wav",
+    "recrdTime" : "6.910",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-12 13:42:53",
+    "scriptSetNo" : "T_일반통합_16"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "전라",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "코로나가 종식된다면 나는"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1527681614",
+    "age" : 32
+  }
+}

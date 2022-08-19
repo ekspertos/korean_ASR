@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "개인적으로 아무리 맛있는 식당 이라고 하더라도 화장실이 사용하기 불편하면 영 추천 하기가 꺼림칙 하네요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1576523737_34_수도권_실내_20201231152141.wav",
+    "recrdTime" : "10.150",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 15:21:44",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "구디"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1576523737",
+    "age" : 34
+  }
+}

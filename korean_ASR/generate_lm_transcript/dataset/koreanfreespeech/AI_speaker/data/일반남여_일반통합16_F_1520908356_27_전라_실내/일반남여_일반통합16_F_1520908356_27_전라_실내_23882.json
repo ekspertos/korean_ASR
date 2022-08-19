@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "저는 그렇게까지 나이가 들었다고 생각하지 않았었거든요",
+    "scriptId" : "일반통합-23882",
+    "fileNm" : "일반남여_일반통합16_F_1520908356_27_전라_실내_23882.wav",
+    "recrdTime" : "4.690",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-09 19:55:35",
+    "scriptSetNo" : "T_일반통합_16"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "전라",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "내가 나이 들었다고 느낄 때"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1520908356",
+    "age" : 27
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "근데 숙소가 고민이네",
+    "scriptId" : "06521",
+    "fileNm" : "일반남여_일반통합05_M_yoonix_55_수도권_실내_06521.wav",
+    "recrdTime" : "4.800",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-04 15:34:38",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "에어비앤비 실패하지 않고 고르는 법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "yoonix",
+    "age" : 55
+  }
+}

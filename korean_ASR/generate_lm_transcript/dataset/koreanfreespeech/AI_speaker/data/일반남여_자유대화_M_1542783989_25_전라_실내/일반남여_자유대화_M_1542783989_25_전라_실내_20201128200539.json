@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "엄청 유명한데 한번쯤은 들어 보시지 않았을까요 치면은 다 나와요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1542783989_25_전라_실내_20201128200539.wav",
+    "recrdTime" : "6.650",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-28 20:05:41",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "전라",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "취미생활"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1542783989",
+    "age" : 25
+  }
+}

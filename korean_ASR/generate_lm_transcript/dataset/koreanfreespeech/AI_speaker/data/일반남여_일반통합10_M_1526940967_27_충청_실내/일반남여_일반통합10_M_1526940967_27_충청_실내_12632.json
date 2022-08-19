@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그럼 애들하고 여행할 때는 어떻게 했어",
+    "scriptId" : "일반통합-12632",
+    "fileNm" : "일반남여_일반통합10_M_1526940967_27_충청_실내_12632.wav",
+    "recrdTime" : "3.670",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-10 16:33:15",
+    "scriptSetNo" : "T_일반통합_10"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "기내식 백배 활용하기"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1526940967",
+    "age" : 27
+  }
+}

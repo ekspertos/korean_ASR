@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "한 달에 이십만 원만 해도 일 년이면 이백 사십만 원인데 젊은 사람들에게는 큰 돈이잖아",
+    "scriptId" : "06995",
+    "fileNm" : "일반남여_일반통합05_M_hamdonx_36_수도권_실내_06995.wav",
+    "recrdTime" : "9.880",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-04 11:13:18",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "혼족을 위한 지원 정책"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "hamdonx",
+    "age" : 36
+  }
+}

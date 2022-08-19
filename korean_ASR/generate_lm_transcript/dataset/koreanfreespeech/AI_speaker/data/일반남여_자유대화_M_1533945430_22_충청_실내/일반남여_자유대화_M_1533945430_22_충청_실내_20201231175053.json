@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "당연히 실수는 개선해야 될 점을 알려준다 실수가 없다면 무엇을 개선해야 할지 어떻게 알 수 있겠는가",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1533945430_22_충청_실내_20201231175053.wav",
+    "recrdTime" : "14.670",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 17:50:55",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "Windows 10",
+    "convrsThema" : "#외국명언 #국내명언"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1533945430",
+    "age" : 22
+  }
+}

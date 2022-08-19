@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "애들이 좋아하는 캐릭터가 그려 있는 걸로 고르면 아이들도 되게 좋아해",
+    "scriptId" : "01733",
+    "fileNm" : "일반남여_일반통합02_F_JYH00_51_수도권_녹음실_01733.wavp",
+    "recrdTime" : "7.400",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-10-06 13:04:54",
+    "scriptSetNo" : "일반통합02"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "녹음실",
+    "colctUnitCode" : "스튜디오",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AI스피커",
+    "convrsThema" : "어린이집 생일파티용 선물 고르기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "JYH00",
+    "age" : 51
+  }
+}

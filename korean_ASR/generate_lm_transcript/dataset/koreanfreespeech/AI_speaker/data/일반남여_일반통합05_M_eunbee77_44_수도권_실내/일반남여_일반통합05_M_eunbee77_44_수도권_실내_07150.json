@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "사실을 사실대로 말했을 뿐인데 면피라고 하시면...",
+    "scriptId" : "07150",
+    "fileNm" : "일반남여_일반통합05_M_eunbee77_44_수도권_실내_07150.wav",
+    "recrdTime" : "6.440",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-06 11:42:13",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "김빠진 콜라 활용법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "eunbee77",
+    "age" : 44
+  }
+}

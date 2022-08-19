@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "이걸 활용하면 방향제로 만들 수 있어",
+    "scriptId" : "일반통합-09930",
+    "fileNm" : "일반남여_일반통합07_F_1526947547_45_수도권_실내_09930.wav",
+    "recrdTime" : "3.410",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-10 15:33:21",
+    "scriptSetNo" : "T_일반통합_7"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "아이스팩 활용법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526947547",
+    "age" : 45
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(NO:)연하고 고기 잡내도 안 나고.",
+    "scriptId" : "07125",
+    "fileNm" : "일반남여_일반통합05_M_shiso_42_수도권_실내_07125.wav",
+    "recrdTime" : "3.650",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-23 00:33:45",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "김빠진 콜라 활용법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "shiso",
+    "age" : 42
+  }
+}

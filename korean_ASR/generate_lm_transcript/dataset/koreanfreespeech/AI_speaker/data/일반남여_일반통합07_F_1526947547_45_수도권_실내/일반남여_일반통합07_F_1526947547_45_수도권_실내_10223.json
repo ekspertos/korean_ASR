@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "지는 아들 낳았다 이거야 얼마나 유세를 떠는지",
+    "scriptId" : "일반통합-10223",
+    "fileNm" : "일반남여_일반통합07_F_1526947547_45_수도권_실내_10223.wav",
+    "recrdTime" : "5.460",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-16 14:55:30",
+    "scriptSetNo" : "T_일반통합_7"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "아는 집 이혼 이야기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526947547",
+    "age" : 45
+  }
+}

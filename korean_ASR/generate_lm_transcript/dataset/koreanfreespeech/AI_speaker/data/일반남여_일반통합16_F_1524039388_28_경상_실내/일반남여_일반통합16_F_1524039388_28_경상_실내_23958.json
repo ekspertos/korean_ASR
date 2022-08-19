@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "법률 중에서 가장 대표적인 것은 민법전이다 ",
+    "scriptId" : "일반통합-23958",
+    "fileNm" : "일반남여_일반통합16_F_1524039388_28_경상_실내_23958.wav",
+    "recrdTime" : "3.750",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-12 17:02:24",
+    "scriptSetNo" : "T_일반통합_16"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524039388",
+    "age" : 28
+  }
+}

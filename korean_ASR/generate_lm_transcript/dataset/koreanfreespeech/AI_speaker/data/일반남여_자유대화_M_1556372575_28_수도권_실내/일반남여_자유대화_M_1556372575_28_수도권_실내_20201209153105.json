@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "열매를 맺지 않는 곳은 심지 말고 의리 없는 벗은 사귀지 말라",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1556372575_28_수도권_실내_20201209153105.wav",
+    "recrdTime" : "8.190",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-09 15:31:07",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "#외국명언 #국내명언"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1556372575",
+    "age" : 28
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그 투쟁에서 실패할 수도 있다는 개연성 때문에 정당하다고 믿는 대의를 지지하는 데서 물러서 서는 안된다",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1533945430_22_충청_실내_20201231174605.wav",
+    "recrdTime" : "13.910",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 17:46:07",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "Windows 10",
+    "convrsThema" : "#외국명언 #국내명언"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1533945430",
+    "age" : 22
+  }
+}

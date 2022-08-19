@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "마침 회사도 코로나 때문에 무급 휴가를 낼 수 있어서 도전해 볼 생각이야",
+    "scriptId" : "06518",
+    "fileNm" : "일반남여_일반통합05_F_riahn55_17_수도권_실내_06518.wav",
+    "recrdTime" : "7.560",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-06 16:19:25",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "에어비앤비 실패하지 않고 고르는 법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "riahn55",
+    "age" : 17
+  }
+}

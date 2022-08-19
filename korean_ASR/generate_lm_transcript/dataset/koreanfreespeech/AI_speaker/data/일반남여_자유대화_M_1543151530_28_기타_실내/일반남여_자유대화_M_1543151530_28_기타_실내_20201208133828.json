@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "마치 돼지 저금통에 저금을 하는 느낌 같아서",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1543151530_28_기타_실내_20201208133828.wav",
+    "recrdTime" : "6.910",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-08 13:38:28",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "기타",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "연습"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1543151530",
+    "age" : 28
+  }
+}

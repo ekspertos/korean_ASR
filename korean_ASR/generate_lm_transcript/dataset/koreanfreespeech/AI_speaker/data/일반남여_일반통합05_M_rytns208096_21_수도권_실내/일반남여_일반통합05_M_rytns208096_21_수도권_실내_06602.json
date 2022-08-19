@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(NO:) 그래 그렇다면 당연히 종금형을 선택해야 하는 거 아니야",
+    "scriptId" : "06602",
+    "fileNm" : "일반남여_일반통합05_M_rytns208096_21_수도권_실내_06602.wav",
+    "recrdTime" : "6.080",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-10 14:35:59",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "CMA 통장이 뭐야"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "rytns208096",
+    "age" : 21
+  }
+}

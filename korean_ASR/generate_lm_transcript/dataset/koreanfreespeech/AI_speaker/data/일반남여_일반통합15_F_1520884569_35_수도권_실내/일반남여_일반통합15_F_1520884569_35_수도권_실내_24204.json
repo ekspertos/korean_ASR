@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "엄마는 참고 인내하고 희생해야 하고 그런 가치관의 강요는 이제 너무 구닥다리 아니니",
+    "scriptId" : "일반통합-24204",
+    "fileNm" : "일반남여_일반통합15_F_1520884569_35_수도권_실내_24204.wav",
+    "recrdTime" : "6.650",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-05 23:35:42",
+    "scriptSetNo" : "T_일반통합_15"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "성차별적인 광고"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1520884569",
+    "age" : 35
+  }
+}

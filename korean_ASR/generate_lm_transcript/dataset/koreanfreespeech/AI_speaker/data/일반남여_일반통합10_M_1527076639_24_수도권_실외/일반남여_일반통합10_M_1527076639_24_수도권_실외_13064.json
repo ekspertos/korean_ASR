@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "차 하면 나 따라올 사람 없지 왜 차 한대 뽑으려고",
+    "scriptId" : "일반통합-13064",
+    "fileNm" : "일반남여_일반통합10_M_1527076639_24_수도권_실외_13064.wav",
+    "recrdTime" : "6.570",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-10 19:52:57",
+    "scriptSetNo" : "T_일반통합_10"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실외",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "중고차 구매시 침수 차량 구별법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527076639",
+    "age" : 24
+  }
+}

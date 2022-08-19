@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(SN:)나는 무슨 맛인지 몰라서 먹는 거보다 다른 데 쓰는 걸 좋아하지(NO:)",
+    "scriptId" : "06718",
+    "fileNm" : "일반남여_일반통합05_M_csw810705_41_수도권_실내_06718.wav",
+    "recrdTime" : "7.880",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-12 14:05:03",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "아보카도, 피부에 양보하세요"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "csw810705",
+    "age" : 41
+  }
+}

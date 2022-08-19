@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "또한 평면적이나마 한 여인을 중심으로 하는 영화이다 ",
+    "scriptId" : "일반통합-13442",
+    "fileNm" : "일반남여_일반통합10_M_1527076639_24_수도권_실외_13442.wav",
+    "recrdTime" : "6.140",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-11 00:10:55",
+    "scriptSetNo" : "T_일반통합_10"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실외",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527076639",
+    "age" : 24
+  }
+}

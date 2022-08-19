@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "이 나쁜 콜레스테롤이 혈관을 손상시키면 면역력을 저하시키게 되고요",
+    "scriptId" : "일반통합-12826",
+    "fileNm" : "일반남여_일반통합09_M_1528882020_21_수도권_실내_12826.wav",
+    "recrdTime" : "5.370",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-11 17:58:22",
+    "scriptSetNo" : "T_일반통합_9"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "내장비만 줄이는 방법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1528882020",
+    "age" : 21
+  }
+}

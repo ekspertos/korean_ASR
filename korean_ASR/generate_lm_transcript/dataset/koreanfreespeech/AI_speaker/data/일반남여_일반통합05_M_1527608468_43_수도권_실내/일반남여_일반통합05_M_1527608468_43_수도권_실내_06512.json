@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "내 통신사 카드로 한 잔 가격에 두 잔을 마실 수 있어",
+    "scriptId" : "일반통합-06512",
+    "fileNm" : "일반남여_일반통합05_M_1527608468_43_수도권_실내_06512.wav",
+    "recrdTime" : "15.020",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-10 20:51:16",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "Windows 10",
+    "convrsThema" : "커피 싸게 마시는 방법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527608468",
+    "age" : 43
+  }
+}

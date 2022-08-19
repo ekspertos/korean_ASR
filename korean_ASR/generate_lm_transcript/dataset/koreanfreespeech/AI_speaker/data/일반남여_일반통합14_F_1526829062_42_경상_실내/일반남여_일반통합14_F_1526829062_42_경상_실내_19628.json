@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그날 결혼하는 신랑보다 멋져 보이면 안 되니까 수수한 걸로 골라서 해 봐",
+    "scriptId" : "일반통합-19628",
+    "fileNm" : "일반남여_일반통합14_F_1526829062_42_경상_실내_19628.wav",
+    "recrdTime" : "6.910",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-09 23:33:38",
+    "scriptSetNo" : "T_일반통합_14"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "결혼식에 입고 갈 옷 고르기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526829062",
+    "age" : 42
+  }
+}

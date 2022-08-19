@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(NO:)중고차 사서 조금 타다가 익숙해지면 새 차로 갈아타는 것도 좋은 방법이긴 해",
+    "scriptId" : "일반통합-13070",
+    "fileNm" : "일반남여_일반통합10_M_1527076639_24_수도권_실외_13070.wav",
+    "recrdTime" : "8.100",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-10 19:53:54",
+    "scriptSetNo" : "T_일반통합_10"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실외",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "중고차 구매시 침수 차량 구별법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527076639",
+    "age" : 24
+  }
+}

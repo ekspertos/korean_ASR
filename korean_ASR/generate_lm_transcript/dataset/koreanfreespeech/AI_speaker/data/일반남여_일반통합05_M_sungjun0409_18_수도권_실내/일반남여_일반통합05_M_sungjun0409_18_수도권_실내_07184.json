@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "요즘 휴게소는 단순히 쉬어가는 곳이 아니라 지역 명물이라고 해도 손색이 없겠다.",
+    "scriptId" : "07184",
+    "fileNm" : "일반남여_일반통합05_M_sungjun0409_18_수도권_실내_07184.wav",
+    "recrdTime" : "6.320",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-12 14:07:14",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "고속도로 휴게소 백배 이용하기"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "sungjun0409",
+    "age" : 18
+  }
+}

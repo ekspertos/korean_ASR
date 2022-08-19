@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "어려운 상황이고 어려운 시기인 만큼 우리 모두가 힘을 합쳐서 조심해야 되는 게 중요합니다 지금도 거리에 많은 사람들이 활보하고 다니는데 술집에도 사람이 많고요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1542570778_32_수도권_실내_20201208103454.wav",
+    "recrdTime" : "14.670",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-08 10:34:55",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "녹음"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1542570778",
+    "age" : 32
+  }
+}

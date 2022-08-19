@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그 생각은 못했네. 역시 에어비앤비 고수답군.",
+    "scriptId" : "06543",
+    "fileNm" : "일반남여_일반통합05_M_junkmusic_43_수도권_실내_06543.wav",
+    "recrdTime" : "7.120",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-03 13:49:17",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "에어비앤비 실패하지 않고 고르는 법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "junkmusic",
+    "age" : 43
+  }
+}

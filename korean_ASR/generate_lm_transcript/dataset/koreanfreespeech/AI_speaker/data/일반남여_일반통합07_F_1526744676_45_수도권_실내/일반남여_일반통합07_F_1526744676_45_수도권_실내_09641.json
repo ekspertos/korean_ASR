@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "저녁 때면 발이 많이 붓지 않아",
+    "scriptId" : "일반통합-09641",
+    "fileNm" : "일반남여_일반통합07_F_1526744676_45_수도권_실내_09641.wav",
+    "recrdTime" : "3.750",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-16 10:58:18",
+    "scriptSetNo" : "T_일반통합_7"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "하이힐 건강하게 신는 법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526744676",
+    "age" : 45
+  }
+}

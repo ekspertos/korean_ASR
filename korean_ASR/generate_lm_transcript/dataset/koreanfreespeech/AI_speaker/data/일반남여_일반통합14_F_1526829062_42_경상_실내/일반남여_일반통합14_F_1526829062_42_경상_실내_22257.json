@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그리고 조직 이론은 현대 행정학의 바탕을 이루고 있다 ",
+    "scriptId" : "일반통합-22257",
+    "fileNm" : "일반남여_일반통합14_F_1526829062_42_경상_실내_22257.wav",
+    "recrdTime" : "4.180",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-03 01:10:39",
+    "scriptSetNo" : "T_일반통합_14"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526829062",
+    "age" : 42
+  }
+}

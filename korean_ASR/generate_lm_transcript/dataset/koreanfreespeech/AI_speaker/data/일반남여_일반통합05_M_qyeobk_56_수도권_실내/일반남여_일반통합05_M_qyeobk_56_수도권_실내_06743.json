@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "같은 원리로 튼살에 바르고 마사지 해도 좋고 다크서클 케어에도 좋아",
+    "scriptId" : "06743",
+    "fileNm" : "일반남여_일반통합05_M_qyeobk_56_수도권_실내_06743.wav",
+    "recrdTime" : "7.200",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-09 13:59:40",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "아보카도, 피부에 양보하세요"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "qyeobk",
+    "age" : 56
+  }
+}

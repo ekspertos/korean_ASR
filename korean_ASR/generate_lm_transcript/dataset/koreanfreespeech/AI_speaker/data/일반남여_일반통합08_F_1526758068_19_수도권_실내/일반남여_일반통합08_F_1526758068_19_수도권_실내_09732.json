@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "긍정적인 언어가 부정적인 언어보다 때로는 아이의 나쁜 습관을 고치는데 도움이 된대",
+    "scriptId" : "일반통합-09732",
+    "fileNm" : "일반남여_일반통합08_F_1526758068_19_수도권_실내_09732.wav",
+    "recrdTime" : "7.340",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-12 04:11:31",
+    "scriptSetNo" : "T_일반통합_8"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "치과 공포증 극복하기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526758068",
+    "age" : 19
+  }
+}

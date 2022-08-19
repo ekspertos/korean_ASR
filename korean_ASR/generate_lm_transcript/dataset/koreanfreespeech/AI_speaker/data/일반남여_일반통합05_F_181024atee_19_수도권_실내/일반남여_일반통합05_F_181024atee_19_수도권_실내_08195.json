@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "요샌 그렇게 공감을 하게 해야 효과를 보나 봐",
+    "scriptId" : "08195",
+    "fileNm" : "일반남여_일반통합05_F_181024atee_19_수도권_실내_08195.wav",
+    "recrdTime" : "4.920",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-23 01:48:04",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "광고 트렌드"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "181024atee",
+    "age" : 19
+  }
+}

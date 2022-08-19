@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "응 한 때는 에이에스엠알이 엄청 인기였는데 요즘은 좀 줄어들었어",
+    "scriptId" : "일반통합-24006",
+    "fileNm" : "일반남여_일반통합16_F_1520908356_27_전라_실내_24006.wav",
+    "recrdTime" : "6.650",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-15 17:13:01",
+    "scriptSetNo" : "T_일반통합_16"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "전라",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "나도 먹방 찍어볼까?"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1520908356",
+    "age" : 27
+  }
+}

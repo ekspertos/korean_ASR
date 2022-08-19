@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "자원도 부족하고 아주 좁은 땅 덩어리에서 비티에스 라는 월드클래스",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1533683176_38_수도권_실외_20201211082203.wav",
+    "recrdTime" : "11.180",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-11 08:22:08",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실외",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "#음악"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1533683176",
+    "age" : 38
+  }
+}

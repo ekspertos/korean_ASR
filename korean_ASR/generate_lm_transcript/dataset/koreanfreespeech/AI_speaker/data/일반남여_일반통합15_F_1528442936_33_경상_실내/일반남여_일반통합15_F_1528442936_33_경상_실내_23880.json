@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "저 같은 경우는 운동을 매일 하는 편인데 스트레칭하는 데 시간이 더 오래 걸려요",
+    "scriptId" : "일반통합-23880",
+    "fileNm" : "일반남여_일반통합15_F_1528442936_33_경상_실내_23880.wav",
+    "recrdTime" : "8.280",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-11 15:41:34",
+    "scriptSetNo" : "T_일반통합_15"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "내가 나이 들었다고 느낄 때"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1528442936",
+    "age" : 33
+  }
+}

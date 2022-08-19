@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "너는 귀엽겠지 나는 애가 그러니까 너무 섭섭하더라고",
+    "scriptId" : "06617",
+    "fileNm" : "일반남여_일반통합05_F_daya1009_20_수도권_실내_06617.wav",
+    "recrdTime" : "6.320",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-11 16:08:50",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "카레에서 고기 잡내 없애기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "daya1009",
+    "age" : 20
+  }
+}

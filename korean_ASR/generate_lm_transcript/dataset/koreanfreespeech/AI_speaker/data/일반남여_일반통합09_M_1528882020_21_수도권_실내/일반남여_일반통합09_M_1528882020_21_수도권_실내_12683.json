@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그런가 안경을 바꾸면 확실히 기분 전환이 되기는 하지",
+    "scriptId" : "일반통합-12683",
+    "fileNm" : "일반남여_일반통합09_M_1528882020_21_수도권_실내_12683.wav",
+    "recrdTime" : "3.580",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-11 17:37:12",
+    "scriptSetNo" : "T_일반통합_9"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "얼굴형에 맞는 안경테 고르기"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1528882020",
+    "age" : 21
+  }
+}

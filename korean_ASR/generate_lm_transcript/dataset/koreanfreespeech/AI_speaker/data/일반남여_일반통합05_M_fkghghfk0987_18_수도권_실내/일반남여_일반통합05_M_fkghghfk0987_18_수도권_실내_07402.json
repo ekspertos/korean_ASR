@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "다이슨은 뭘 그렇게 잘 만드는지 몰라.",
+    "scriptId" : "07402",
+    "fileNm" : "일반남여_일반통합05_M_fkghghfk0987_18_수도권_실내_07402.wav",
+    "recrdTime" : "4.680",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-12 21:50:34",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "청소기 고르기 "
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "fkghghfk0987",
+    "age" : 18
+  }
+}

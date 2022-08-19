@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "나이 중에 꽤 하단에 있는 걸 고를 때 이상한 기분이 들더라고요",
+    "scriptId" : "일반통합-23902",
+    "fileNm" : "일반남여_일반통합16_F_1520908356_27_전라_실내_23902.wav",
+    "recrdTime" : "5.720",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-09 19:58:41",
+    "scriptSetNo" : "T_일반통합_16"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "전라",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "내가 나이 들었다고 느낄 때"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1520908356",
+    "age" : 27
+  }
+}

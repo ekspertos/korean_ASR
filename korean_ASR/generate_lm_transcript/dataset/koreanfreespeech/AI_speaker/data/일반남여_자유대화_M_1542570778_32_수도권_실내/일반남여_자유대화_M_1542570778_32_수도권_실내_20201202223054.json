@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(SN:)보통 택배 같은 경우에는 건당 얼마씩 이렇게 택배 기사들이 가져가는 거 (SP:같더라고요) 그런데 (SP:쿠팡도) 그런 (SP:건지는) 모르겠어요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1542570778_32_수도권_실내_20201202223054.wav",
+    "recrdTime" : "13.140",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-02 22:30:57",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "아무거나"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1542570778",
+    "age" : 32
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "내가 유일하게 유감스럽게 여기는 것은 조국을 위해 바칠 목숨이 한 개 뿐이라는 것이다",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1533945430_22_충청_실내_20201231175727.wav",
+    "recrdTime" : "12.200",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 17:57:28",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "Windows 10",
+    "convrsThema" : "#외국명언 #국내명언"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1533945430",
+    "age" : 22
+  }
+}

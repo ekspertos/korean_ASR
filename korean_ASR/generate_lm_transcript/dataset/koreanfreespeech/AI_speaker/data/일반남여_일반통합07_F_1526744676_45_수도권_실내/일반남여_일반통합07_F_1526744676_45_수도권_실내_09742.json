@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "치과 치료 받으면서 과연 웃을 수 있을지는 알 수 없지만",
+    "scriptId" : "일반통합-09742",
+    "fileNm" : "일반남여_일반통합07_F_1526744676_45_수도권_실내_09742.wav",
+    "recrdTime" : "5.290",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-16 11:33:40",
+    "scriptSetNo" : "T_일반통합_7"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "치과 공포증 극복하기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526744676",
+    "age" : 45
+  }
+}

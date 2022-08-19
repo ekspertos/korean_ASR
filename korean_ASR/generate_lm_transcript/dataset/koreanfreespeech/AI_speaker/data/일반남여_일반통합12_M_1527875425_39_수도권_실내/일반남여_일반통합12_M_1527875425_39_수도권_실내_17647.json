@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "불쌍한 물고기들은 너무나 뜨거워서 각자 있는 힘껏 프라이팬 위에서 펄쩍펄쩍 뛰고 있었다 ",
+    "scriptId" : "일반통합-17647",
+    "fileNm" : "일반남여_일반통합12_M_1527875425_39_수도권_실내_17647.wav",
+    "recrdTime" : "9.810",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-23 16:04:30",
+    "scriptSetNo" : "T_일반통합_12"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527875425",
+    "age" : 39
+  }
+}

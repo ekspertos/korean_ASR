@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그래서 요즘 카페가서 커피 시킬때 도 버리는 커피찌거기를 얻어오기도 해",
+    "scriptId" : "06938",
+    "fileNm" : "일반남여_일반통합05_F_cofls0528_20_수도권_실내_06938.wav",
+    "recrdTime" : "6.320",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-13 14:20:10",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "커피 찌꺼기 활용법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "cofls0528",
+    "age" : 20
+  }
+}

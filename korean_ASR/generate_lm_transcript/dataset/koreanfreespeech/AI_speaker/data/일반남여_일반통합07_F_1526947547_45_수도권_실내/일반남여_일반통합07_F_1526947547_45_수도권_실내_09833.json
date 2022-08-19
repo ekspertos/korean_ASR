@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그거 좋아",
+    "scriptId" : "일반통합-09833",
+    "fileNm" : "일반남여_일반통합07_F_1526947547_45_수도권_실내_09833.wav",
+    "recrdTime" : "1.790",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-10 15:19:43",
+    "scriptSetNo" : "T_일반통합_7"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "고데기 고르기 "
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526947547",
+    "age" : 45
+  }
+}

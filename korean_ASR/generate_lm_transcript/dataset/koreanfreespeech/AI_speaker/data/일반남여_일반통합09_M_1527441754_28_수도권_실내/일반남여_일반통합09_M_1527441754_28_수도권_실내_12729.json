@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "다른 모델은 알아보신 것 없으세요",
+    "scriptId" : "일반통합-12729",
+    "fileNm" : "일반남여_일반통합09_M_1527441754_28_수도권_실내_12729.wav",
+    "recrdTime" : "3.160",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-10 10:32:06",
+    "scriptSetNo" : "T_일반통합_9"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "오토바이 구매하기"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527441754",
+    "age" : 28
+  }
+}

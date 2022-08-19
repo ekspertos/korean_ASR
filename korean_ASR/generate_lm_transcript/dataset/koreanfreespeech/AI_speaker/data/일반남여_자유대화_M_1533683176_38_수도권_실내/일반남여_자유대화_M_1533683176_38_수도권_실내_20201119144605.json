@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "점심을 먹은 지 몇 시간밖에 안 됐는데 벌써 배가 고프네요 저녁에 꼭 맛있는 밥을 먹어야지 될 거 같습니다",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1533683176_38_수도권_실내_20201119144605.wav",
+    "recrdTime" : "12.540",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-19 14:46:08",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "저녁 식단"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1533683176",
+    "age" : 38
+  }
+}

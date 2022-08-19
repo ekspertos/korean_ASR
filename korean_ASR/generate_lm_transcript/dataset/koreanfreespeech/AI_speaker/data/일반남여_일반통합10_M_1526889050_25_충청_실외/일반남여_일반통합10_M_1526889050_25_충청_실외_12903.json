@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "비타민 씨가 철분의 체내 흡수를 최대 삼십 프로까지 높여준대",
+    "scriptId" : "일반통합-12903",
+    "fileNm" : "일반남여_일반통합10_M_1526889050_25_충청_실외_12903.wav",
+    "recrdTime" : "4.950",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-09 19:15:25",
+    "scriptSetNo" : "T_일반통합_10"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실외",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "영양제, 제대로 먹자."
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1526889050",
+    "age" : 25
+  }
+}

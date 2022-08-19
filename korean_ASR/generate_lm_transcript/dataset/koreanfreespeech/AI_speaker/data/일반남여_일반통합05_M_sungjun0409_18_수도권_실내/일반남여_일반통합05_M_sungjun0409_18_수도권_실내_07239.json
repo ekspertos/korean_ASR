@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "맞아 그 다음에 (SP:얼티그레이티) 같은 건 향을 섞은 거야",
+    "scriptId" : "07239",
+    "fileNm" : "일반남여_일반통합05_M_sungjun0409_18_수도권_실내_07239.wav",
+    "recrdTime" : "7.920",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-12 14:13:42",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "홍차 마시기 "
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "sungjun0409",
+    "age" : 18
+  }
+}

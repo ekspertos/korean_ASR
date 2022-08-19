@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "이 시간까지 조사가 계속되고 있습니까",
+    "scriptId" : "07259",
+    "fileNm" : "일반남여_일반통합05_F_psycys0211_41_수도권_실내_07259.wav",
+    "recrdTime" : "4.640",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-12 17:40:05",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "psycys0211",
+    "age" : 41
+  }
+}

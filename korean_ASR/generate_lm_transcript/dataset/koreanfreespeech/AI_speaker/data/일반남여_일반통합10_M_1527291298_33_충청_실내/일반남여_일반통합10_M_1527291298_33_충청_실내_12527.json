@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "미리 다녀두면 좋은 정보들을 얻을 수 있을 거 같아서",
+    "scriptId" : "일반통합-12527",
+    "fileNm" : "일반남여_일반통합10_M_1527291298_33_충청_실내_12527.wav",
+    "recrdTime" : "4.610",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-11 16:02:37",
+    "scriptSetNo" : "T_일반통합_10"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "귀농에 성공하는 법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527291298",
+    "age" : 33
+  }
+}

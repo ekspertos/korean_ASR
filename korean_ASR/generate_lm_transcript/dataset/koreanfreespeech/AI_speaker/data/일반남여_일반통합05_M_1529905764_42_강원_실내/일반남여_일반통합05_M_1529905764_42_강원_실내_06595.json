@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "근데 그건 좀 더 고민이 필요할 거 같애",
+    "scriptId" : "일반통합-06595",
+    "fileNm" : "일반남여_일반통합05_M_1529905764_42_강원_실내_06595.wav",
+    "recrdTime" : "4.440",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-14 21:36:31",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "강원",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "CMA 통장이 뭐야"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1529905764",
+    "age" : 42
+  }
+}

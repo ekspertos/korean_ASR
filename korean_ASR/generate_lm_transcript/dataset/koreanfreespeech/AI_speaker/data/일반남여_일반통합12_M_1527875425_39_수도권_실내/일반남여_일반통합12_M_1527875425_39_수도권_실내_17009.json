@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "주변 감광은 태양 대기에서만 생기는 현상이 아니다 ",
+    "scriptId" : "일반통합-17009",
+    "fileNm" : "일반남여_일반통합12_M_1527875425_39_수도권_실내_17009.wav",
+    "recrdTime" : "7.000",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-22 16:54:06",
+    "scriptSetNo" : "T_일반통합_12"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527875425",
+    "age" : 39
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그 정도 속도면 거의 아웃사이더 아닙니까",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1534063807_39_수도권_실내_20201117001520.wav",
+    "recrdTime" : "4.690",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-17 00:15:21",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "#일상 #기록"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1534063807",
+    "age" : 39
+  }
+}

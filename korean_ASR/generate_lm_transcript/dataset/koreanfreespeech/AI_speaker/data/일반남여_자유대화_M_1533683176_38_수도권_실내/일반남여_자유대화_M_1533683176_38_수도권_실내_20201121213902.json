@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "저는 추위룰 굉장히 많이 타서 집에서도 황상 보일러를 틀어 놓고 있습니다 그렇게 되면 돈이 많이 나오긴 합니다  근데 추워요 너무",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1533683176_38_수도권_실내_20201121213902.wav",
+    "recrdTime" : "15.020",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-21 21:39:07",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "#일상 #기록"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1533683176",
+    "age" : 38
+  }
+}

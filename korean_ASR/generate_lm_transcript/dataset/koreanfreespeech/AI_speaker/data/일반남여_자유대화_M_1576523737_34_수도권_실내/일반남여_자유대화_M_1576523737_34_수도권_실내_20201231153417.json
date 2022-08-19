@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "멸치 회 무침을 한 젓가락 떠서 같이 나오는 날 김에 싸서 드시면 정말 맛있어요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1576523737_34_수도권_실내_20201231153417.wav",
+    "recrdTime" : "9.380",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 15:34:21",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "구디"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1576523737",
+    "age" : 34
+  }
+}

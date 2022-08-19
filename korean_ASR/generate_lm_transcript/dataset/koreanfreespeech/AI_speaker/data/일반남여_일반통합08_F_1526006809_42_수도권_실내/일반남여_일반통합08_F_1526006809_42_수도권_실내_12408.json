@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "한없이 더울 때는 부채가 효자입니다",
+    "scriptId" : "일반통합-12408",
+    "fileNm" : "일반남여_일반통합08_F_1526006809_42_수도권_실내_12408.wav",
+    "recrdTime" : "3.240",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-23 12:32:41",
+    "scriptSetNo" : "T_일반통합_8"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526006809",
+    "age" : 42
+  }
+}

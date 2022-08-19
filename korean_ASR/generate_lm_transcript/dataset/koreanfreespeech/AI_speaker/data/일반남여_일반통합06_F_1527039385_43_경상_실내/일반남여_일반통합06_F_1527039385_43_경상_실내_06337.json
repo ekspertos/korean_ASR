@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그러다 모양이 뒤틀릴 수 있어",
+    "scriptId" : "일반통합-06337",
+    "fileNm" : "일반남여_일반통합06_F_1527039385_43_경상_실내_06337.wav",
+    "recrdTime" : "4.180",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-11 20:29:23",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "장마철 젖은 물건 관리하기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1527039385",
+    "age" : 43
+  }
+}

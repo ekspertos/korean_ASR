@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그럼 나도 좀 알려주지 얌체같이 자기만 식단을 바꾸냐",
+    "scriptId" : "일반통합-12630",
+    "fileNm" : "일반남여_일반통합09_M_1525036926_37_수도권_실내_12630.wav",
+    "recrdTime" : "5.550",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-09 21:05:10",
+    "scriptSetNo" : "T_일반통합_9"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "기내식 백배 활용하기"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1525036926",
+    "age" : 37
+  }
+}

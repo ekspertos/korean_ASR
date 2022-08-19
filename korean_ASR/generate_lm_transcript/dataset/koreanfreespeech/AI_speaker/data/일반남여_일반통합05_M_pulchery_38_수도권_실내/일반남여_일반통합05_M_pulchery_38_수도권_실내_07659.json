@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "넌 글도 잘 쓰니까 동화책 한 번 도전 해 보는 건 어때",
+    "scriptId" : "07659",
+    "fileNm" : "일반남여_일반통합05_M_pulchery_38_수도권_실내_07659.wav",
+    "recrdTime" : "6.160",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-13 18:00:47",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "동화책 소개"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "pulchery",
+    "age" : 38
+  }
+}

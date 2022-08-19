@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그런데 이 어플 좀 느린 거 같지 않나요 녹음한 열다섯 개 정도 하다보면 느려져서 다시 시작하고 또 녹음하고 다시 시작하고 또 녹음하고 계속 그런 식으로 했네요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1537785920_31_기타_실내_20201124135633.wav",
+    "recrdTime" : "13.140",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-24 13:56:36",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "기타",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "집"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1537785920",
+    "age" : 31
+  }
+}

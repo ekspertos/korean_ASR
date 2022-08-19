@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "여러분들도 오늘 하루 잘 보내 셨나요 저녁 맛있는 거 드시 고요 좋은 하루 보내세요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1533683176_38_수도권_실내_20201119175057.wav",
+    "recrdTime" : "11.180",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-19 17:50:58",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "#일상 #기록"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1533683176",
+    "age" : 38
+  }
+}

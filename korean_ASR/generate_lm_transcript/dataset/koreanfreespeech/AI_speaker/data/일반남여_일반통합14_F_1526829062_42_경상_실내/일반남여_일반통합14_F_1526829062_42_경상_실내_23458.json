@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "군에 가장 널리 보급된 이점오톤 트럭입니다",
+    "scriptId" : "일반통합-23458",
+    "fileNm" : "일반남여_일반통합14_F_1526829062_42_경상_실내_23458.wav",
+    "recrdTime" : "3.670",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-10 02:20:11",
+    "scriptSetNo" : "T_일반통합_14"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526829062",
+    "age" : 42
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "다음은 삼성 에프엔닷컴 프로야구 소식입니다",
+    "scriptId" : "일반통합-18789",
+    "fileNm" : "일반남여_일반통합11_F_1527000216_43_수도권_실내_18789.wav",
+    "recrdTime" : "3.750",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-30 22:32:20",
+    "scriptSetNo" : "T_일반통합_11"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1527000216",
+    "age" : 43
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "누가 너를 말리겠니",
+    "scriptId" : "06456",
+    "fileNm" : "일반남여_일반통합05_F_gyubin85877024_18_수도권_실내_06456.wav",
+    "recrdTime" : "4.360",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-12 15:56:24",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "해외에서 시차 적응 잘하는 방법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "gyubin85877024",
+    "age" : 18
+  }
+}

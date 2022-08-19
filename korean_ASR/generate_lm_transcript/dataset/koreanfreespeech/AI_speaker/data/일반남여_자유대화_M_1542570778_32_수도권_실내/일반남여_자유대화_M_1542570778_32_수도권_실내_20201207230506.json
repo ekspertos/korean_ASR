@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "이게 참 장점이자 단점인 거 같아요 장점인 것은 그만큼 프리하게 할 수 있기 때문에 내가 원하는 시간에 짬짬이 할 수 있다는 거고요 그렇게 생각하시죠",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1542570778_32_수도권_실내_20201207230506.wav",
+    "recrdTime" : "13.910",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-07 23:05:08",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "아무거나"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1542570778",
+    "age" : 32
+  }
+}

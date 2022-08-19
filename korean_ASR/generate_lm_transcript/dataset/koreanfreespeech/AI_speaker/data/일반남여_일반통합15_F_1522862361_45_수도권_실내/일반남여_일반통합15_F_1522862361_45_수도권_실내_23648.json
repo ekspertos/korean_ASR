@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "이름이 레밍턴인데 (SP:큐브 형)형태로 자른 스펀지 케이크에 초콜릿 코팅을 입힌 후 코코넛 가루를 묻힌 디저트야",
+    "scriptId" : "일반통합-23648",
+    "fileNm" : "일반남여_일반통합15_F_1522862361_45_수도권_실내_23648.wav",
+    "recrdTime" : "10.070",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-06 21:41:13",
+    "scriptSetNo" : "T_일반통합_15"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "세계의 디저트"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1522862361",
+    "age" : 45
+  }
+}

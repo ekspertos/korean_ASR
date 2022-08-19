@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "잘 익은 아보카도 반 개와 올리브유 한 작은술을 섞어서 (SN:) 입술 주위에 바르고 (SN:) 이십오 분 후 따뜻한 물로 헹궈내면 거짓말처럼 좋아져",
+    "scriptId" : "06733",
+    "fileNm" : "일반남여_일반통합05_M_sonjinho270_17_수도권_실내_06733.wav",
+    "recrdTime" : "11.080",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-09 16:20:27",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "아보카도, 피부에 양보하세요"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "sonjinho270",
+    "age" : 17
+  }
+}

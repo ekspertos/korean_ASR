@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그냥 눈에 보이는대로 주차하려니까 내 마음대로 되지도 않고",
+    "scriptId" : "07079",
+    "fileNm" : "일반남여_일반통합05_F_daya1009_20_수도권_실내_07079.wav",
+    "recrdTime" : "6.640",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-12 22:15:22",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "운전 초보자 주차하기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "daya1009",
+    "age" : 20
+  }
+}

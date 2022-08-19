@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "어허 이제 이러면 안되지",
+    "scriptId" : "일반통합-19810",
+    "fileNm" : "일반남여_일반통합14_F_1526829062_42_경상_실내_19810.wav",
+    "recrdTime" : "2.900",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-11 00:35:22",
+    "scriptSetNo" : "T_일반통합_14"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "플리마켓에서 팔기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526829062",
+    "age" : 42
+  }
+}

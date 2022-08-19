@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "아 그걸 달고 다니기도 해",
+    "scriptId" : "07350",
+    "fileNm" : "일반남여_일반통합05_M_sansuyu0_24_수도권_실내_07350.wav",
+    "recrdTime" : "4.040",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-11 23:24:18",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "손소독제 위험"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "sansuyu0",
+    "age" : 24
+  }
+}

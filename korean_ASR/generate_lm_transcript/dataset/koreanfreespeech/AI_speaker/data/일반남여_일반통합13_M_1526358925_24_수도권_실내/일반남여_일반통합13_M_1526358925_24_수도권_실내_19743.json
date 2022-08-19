@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "맞아 결코 다시 돌아오지 않는 지금 이 순간을 놓치면 안돼",
+    "scriptId" : "일반통합-19743",
+    "fileNm" : "일반남여_일반통합13_M_1526358925_24_수도권_실내_19743.wav",
+    "recrdTime" : "4.780",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-10 16:18:56",
+    "scriptSetNo" : "T_일반통합_13"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "사랑 고백"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1526358925",
+    "age" : 24
+  }
+}

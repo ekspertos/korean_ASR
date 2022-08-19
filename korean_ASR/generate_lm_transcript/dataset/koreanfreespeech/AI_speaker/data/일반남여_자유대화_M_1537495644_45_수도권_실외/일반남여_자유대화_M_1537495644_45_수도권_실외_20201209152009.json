@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "분노는 바보들의 가슴 속에서만 살아가며 밝은 성격은 어떤 재산 보다도 귀하다",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1537495644_45_수도권_실외_20201209152009.wav",
+    "recrdTime" : "12.030",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-09 15:20:12",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실외",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "#외국명언 #국내명언"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1537495644",
+    "age" : 45
+  }
+}

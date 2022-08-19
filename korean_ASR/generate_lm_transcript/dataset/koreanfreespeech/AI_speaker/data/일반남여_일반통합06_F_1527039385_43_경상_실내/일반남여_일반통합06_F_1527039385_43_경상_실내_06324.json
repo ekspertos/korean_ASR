@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그렇긴 하지 그래도 물건별 특성을 잘 알면 조금 나을 수도 있어",
+    "scriptId" : "일반통합-06324",
+    "fileNm" : "일반남여_일반통합06_F_1527039385_43_경상_실내_06324.wav",
+    "recrdTime" : "6.910",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-10 09:52:22",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "장마철 젖은 물건 관리하기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1527039385",
+    "age" : 43
+  }
+}

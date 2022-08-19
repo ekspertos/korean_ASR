@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "이런 어려운 시기에 아르바이트하는 것도 쉽지 않을 텐데 어찌 그런 마음을 먹었는지.",
+    "scriptId" : "07478",
+    "fileNm" : "일반남여_일반통합05_M_pulchery_38_수도권_실내_07478.wav",
+    "recrdTime" : "8.040",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-13 09:26:26",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "컵홀더 응원 문구"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "pulchery",
+    "age" : 38
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그러므로 과학은 당시의 상황에 맞게 수정되는 것이 사실이다 ",
+    "scriptId" : "일반통합-13454",
+    "fileNm" : "일반남여_일반통합10_M_1524868190_31_수도권_실내_13454.wav",
+    "recrdTime" : "5.290",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-09 02:43:06",
+    "scriptSetNo" : "T_일반통합_10"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1524868190",
+    "age" : 31
+  }
+}

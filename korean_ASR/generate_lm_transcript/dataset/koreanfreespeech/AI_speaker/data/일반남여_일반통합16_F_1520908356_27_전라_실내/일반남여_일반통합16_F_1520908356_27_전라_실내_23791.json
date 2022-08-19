@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그렇지 푸른 잔디에 좋아하는 팀 응원하면서 실컷 소리도 지르고",
+    "scriptId" : "일반통합-23791",
+    "fileNm" : "일반남여_일반통합16_F_1520908356_27_전라_실내_23791.wav",
+    "recrdTime" : "5.630",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-08 22:32:18",
+    "scriptSetNo" : "T_일반통합_16"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "전라",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "코로나가 종식된다면 나는"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1520908356",
+    "age" : 27
+  }
+}

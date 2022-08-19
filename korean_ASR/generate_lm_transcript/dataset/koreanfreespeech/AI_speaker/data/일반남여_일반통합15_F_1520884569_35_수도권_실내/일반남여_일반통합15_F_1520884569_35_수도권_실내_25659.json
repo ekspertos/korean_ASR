@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "농촌에서 가축 훔치기 쉬워요",
+    "scriptId" : "일반통합-25659",
+    "fileNm" : "일반남여_일반통합15_F_1520884569_35_수도권_실내_25659.wav",
+    "recrdTime" : "3.750",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-18 15:48:55",
+    "scriptSetNo" : "T_일반통합_15"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1520884569",
+    "age" : 35
+  }
+}

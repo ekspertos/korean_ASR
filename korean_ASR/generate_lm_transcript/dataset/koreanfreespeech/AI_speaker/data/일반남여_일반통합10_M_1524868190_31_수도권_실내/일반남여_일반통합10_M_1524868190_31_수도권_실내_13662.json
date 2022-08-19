@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그러나 이씨 얘기는 완전 딴판입니다",
+    "scriptId" : "일반통합-13662",
+    "fileNm" : "일반남여_일반통합10_M_1524868190_31_수도권_실내_13662.wav",
+    "recrdTime" : "4.780",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-09 19:03:29",
+    "scriptSetNo" : "T_일반통합_10"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1524868190",
+    "age" : 31
+  }
+}

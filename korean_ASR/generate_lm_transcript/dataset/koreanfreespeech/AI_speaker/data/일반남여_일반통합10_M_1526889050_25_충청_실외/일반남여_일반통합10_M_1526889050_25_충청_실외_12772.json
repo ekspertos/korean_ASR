@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "엄마 아빠는 바깥에서 좀 기다리고 계세요 제가 뭐 상 받는 것 아니니까(FP:헤) 같이 안 들어가셔도 돼요",
+    "scriptId" : "일반통합-12772",
+    "fileNm" : "일반남여_일반통합10_M_1526889050_25_충청_실외_12772.wav",
+    "recrdTime" : "8.100",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-09 18:45:25",
+    "scriptSetNo" : "T_일반통합_10"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실외",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "대학 졸업식장에서 친구와"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1526889050",
+    "age" : 25
+  }
+}

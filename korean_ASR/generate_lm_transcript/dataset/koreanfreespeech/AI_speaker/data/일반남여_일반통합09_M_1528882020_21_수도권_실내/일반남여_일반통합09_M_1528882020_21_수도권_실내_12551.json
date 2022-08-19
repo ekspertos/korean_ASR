@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "회사일이라는 건 사실 내가 열심히 해도 실패하는 경우가 많잖아",
+    "scriptId" : "일반통합-12551",
+    "fileNm" : "일반남여_일반통합09_M_1528882020_21_수도권_실내_12551.wav",
+    "recrdTime" : "5.200",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-11 17:19:27",
+    "scriptSetNo" : "T_일반통합_9"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "귀농에 성공하는 법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1528882020",
+    "age" : 21
+  }
+}

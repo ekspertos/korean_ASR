@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "여름철이라 상할까봐 웬만한 건 다 냉장고에 넣었더니 더 그런 거 같아요",
+    "scriptId" : "일반통합-09522",
+    "fileNm" : "일반남여_일반통합07_F_1526947547_45_수도권_실내_09522.wav",
+    "recrdTime" : "5.290",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-09 19:11:00",
+    "scriptSetNo" : "T_일반통합_7"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "냉장고 정리하기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526947547",
+    "age" : 45
+  }
+}

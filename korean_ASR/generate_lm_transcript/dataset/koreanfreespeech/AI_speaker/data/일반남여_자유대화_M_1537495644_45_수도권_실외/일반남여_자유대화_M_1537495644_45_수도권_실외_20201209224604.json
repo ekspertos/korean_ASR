@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "최고의 지도자는 있다는 존재만 느끼게 한다 그 다음은 친절하여 칭찬받는 지도자이다",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1537495644_45_수도권_실외_20201209224604.wav",
+    "recrdTime" : "13.650",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-09 22:46:07",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실외",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "#외국명언 #국내명언"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1537495644",
+    "age" : 45
+  }
+}

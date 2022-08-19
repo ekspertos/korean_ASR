@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(NO:)(SN:)자기 딴엔 이번 시험에 암기 과목 점수를 올리겠다면서 열심히 외운 거 같은데 효과가 없었더라고",
+    "scriptId" : "07020",
+    "fileNm" : "일반남여_일반통합05_M_23tmddn_20_수도권_실내_07020.wav",
+    "recrdTime" : "10.280",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-05 14:25:09",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "암기 잘하는 법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "23tmddn",
+    "age" : 20
+  }
+}

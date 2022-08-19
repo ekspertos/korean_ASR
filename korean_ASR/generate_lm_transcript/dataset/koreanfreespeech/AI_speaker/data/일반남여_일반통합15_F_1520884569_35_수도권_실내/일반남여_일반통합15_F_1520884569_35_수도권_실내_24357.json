@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그래 그래 국물 마시면 기운이 좀 날 거야 엄마가 소고기 듬뿍 넣어서 끓였어",
+    "scriptId" : "일반통합-24357",
+    "fileNm" : "일반남여_일반통합15_F_1520884569_35_수도권_실내_24357.wav",
+    "recrdTime" : "6.910",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-17 16:52:28",
+    "scriptSetNo" : "T_일반통합_15"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "아침 식사 대화 1"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1520884569",
+    "age" : 35
+  }
+}

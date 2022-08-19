@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "난 초코 덕후라 와플에도 꼭 초코시럽 뿌려 먹는다 ",
+    "scriptId" : "일반통합-23655",
+    "fileNm" : "일반남여_일반통합15_F_1527763197_36_수도권_실내_23655.wav",
+    "recrdTime" : "4.350",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-19 20:35:44",
+    "scriptSetNo" : "T_일반통합_15"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "세계의 디저트"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1527763197",
+    "age" : 36
+  }
+}

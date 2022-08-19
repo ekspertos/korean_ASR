@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "아 이거 노트북으로도 녹음할 수 있나요 노트북으로 할 생각은 한번도 안 해봤네요 노트북이 조금 더 빠른 거 같아요 핸드폰은 처리 속도가 조금 느린 거 같은데",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1542570778_32_수도권_실내_20201127235147.wav",
+    "recrdTime" : "13.740",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-27 23:51:50",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "녹음"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1542570778",
+    "age" : 32
+  }
+}

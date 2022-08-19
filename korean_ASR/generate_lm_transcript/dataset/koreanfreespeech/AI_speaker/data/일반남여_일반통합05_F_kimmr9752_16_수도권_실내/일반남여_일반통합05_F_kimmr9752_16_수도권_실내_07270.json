@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "워낙 바빠서 그렇지",
+    "scriptId" : "07270",
+    "fileNm" : "일반남여_일반통합05_F_kimmr9752_16_수도권_실내_07270.wav",
+    "recrdTime" : "3.320",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-13 13:05:47",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "요리 개발하기 "
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "kimmr9752",
+    "age" : 16
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "매콤한 함흥냉면과 함께 삼삼한 만두 한개 곁들이면 캬",
+    "scriptId" : "일반통합-13699",
+    "fileNm" : "일반남여_일반통합10_M_1527076639_24_수도권_실외_13699.wav",
+    "recrdTime" : "7.000",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-11 23:36:27",
+    "scriptSetNo" : "T_일반통합_10"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실외",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "평양냉면 VS 함흥냉면"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527076639",
+    "age" : 24
+  }
+}

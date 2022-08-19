@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "비록 내가 그녀를 안 지는 이주 밖에 안되지만 나는 그녀를 죽도록 사랑한다 ",
+    "scriptId" : "일반통합-24161",
+    "fileNm" : "일반남여_일반통합16_F_1524039388_28_경상_실내_24161.wav",
+    "recrdTime" : "6.830",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-17 15:49:21",
+    "scriptSetNo" : "T_일반통합_16"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524039388",
+    "age" : 28
+  }
+}

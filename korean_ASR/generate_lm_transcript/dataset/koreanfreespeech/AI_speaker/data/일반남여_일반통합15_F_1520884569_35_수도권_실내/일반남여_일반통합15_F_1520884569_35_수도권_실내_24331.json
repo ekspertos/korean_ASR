@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "요즘 창문 열고 많이 자는데 다들 깼을 거야 어제도 밖에 웅성웅성 하더라",
+    "scriptId" : "일반통합-24331",
+    "fileNm" : "일반남여_일반통합15_F_1520884569_35_수도권_실내_24331.wav",
+    "recrdTime" : "5.630",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-17 16:50:09",
+    "scriptSetNo" : "T_일반통합_15"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "아침 식사 대화 1"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1520884569",
+    "age" : 35
+  }
+}

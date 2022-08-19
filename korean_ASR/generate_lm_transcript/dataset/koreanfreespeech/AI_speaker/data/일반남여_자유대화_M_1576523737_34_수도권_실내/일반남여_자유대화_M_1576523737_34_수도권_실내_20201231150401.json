@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "코로나 시대 즐거울 수 있는 일들이 별로 없는데 그나마 식당은 계속 열어 있어서 외식이 거의 유일한 즐거움인 것 같아요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1576523737_34_수도권_실내_20201231150401.wav",
+    "recrdTime" : "11.770",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 15:04:03",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "구디"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1576523737",
+    "age" : 34
+  }
+}

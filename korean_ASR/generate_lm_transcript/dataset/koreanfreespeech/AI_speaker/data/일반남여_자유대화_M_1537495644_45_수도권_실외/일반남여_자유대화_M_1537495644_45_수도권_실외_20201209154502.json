@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "고마우면 고맙다고 미안하면 미안하다고 큰 소리로 말하라 마음으로 고맙다고 생각하는 것은 인사가 아니다 남이 내 마음 속까지 읽을 만큼 한가 하지가 않다",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1537495644_45_수도권_실외_20201209154502.wav",
+    "recrdTime" : "14.670",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-09 15:45:15",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실외",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "#외국명언 #국내명언"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1537495644",
+    "age" : 45
+  }
+}

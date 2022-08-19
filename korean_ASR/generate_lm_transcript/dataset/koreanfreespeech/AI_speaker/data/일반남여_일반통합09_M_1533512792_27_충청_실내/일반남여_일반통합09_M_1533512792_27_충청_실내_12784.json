@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "니 말이 맞다 오늘은 그냥 축하하고 즐기자",
+    "scriptId" : "일반통합-12784",
+    "fileNm" : "일반남여_일반통합09_M_1533512792_27_충청_실내_12784.wav",
+    "recrdTime" : "4.350",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-16 12:13:56",
+    "scriptSetNo" : "T_일반통합_9"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "대학 졸업식장에서 친구와"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1533512792",
+    "age" : 27
+  }
+}

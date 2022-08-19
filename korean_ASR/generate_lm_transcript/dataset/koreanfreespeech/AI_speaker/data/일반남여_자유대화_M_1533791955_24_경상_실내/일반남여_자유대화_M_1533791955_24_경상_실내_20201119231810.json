@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "치킨을 먹고 싶습니다",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1533791955_24_경상_실내_20201119231810.wav",
+    "recrdTime" : "4.520",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-19 23:18:11",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "저녁 식단"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1533791955",
+    "age" : 24
+  }
+}

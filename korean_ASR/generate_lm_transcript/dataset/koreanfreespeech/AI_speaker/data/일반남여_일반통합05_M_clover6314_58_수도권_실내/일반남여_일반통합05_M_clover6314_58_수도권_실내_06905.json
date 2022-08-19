@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "여기저기 식초 냄새를 풍기면서 다닐 수는 없잖아",
+    "scriptId" : "06905",
+    "fileNm" : "일반남여_일반통합05_M_clover6314_58_수도권_실내_06905.wav",
+    "recrdTime" : "6.240",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-09 21:50:02",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "식초 활용법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "clover6314",
+    "age" : 58
+  }
+}

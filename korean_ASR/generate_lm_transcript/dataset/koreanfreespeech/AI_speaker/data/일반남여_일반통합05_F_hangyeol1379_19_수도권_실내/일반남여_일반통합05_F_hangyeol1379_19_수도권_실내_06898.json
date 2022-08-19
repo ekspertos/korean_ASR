@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "선글라스 닦는 데 말고 또 쓸 수 있는 데가 있어",
+    "scriptId" : "06898",
+    "fileNm" : "일반남여_일반통합05_F_hangyeol1379_19_수도권_실내_06898.wav",
+    "recrdTime" : "5.720",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-11 14:30:40",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "식초 활용법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "hangyeol1379",
+    "age" : 19
+  }
+}

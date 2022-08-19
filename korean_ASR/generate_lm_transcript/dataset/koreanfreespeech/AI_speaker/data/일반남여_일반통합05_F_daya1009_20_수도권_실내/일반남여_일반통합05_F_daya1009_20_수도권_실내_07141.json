@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "콜라가 녹슨 부분까지 제거할 수 있을까?",
+    "scriptId" : "07141",
+    "fileNm" : "일반남여_일반통합05_F_daya1009_20_수도권_실내_07141.wav",
+    "recrdTime" : "5.320",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-12 22:27:40",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "김빠진 콜라 활용법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "daya1009",
+    "age" : 20
+  }
+}

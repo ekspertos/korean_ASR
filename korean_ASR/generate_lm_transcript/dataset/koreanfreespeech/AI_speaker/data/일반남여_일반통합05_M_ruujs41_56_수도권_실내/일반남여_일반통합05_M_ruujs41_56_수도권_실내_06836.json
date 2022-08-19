@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "장수랑 변비가 무슨 관계가 있지",
+    "scriptId" : "06836",
+    "fileNm" : "일반남여_일반통합05_M_ruujs41_56_수도권_실내_06836.wav",
+    "recrdTime" : "4.600",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-09 13:05:14",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "변비에 좋은 음식"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "ruujs41",
+    "age" : 56
+  }
+}

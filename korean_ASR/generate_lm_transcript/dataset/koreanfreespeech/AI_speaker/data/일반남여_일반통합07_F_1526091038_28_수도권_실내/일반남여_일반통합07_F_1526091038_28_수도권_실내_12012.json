@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "콜라와 디스코텍을 합친 말입니다",
+    "scriptId" : "일반통합-12012",
+    "fileNm" : "일반남여_일반통합07_F_1526091038_28_수도권_실내_12012.wav",
+    "recrdTime" : "3.330",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-07 23:22:07",
+    "scriptSetNo" : "T_일반통합_7"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526091038",
+    "age" : 28
+  }
+}

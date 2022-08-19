@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(NO:작물 재배에서 토양은(SN:)온갖 병해충을 몰고 오는(SN:)주범이 될 수도 있거든요)",
+    "scriptId" : "06796",
+    "fileNm" : "일반남여_일반통합05_F_07230_49_수도권_실내_06796.wav",
+    "recrdTime" : "8.640",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-13 16:36:47",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "베란다에 텃밭 가꾸기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "07230",
+    "age" : 49
+  }
+}

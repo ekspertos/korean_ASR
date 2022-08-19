@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "시중에서 파는 쉐이빙 크림에는 화학물질이 많이 함유돼 있는데, 아보카도에는 비타민 에이와 이가 들어가 있어서 피부를 부드럽게 해준대.",
+    "scriptId" : "06726",
+    "fileNm" : "일반남여_일반통합05_M_monkey040922_18_수도권_실내_06726.wav",
+    "recrdTime" : "10.520",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-11 18:22:30",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "아보카도, 피부에 양보하세요"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "monkey040922",
+    "age" : 18
+  }
+}

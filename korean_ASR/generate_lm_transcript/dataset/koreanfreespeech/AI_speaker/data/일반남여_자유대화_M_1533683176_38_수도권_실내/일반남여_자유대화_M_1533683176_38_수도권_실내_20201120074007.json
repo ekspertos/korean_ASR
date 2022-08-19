@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "오늘 금요일입니다 열심히 일하고 저녁에(SN: )아주 편한 마음으로 집으로 복귀를 해야지 되겠습니다",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1533683176_38_수도권_실내_20201120074007.wav",
+    "recrdTime" : "12.370",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-20 07:40:09",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "#일상 #기록"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1533683176",
+    "age" : 38
+  }
+}

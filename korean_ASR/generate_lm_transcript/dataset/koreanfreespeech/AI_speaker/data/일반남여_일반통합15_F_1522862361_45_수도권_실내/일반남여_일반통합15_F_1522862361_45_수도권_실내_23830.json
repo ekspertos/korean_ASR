@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "쌀떡이건 밀떡이건 떡볶이는 다 (SP:맛있는게) 팩트",
+    "scriptId" : "일반통합-23830",
+    "fileNm" : "일반남여_일반통합15_F_1522862361_45_수도권_실내_23830.wav",
+    "recrdTime" : "5.200",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-08 22:56:19",
+    "scriptSetNo" : "T_일반통합_15"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "떡볶이에 관하여 "
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1522862361",
+    "age" : 45
+  }
+}

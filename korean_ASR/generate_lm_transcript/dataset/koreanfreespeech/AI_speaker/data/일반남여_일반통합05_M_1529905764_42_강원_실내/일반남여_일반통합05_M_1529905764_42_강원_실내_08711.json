@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "사회는 인간에 의하여 만들어진 수산이다 ",
+    "scriptId" : "일반통합-08711",
+    "fileNm" : "일반남여_일반통합05_M_1529905764_42_강원_실내_08711.wav",
+    "recrdTime" : "4.270",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-22 20:44:50",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "강원",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1529905764",
+    "age" : 42
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "연정희씨 차에 또 실어서 보낸 일 있습니까",
+    "scriptId" : "일반통합-13359",
+    "fileNm" : "일반남여_일반통합10_M_1526889050_25_충청_실내_13359.wav",
+    "recrdTime" : "3.240",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-17 11:11:17",
+    "scriptSetNo" : "T_일반통합_10"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1526889050",
+    "age" : 25
+  }
+}

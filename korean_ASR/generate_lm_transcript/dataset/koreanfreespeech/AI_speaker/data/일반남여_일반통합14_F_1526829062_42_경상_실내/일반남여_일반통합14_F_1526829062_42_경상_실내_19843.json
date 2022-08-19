@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그런데 다섯살 때 여행을 갔을 때 아이가 엄마 나 비행기에서 밥 먹는 건 처음이야 이러는 거에요",
+    "scriptId" : "일반통합-19843",
+    "fileNm" : "일반남여_일반통합14_F_1526829062_42_경상_실내_19843.wav",
+    "recrdTime" : "7.250",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-11 00:42:52",
+    "scriptSetNo" : "T_일반통합_14"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "아이와 함께 한 해외여행 Ⅰ"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526829062",
+    "age" : 42
+  }
+}

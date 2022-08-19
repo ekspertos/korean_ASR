@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그때까지 사회적 거리두기 연장한다던데 그래도",
+    "scriptId" : "일반통합-13118",
+    "fileNm" : "일반남여_일반통합10_M_1526889050_25_충청_실내_13118.wav",
+    "recrdTime" : "4.860",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-16 10:11:30",
+    "scriptSetNo" : "T_일반통합_10"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "벌초하러 오라는 아버지"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1526889050",
+    "age" : 25
+  }
+}

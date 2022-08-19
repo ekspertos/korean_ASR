@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "실제로 두레 주택에 입주한 사람들은 공유 공간에서 사람들과 교류할 수 있어서 만족도가 높다고 하더라구.",
+    "scriptId" : "07007",
+    "fileNm" : "일반남여_일반통합05_M_sansuyu0_24_수도권_실내_07007.wav",
+    "recrdTime" : "9.520",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-11 20:47:27",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "혼족을 위한 지원 정책"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "sansuyu0",
+    "age" : 24
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "사기당하는 사람도 많다 던데.",
+    "scriptId" : "06524",
+    "fileNm" : "일반남여_일반통합05_M_khs2478_33_수도권_실내_06524.wav",
+    "recrdTime" : "4.000",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-13 10:29:13",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "에어비앤비 실패하지 않고 고르는 법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "khs2478",
+    "age" : 33
+  }
+}

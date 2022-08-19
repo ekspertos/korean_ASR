@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(SN:)집안 살림하다보면 커피 찌꺼기가 유용하게 쓰이는 곳이 많더라고(SN:)",
+    "scriptId" : "06928",
+    "fileNm" : "일반남여_일반통합05_M_elovek_35_수도권_실내_06928.wav",
+    "recrdTime" : "7.120",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-11 11:27:55",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "커피 찌꺼기 활용법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "elovek",
+    "age" : 35
+  }
+}

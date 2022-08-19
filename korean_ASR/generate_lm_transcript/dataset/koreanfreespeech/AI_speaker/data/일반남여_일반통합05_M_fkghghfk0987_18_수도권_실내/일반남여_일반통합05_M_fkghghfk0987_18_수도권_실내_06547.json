@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "나라도 에어비앤비를 사용한다면 그 지역 사람들과 어울리고 싶어서 일 거 같아",
+    "scriptId" : "06547",
+    "fileNm" : "일반남여_일반통합05_M_fkghghfk0987_18_수도권_실내_06547.wav",
+    "recrdTime" : "7.600",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-10 15:56:17",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "에어비앤비 실패하지 않고 고르는 법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "fkghghfk0987",
+    "age" : 18
+  }
+}

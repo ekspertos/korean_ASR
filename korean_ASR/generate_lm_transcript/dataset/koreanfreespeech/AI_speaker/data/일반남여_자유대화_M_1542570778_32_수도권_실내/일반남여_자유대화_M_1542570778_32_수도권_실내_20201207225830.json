@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그런데 저 뿐만 아니라 많은 사람들이 코로나 때문에 자신이 가지고 있던 취미를 잃어버린 것 같아요 코로나는 실제로 우리에게 많은 것을 빼앗아 간 것 같습니다",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1542570778_32_수도권_실내_20201207225830.wav",
+    "recrdTime" : "14.080",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-07 22:58:33",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "취미생활"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1542570778",
+    "age" : 32
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "맞아요 요새 핸드폰 너무 비싸요 삼성도 백만원 그냥 넘더라고요 저는 삼년 반 째 쓰고 있어요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1542783989_25_전라_실내_20201130230004.wav",
+    "recrdTime" : "10.240",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-30 23:00:07",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "전라",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "#자유"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1542783989",
+    "age" : 25
+  }
+}

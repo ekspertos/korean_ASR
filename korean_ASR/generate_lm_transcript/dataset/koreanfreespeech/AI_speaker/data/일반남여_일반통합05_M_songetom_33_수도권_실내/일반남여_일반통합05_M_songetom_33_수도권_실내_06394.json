@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그 정도면 만능인데",
+    "scriptId" : "06394",
+    "fileNm" : "일반남여_일반통합05_M_songetom_33_수도권_실내_06394.wav",
+    "recrdTime" : "3.080",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-13 15:14:06",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "오래된 구강청결제 버리지 마세요"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "songetom",
+    "age" : 33
+  }
+}

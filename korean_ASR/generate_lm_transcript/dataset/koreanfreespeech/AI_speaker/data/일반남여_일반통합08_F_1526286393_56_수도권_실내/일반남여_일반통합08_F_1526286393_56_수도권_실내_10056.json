@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "요즘은 그냥 아무것도 안하고 온종일 (SP:뒹굴거리고) 뒹굴거려도 하루가 훅 가더라 ",
+    "scriptId" : "일반통합-10056",
+    "fileNm" : "일반남여_일반통합08_F_1526286393_56_수도권_실내_10056.wav",
+    "recrdTime" : "7.420",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-13 22:25:08",
+    "scriptSetNo" : "T_일반통합_8"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "요즘 나를 행복하게 하는 것"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526286393",
+    "age" : 56
+  }
+}

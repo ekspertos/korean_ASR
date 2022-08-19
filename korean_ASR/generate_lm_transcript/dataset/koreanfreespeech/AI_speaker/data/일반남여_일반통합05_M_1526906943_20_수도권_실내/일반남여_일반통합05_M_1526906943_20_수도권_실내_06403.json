@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "지하철 타고 다닐 때 특히 신경이 쓰이지.",
+    "scriptId" : "일반통합-06403",
+    "fileNm" : "일반남여_일반통합05_M_1526906943_20_수도권_실내_06403.wav",
+    "recrdTime" : "4.440",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-09 22:43:13",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "오래된 구강청결제 버리지 마세요"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1526906943",
+    "age" : 20
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "딱 맞는 구두라도 오전에 사는 것보다 밤에 사는게 잘 맞기는 하겠네",
+    "scriptId" : "일반통합-09646",
+    "fileNm" : "일반남여_일반통합08_F_1527547888_23_경상_실내_09646.wav",
+    "recrdTime" : "6.060",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-13 22:53:59",
+    "scriptSetNo" : "T_일반통합_8"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "하이힐 건강하게 신는 법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1527547888",
+    "age" : 23
+  }
+}

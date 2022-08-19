@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "아마 평일 저녁이나 금요일에는 일을 못하지 않을까 싶어서 여유있게 계획을 세웠어요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1543151530_28_기타_실내_20201208133559.wav",
+    "recrdTime" : "9.980",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-08 13:35:59",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "기타",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "연습"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1543151530",
+    "age" : 28
+  }
+}

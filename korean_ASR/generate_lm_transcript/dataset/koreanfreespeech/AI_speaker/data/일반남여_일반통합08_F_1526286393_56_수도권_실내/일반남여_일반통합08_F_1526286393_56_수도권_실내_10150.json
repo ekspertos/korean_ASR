@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "굶거나 폭식을 반복하면 열량을 섭취하는 변동폭이 커져서 오히려 요요가 오기 쉽다며 ",
+    "scriptId" : "일반통합-10150",
+    "fileNm" : "일반남여_일반통합08_F_1526286393_56_수도권_실내_10150.wav",
+    "recrdTime" : "7.340",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-20 19:00:34",
+    "scriptSetNo" : "T_일반통합_8"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "다이어트 후, 체중 유지하려면?"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526286393",
+    "age" : 56
+  }
+}

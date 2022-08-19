@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "락스로 박박 닦으란 얘기가 아니었어 ",
+    "scriptId" : "일반통합-23729",
+    "fileNm" : "일반남여_일반통합15_F_1532609489_44_수도권_실내_23729.wav",
+    "recrdTime" : "4.440",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-16 12:28:48",
+    "scriptSetNo" : "T_일반통합_15"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "청소 쉽게 하는 꿀팁"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1532609489",
+    "age" : 44
+  }
+}

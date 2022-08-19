@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "응. 여성호르몬인 에스트로겐 감소가 주원인이래.  ",
+    "scriptId" : "일반통합-13737",
+    "fileNm" : "일반남여_일반통합10_M_1527076639_24_수도권_실외_13737.wav",
+    "recrdTime" : "7.170",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-11 23:43:38",
+    "scriptSetNo" : "T_일반통합_10"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실외",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "아내의 갱년기 "
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527076639",
+    "age" : 24
+  }
+}

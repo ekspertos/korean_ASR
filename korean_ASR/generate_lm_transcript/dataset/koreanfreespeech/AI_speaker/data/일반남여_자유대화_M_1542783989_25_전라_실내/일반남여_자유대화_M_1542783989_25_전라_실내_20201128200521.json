@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "미국 드라마에요 해외 미국 드라마예요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1542783989_25_전라_실내_20201128200521.wav",
+    "recrdTime" : "5.290",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-28 20:05:22",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "전라",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "취미생활"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1542783989",
+    "age" : 25
+  }
+}

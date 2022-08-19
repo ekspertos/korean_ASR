@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "어떻게",
+    "scriptId" : "07037",
+    "fileNm" : "일반남여_일반통합05_M_elovek_35_수도권_실내_07037.wav",
+    "recrdTime" : "2.560",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-12 13:03:00",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "암기 잘하는 법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "elovek",
+    "age" : 35
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "다른사람들은 매우 훌륭한 영화라고 상을 받는 게 당연하고 말 했지만 저는 동의를 할 수가 없습니다",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1543151530_28_기타_실내_20201213020756.wav",
+    "recrdTime" : "11.860",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-13 02:07:56",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "기타",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "취미생활"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1543151530",
+    "age" : 28
+  }
+}

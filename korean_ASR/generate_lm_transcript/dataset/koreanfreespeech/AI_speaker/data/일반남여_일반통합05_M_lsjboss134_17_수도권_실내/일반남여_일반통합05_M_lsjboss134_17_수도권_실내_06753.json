@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(SN:)콜라 하면 떠오르는 상표가 있죠",
+    "scriptId" : "06753",
+    "fileNm" : "일반남여_일반통합05_M_lsjboss134_17_수도권_실내_06753.wav",
+    "recrdTime" : "5.120",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-06 13:42:59",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "lsjboss134",
+    "age" : 17
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그럼 자랄 때 재밌었겠어요 어릴 때 비슷한 나이대 친척들 많으면 좋잖아요",
+    "scriptId" : "일반통합-16045",
+    "fileNm" : "일반남여_일반통합11_F_1527167301_42_수도권_실내_16045.wav",
+    "recrdTime" : "7.680",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-16 13:55:45",
+    "scriptSetNo" : "T_일반통합_11"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "소개팅 1"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1527167301",
+    "age" : 42
+  }
+}

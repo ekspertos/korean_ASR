@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(SN:우진이하고) 혜식이도 오라고 할까",
+    "scriptId" : "일반통합-12810",
+    "fileNm" : "일반남여_일반통합09_M_1528882020_21_수도권_실내_12810.wav",
+    "recrdTime" : "2.820",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-11 17:55:49",
+    "scriptSetNo" : "T_일반통합_9"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "대학 졸업식장에서 친구와"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1528882020",
+    "age" : 21
+  }
+}

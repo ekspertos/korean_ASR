@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그래서 애가 치과에 가면 더 경기를 하는 건가",
+    "scriptId" : "일반통합-09727",
+    "fileNm" : "일반남여_일반통합07_F_1526091038_28_수도권_실내_09727.wav",
+    "recrdTime" : "4.270",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-15 10:07:31",
+    "scriptSetNo" : "T_일반통합_7"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "치과 공포증 극복하기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526091038",
+    "age" : 28
+  }
+}

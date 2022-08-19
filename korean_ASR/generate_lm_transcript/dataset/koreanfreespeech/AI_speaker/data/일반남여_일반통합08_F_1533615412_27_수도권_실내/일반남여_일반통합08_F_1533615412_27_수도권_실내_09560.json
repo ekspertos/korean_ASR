@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "냉장고 원리를 조금만 이해해도 더 신선한 상태로 재료를 보관할 수 있어요",
+    "scriptId" : "일반통합-09560",
+    "fileNm" : "일반남여_일반통합08_F_1533615412_27_수도권_실내_09560.wav",
+    "recrdTime" : "5.800",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-16 15:07:18",
+    "scriptSetNo" : "T_일반통합_8"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "냉장고 정리하기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1533615412",
+    "age" : 27
+  }
+}

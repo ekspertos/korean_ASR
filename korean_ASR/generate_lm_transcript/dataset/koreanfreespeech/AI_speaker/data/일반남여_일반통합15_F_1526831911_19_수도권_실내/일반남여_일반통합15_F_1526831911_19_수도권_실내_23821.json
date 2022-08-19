@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "엄마한테 혼나고 내가 풀죽어 있으면 아빠가 거기서 떡볶이를 사주셨어",
+    "scriptId" : "일반통합-23821",
+    "fileNm" : "일반남여_일반통합15_F_1526831911_19_수도권_실내_23821.wav",
+    "recrdTime" : "6.740",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-12 11:47:05",
+    "scriptSetNo" : "T_일반통합_15"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "떡볶이에 관하여 "
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526831911",
+    "age" : 19
+  }
+}

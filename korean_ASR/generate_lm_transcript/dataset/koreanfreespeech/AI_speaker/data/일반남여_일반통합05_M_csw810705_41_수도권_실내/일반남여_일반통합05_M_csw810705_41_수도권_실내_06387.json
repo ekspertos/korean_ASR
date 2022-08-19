@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(NO:) (SN:) 그래서 그런 구체적인 정보까지 알게 된 거야",
+    "scriptId" : "06387",
+    "fileNm" : "일반남여_일반통합05_M_csw810705_41_수도권_실내_06387.wav",
+    "recrdTime" : "6.920",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-12 13:03:14",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "오래된 구강청결제 버리지 마세요"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "csw810705",
+    "age" : 41
+  }
+}

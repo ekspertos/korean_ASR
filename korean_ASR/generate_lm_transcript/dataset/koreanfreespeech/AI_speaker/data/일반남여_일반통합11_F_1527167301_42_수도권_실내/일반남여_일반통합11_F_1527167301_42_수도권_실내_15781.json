@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그럼요 평상시에도 편한 신발 아니면 신을 수가 없어요 엄마가 덜렁대서 그렇대요",
+    "scriptId" : "일반통합-15781",
+    "fileNm" : "일반남여_일반통합11_F_1527167301_42_수도권_실내_15781.wav",
+    "recrdTime" : "7.170",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-14 22:35:41",
+    "scriptSetNo" : "T_일반통합_11"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "데이트"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1527167301",
+    "age" : 42
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "셔터 아일랜드를 제가 과거에 봤었는데 이번 기회에 또 한번 보게 되었습니다 어(FP:) 두세번 봐도 재밌더라구요 여러분들도 여러번 보신 영화들이 있나요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1533683176_38_수도권_실내_20201116174741.wav",
+    "recrdTime" : "15.020",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-16 17:47:43",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "영화 문학 성격 뭐든"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1533683176",
+    "age" : 38
+  }
+}

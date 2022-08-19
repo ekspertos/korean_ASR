@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "뿌려주기만 하는데 주름이 펴진다고",
+    "scriptId" : "06901",
+    "fileNm" : "일반남여_일반통합05_M_qyeobk_56_수도권_실내_06901.wav",
+    "recrdTime" : "4.320",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-09 14:22:22",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "식초 활용법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "qyeobk",
+    "age" : 56
+  }
+}

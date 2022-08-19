@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "나는 맨날 카드값이 빵구라 지난달부터 써 보려고 노력 중인데 이게 막상 쓰려니 어렵네",
+    "scriptId" : "일반통합-09566",
+    "fileNm" : "일반남여_일반통합07_F_1526947547_45_수도권_실내_09566.wav",
+    "recrdTime" : "7.000",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-09 22:44:59",
+    "scriptSetNo" : "T_일반통합_7"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "가계부 쓰기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526947547",
+    "age" : 45
+  }
+}

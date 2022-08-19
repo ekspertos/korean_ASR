@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "침대나 서랍장 밑은 너무 먼지가 쌓여서 보는 것도 좀 두려운데 ",
+    "scriptId" : "일반통합-23749",
+    "fileNm" : "일반남여_일반통합15_F_1532609489_44_수도권_실내_23749.wav",
+    "recrdTime" : "8.190",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-16 12:30:46",
+    "scriptSetNo" : "T_일반통합_15"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "청소 쉽게 하는 꿀팁"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1532609489",
+    "age" : 44
+  }
+}

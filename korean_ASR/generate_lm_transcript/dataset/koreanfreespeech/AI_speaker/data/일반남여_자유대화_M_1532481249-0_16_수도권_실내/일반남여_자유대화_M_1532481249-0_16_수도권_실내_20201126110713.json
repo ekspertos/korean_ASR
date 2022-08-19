@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "나는 시골 출신이다 중소도시에 있는 고등학교에(NO:) 입학하지만 입학하기만 해도 주변에서는(SN:) 개천에서 용났다고 칭찬이",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1532481249-0_16_수도권_실내_20201126110713.wav",
+    "recrdTime" : "15.020",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-26 11:07:14",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "Windows 10",
+    "convrsThema" : "#취미#베스트셀러#노래#공부"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1532481249-0",
+    "age" : 16
+  }
+}

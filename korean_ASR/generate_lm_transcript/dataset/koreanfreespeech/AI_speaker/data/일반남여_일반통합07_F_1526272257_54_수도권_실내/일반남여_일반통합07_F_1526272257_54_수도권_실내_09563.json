@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "가계부 써 본 적 있어",
+    "scriptId" : "일반통합-09563",
+    "fileNm" : "일반남여_일반통합07_F_1526272257_54_수도권_실내_09563.wav",
+    "recrdTime" : "3.330",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-09 00:06:08",
+    "scriptSetNo" : "T_일반통합_7"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "가계부 쓰기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526272257",
+    "age" : 54
+  }
+}

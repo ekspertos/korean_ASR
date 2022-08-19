@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "오은별양이 두살 때 그린 진달래입니다",
+    "scriptId" : "일반통합-12661",
+    "fileNm" : "일반남여_일반통합10_M_1526889050_25_충청_실내_12661.wav",
+    "recrdTime" : "4.270",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-09 18:29:45",
+    "scriptSetNo" : "T_일반통합_10"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1526889050",
+    "age" : 25
+  }
+}

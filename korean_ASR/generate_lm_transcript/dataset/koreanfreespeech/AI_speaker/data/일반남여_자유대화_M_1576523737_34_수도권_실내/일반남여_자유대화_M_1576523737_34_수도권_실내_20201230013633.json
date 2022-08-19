@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "저는 매운 음식으로 해장을 하면 속이 뒤집어지더라고요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1576523737_34_수도권_실내_20201230013633.wav",
+    "recrdTime" : "4.860",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-30 01:36:34",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "구디"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1576523737",
+    "age" : 34
+  }
+}

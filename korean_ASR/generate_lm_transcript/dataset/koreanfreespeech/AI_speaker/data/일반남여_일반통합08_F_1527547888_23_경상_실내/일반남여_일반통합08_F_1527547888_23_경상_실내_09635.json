@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "평일은 회사 때문에 바쁘니까 쇼핑하기 힘들고 아무래도 주말에 자주 가지",
+    "scriptId" : "일반통합-09635",
+    "fileNm" : "일반남여_일반통합08_F_1527547888_23_경상_실내_09635.wav",
+    "recrdTime" : "6.480",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-13 22:51:28",
+    "scriptSetNo" : "T_일반통합_8"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "하이힐 건강하게 신는 법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1527547888",
+    "age" : 23
+  }
+}

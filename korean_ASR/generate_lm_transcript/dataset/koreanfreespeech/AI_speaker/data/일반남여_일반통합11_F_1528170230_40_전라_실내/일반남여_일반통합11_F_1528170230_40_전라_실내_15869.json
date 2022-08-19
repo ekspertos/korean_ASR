@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "제가 실수한 건 맞는데 그렇다고 부서원들 다 있는 앞에서 그렇게 소리까지 지르시다니",
+    "scriptId" : "일반통합-15869",
+    "fileNm" : "일반남여_일반통합11_F_1528170230_40_전라_실내_15869.wav",
+    "recrdTime" : "7.250",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-10 23:51:26",
+    "scriptSetNo" : "T_일반통합_11"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "전라",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "단맛에 대한 오해와 진실"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1528170230",
+    "age" : 40
+  }
+}

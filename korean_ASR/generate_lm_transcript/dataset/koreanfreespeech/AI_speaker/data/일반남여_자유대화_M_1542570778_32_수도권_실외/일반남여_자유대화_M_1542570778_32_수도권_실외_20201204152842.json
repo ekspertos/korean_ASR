@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "오후 되니까 획실히 몸이 많이 나른해지내요 얼른 차 한잔 커피 한 잔 하고 나머지 일을 잘 집중해야 겠어요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1542570778_32_수도권_실외_20201204152842.wav",
+    "recrdTime" : "14.760",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-04 15:28:44",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실외",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "#자유"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1542570778",
+    "age" : 32
+  }
+}

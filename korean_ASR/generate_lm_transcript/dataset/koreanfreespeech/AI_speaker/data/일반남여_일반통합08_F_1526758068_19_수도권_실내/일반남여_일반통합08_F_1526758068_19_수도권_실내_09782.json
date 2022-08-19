@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "어우 주부는 살림 할 것도 얼마(SP:나라 )많은데 다녀 오세요 그래",
+    "scriptId" : "일반통합-09782",
+    "fileNm" : "일반남여_일반통합08_F_1526758068_19_수도권_실내_09782.wav",
+    "recrdTime" : "6.400",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-12 04:16:41",
+    "scriptSetNo" : "T_일반통합_8"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "아버지 봉양하기 "
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526758068",
+    "age" : 19
+  }
+}

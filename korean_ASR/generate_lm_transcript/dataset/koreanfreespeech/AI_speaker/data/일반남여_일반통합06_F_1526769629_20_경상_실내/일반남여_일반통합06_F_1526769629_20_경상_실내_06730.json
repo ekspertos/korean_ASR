@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "아보카도를 으깨서 섞어주면 되는 거죠",
+    "scriptId" : "일반통합-06730",
+    "fileNm" : "일반남여_일반통합06_F_1526769629_20_경상_실내_06730.wav",
+    "recrdTime" : "3.840",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-09 20:55:37",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "아보카도, 피부에 양보하세요"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526769629",
+    "age" : 20
+  }
+}

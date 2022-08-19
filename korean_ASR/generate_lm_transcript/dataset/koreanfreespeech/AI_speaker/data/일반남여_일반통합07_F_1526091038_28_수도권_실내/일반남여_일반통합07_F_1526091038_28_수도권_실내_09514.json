@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "애들도 학교에 안가고 남편도 재택근무라 삼시세끼를 하려니 정말 지치네요",
+    "scriptId" : "일반통합-09514",
+    "fileNm" : "일반남여_일반통합07_F_1526091038_28_수도권_실내_09514.wav",
+    "recrdTime" : "6.480",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-11 22:42:49",
+    "scriptSetNo" : "T_일반통합_7"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "냉장고 정리하기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526091038",
+    "age" : 28
+  }
+}

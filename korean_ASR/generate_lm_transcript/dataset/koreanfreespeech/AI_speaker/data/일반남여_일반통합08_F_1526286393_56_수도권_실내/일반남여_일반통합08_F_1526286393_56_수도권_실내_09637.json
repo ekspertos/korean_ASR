@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "누가 밤에 쇼핑을 해",
+    "scriptId" : "일반통합-09637",
+    "fileNm" : "일반남여_일반통합08_F_1526286393_56_수도권_실내_09637.wav",
+    "recrdTime" : "2.560",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-10 00:08:33",
+    "scriptSetNo" : "T_일반통합_8"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "하이힐 건강하게 신는 법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526286393",
+    "age" : 56
+  }
+}

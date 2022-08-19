@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "음 난 뭘 입어야 할 지 아직 고민이네",
+    "scriptId" : "일반통합-19630",
+    "fileNm" : "일반남여_일반통합14_F_1520925689_20_수도권_실내_19630.wav",
+    "recrdTime" : "3.750",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-09 16:37:25",
+    "scriptSetNo" : "T_일반통합_14"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "결혼식에 입고 갈 옷 고르기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1520925689",
+    "age" : 20
+  }
+}

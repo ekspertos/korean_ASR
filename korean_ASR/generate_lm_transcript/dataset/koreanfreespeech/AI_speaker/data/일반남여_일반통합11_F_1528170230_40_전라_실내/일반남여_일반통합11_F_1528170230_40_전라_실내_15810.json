@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "저도 그래요 정신 차리고 보면 어느새 일주일이 훅 지났더라고요",
+    "scriptId" : "일반통합-15810",
+    "fileNm" : "일반남여_일반통합11_F_1528170230_40_전라_실내_15810.wav",
+    "recrdTime" : "7.080",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-10 23:43:59",
+    "scriptSetNo" : "T_일반통합_11"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "전라",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "데이트"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1528170230",
+    "age" : 40
+  }
+}

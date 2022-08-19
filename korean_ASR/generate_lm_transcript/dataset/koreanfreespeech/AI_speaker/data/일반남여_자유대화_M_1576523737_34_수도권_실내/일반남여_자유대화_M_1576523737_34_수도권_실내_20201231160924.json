@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "친한 사람들만 모여서 가볍게 술 한잔 하고 싶은데 괜히 깔깔 거리에 있다가 아는사람 마주 칠까봐 걱정 되시는 분들이라면",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1576523737_34_수도권_실내_20201231160924.wav",
+    "recrdTime" : "11.010",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 16:09:28",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "구디"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1576523737",
+    "age" : 34
+  }
+}

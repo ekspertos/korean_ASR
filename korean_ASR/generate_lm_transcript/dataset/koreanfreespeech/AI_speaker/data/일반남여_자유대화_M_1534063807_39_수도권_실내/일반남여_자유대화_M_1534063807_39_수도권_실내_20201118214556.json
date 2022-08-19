@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "다른 의사표현은 아직 정확하지 않은데 공룡 이름은 몇 십개를 달달 외우네요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1534063807_39_수도권_실내_20201118214556.wav",
+    "recrdTime" : "8.020",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-18 21:45:58",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "#육아 #양육"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1534063807",
+    "age" : 39
+  }
+}

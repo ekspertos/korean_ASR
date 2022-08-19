@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "연말 행사와 정말 우리 많이 조심해야 돼요 연말행사도 좋지만 지금 시국이 시국인 만큼 다 될 힘을 합쳐서 조심하고 경각심을 가져야 할 필요가 있다고 생각해요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1542570778_32_수도권_실내_20201208103400.wav",
+    "recrdTime" : "14.500",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-08 10:34:00",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "녹음"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1542570778",
+    "age" : 32
+  }
+}

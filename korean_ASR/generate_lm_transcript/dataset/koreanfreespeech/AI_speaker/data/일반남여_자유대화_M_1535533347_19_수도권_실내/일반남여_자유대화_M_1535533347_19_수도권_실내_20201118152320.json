@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "여러분들은 어떻게 저녁식사를 하실 건가요 대답이 없으시네",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1535533347_19_수도권_실내_20201118152320.wav",
+    "recrdTime" : "7.760",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-18 15:23:20",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "Windows 10",
+    "convrsThema" : "저녁 식단"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1535533347",
+    "age" : 19
+  }
+}

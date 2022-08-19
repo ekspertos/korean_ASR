@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(NO:)노 노 락스를 (NO:휴지에 적신 후 곰팡이가) 핀 부분에 올려두기만 해",
+    "scriptId" : "일반통합-23727",
+    "fileNm" : "일반남여_일반통합16_F_1527681614_32_전라_실내_23727.wav",
+    "recrdTime" : "6.910",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-11 14:37:13",
+    "scriptSetNo" : "T_일반통합_16"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "전라",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "청소 쉽게 하는 꿀팁"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1527681614",
+    "age" : 32
+  }
+}

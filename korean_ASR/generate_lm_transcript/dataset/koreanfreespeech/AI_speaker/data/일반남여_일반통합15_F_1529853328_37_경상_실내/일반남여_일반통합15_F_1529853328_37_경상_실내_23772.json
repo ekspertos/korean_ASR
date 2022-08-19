@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "맞아 친구들이랑 온탕 냉탕 오가면서 노는 것도 재밌고 ",
+    "scriptId" : "일반통합-23772",
+    "fileNm" : "일반남여_일반통합15_F_1529853328_37_경상_실내_23772.wav",
+    "recrdTime" : "4.690",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-15 23:31:17",
+    "scriptSetNo" : "T_일반통합_15"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "코로나가 종식된다면 나는"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1529853328",
+    "age" : 37
+  }
+}

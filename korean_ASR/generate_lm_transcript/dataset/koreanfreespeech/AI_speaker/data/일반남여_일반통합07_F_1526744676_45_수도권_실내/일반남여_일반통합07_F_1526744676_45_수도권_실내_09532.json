@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그럼 쉽게 상하는 음식을 냉장고 안 쪽에 넣어야겠네요",
+    "scriptId" : "일반통합-09532",
+    "fileNm" : "일반남여_일반통합07_F_1526744676_45_수도권_실내_09532.wav",
+    "recrdTime" : "4.610",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-16 10:31:44",
+    "scriptSetNo" : "T_일반통합_7"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "냉장고 정리하기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526744676",
+    "age" : 45
+  }
+}

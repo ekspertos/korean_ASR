@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "운동과 관련한 여러 가지 일화가 있는데 그중 나는 내가 왜 운동을 시작하게 되었는지에 대하여 먼저 말하고자 한다",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1541553560_23_경상_실내_20201126113931.wav",
+    "recrdTime" : "7.250",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-26 11:39:32",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "#취미#베스트셀러#노래#공부"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1541553560",
+    "age" : 23
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "헬스하시던 분이 집에서 운동하면은 집에서는 운동 어떻게 하세요 중량을 많이 못 치잖아요 집에서는",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1542570778_32_수도권_실내_20201126150830.wav",
+    "recrdTime" : "10.750",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-26 15:08:30",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "취미생활"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1542570778",
+    "age" : 32
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "요즘 온라인 세탁 배달 업체들이 많은데 거기를 이용하면 되잖아",
+    "scriptId" : "일반통합-15970",
+    "fileNm" : "일반남여_일반통합11_F_1527000216_43_수도권_실내_15970.wav",
+    "recrdTime" : "5.030",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-16 15:35:33",
+    "scriptSetNo" : "T_일반통합_11"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "자취생 빨래 잘하는 법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1527000216",
+    "age" : 43
+  }
+}

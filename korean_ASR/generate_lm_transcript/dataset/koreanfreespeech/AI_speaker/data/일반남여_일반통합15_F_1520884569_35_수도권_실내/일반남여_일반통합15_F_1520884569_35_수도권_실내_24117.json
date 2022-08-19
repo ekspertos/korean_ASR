@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "눈 밑에 갑자기 기미가 생기는 (SP:거) 신장 기능 저하가 원인이래",
+    "scriptId" : "일반통합-24117",
+    "fileNm" : "일반남여_일반통합15_F_1520884569_35_수도권_실내_24117.wav",
+    "recrdTime" : "5.120",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-05 23:24:15",
+    "scriptSetNo" : "T_일반통합_15"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "눈으로 체크할 수 있는 질병"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1520884569",
+    "age" : 35
+  }
+}

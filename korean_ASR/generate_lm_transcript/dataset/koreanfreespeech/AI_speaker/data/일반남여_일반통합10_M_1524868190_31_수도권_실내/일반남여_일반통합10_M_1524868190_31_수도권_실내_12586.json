@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "아 그렇네요 물에 닿으면 잎이 쉽게 물러지겠군요",
+    "scriptId" : "일반통합-12586",
+    "fileNm" : "일반남여_일반통합10_M_1524868190_31_수도권_실내_12586.wav",
+    "recrdTime" : "5.370",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-07 16:56:15",
+    "scriptSetNo" : "T_일반통합_10"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "꽃다발 오래 보관하는 방법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1524868190",
+    "age" : 31
+  }
+}

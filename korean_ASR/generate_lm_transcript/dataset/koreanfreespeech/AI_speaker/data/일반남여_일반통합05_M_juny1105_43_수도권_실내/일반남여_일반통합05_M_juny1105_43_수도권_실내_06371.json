@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(NO:) 클리너도 아닌데 (NO:)",
+    "scriptId" : "06371",
+    "fileNm" : "일반남여_일반통합05_M_juny1105_43_수도권_실내_06371.wav",
+    "recrdTime" : "4.120",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-11 13:01:43",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "오래된 구강청결제 버리지 마세요"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "juny1105",
+    "age" : 43
+  }
+}

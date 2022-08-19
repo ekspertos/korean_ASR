@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "삼십대 이하로 구성된 팀들은 정말 회사 회식으로 더 자주들 오시는 거 같아요 개인적으로 여기가 제일 추천할 만한 장소인 것 같네요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1576523737_34_수도권_실내_20201231145840.wav",
+    "recrdTime" : "11.260",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 14:58:43",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "구디"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1576523737",
+    "age" : 34
+  }
+}

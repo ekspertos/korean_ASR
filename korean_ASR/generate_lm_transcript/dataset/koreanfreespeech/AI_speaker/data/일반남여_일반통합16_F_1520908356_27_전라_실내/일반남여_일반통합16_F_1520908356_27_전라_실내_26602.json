@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그러나 뜻을 세우지 아니하고 능히 성공하는 사람이 없다 ",
+    "scriptId" : "일반통합-26602",
+    "fileNm" : "일반남여_일반통합16_F_1520908356_27_전라_실내_26602.wav",
+    "recrdTime" : "5.630",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-30 23:00:42",
+    "scriptSetNo" : "T_일반통합_16"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "전라",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1520908356",
+    "age" : 27
+  }
+}

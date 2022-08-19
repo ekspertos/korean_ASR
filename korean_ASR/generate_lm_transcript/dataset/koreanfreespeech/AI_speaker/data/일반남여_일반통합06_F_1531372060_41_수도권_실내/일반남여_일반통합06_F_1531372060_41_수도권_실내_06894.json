@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "우선 물과 식초를 삼 대 일 비율로 섞어서 분무기에 넣어 ",
+    "scriptId" : "일반통합-06894",
+    "fileNm" : "일반남여_일반통합06_F_1531372060_41_수도권_실내_06894.wav",
+    "recrdTime" : "5.030",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-14 21:32:49",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "식초 활용법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1531372060",
+    "age" : 41
+  }
+}

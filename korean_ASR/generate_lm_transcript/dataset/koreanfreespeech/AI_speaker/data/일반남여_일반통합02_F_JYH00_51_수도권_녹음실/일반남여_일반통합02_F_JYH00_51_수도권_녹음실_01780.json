@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그렇구나 좋은 정보 고마워",
+    "scriptId" : "01780",
+    "fileNm" : "일반남여_일반통합02_F_JYH00_51_수도권_녹음실_01780.wavp",
+    "recrdTime" : "4.590",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-10-06 13:09:48",
+    "scriptSetNo" : "일반통합02"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "녹음실",
+    "colctUnitCode" : "스튜디오",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AI스피커",
+    "convrsThema" : "맛있는 과일 고르기 & 보관법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "JYH00",
+    "age" : 51
+  }
+}

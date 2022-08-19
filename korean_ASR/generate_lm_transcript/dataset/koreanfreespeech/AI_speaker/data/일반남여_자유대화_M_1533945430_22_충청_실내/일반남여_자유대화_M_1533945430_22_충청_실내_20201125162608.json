@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "여기 자취하시는 분들 계신가요 보통 무엇을 해먹으세요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1533945430_22_충청_실내_20201125162608.wav",
+    "recrdTime" : "7.680",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-25 16:26:09",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "Windows 10",
+    "convrsThema" : "#일상 #기록"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1533945430",
+    "age" : 22
+  }
+}

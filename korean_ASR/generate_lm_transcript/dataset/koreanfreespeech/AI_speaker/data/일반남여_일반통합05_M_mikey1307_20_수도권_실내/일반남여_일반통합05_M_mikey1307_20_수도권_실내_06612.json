@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(SN:)엠엠에프형은 이자가 가장 높지만 그만큼 위험도 크니 지금(SP:은) 무리일 거 같고",
+    "scriptId" : "06612",
+    "fileNm" : "일반남여_일반통합05_M_mikey1307_20_수도권_실내_06612.wav",
+    "recrdTime" : "5.880",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-12 18:31:59",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "CMA 통장이 뭐야"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "mikey1307",
+    "age" : 20
+  }
+}

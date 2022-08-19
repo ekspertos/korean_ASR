@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(NO:)하루 한 번은 카페에서 파는 커피를 마셔줘야 기분 전환이 되지 않아",
+    "scriptId" : "06472",
+    "fileNm" : "일반남여_일반통합05_M_monkey040922_18_수도권_실내_06472.wav",
+    "recrdTime" : "5.880",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-11 17:43:51",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "커피 싸게 마시는 방법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "monkey040922",
+    "age" : 18
+  }
+}

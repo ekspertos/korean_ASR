@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "테스트(SN:)",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1462230544-2_30_수도권_실내_20201110112248.wav",
+    "recrdTime" : "1.670",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-10 11:22:48",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "OS X 10.15.7",
+    "convrsThema" : "#여행"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1462230544-2",
+    "age" : 30
+  }
+}

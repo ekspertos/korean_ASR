@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "라면이랑 어묵 쫄면 다양한 사리를 골라 넣고 보글보글 끓여가면서 먹는 그 맛",
+    "scriptId" : "일반통합-23839",
+    "fileNm" : "일반남여_일반통합16_F_1524039388_28_경상_실내_23839.wav",
+    "recrdTime" : "7.680",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-12 00:16:04",
+    "scriptSetNo" : "T_일반통합_16"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "떡볶이에 관하여 "
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524039388",
+    "age" : 28
+  }
+}

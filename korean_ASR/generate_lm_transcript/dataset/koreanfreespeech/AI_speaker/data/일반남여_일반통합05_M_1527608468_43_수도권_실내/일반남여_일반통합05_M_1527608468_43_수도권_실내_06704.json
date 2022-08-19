@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "서류를 (SN:)보내달라고 할 때마다 찾는 게 일이었는데, 그 어플을 활용하면 정말 (NO:편하겠네요).",
+    "scriptId" : "일반통합-06704",
+    "fileNm" : "일반남여_일반통합05_M_1527608468_43_수도권_실내_06704.wav",
+    "recrdTime" : "15.020",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-10 23:10:15",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "Windows 10",
+    "convrsThema" : "일의 능률을 올려주는 휴대폰 어플"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527608468",
+    "age" : 43
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "대부분 수확을 채 못한 벼 논입니다",
+    "scriptId" : "일반통합-12401",
+    "fileNm" : "일반남여_일반통합07_F_1526272257_54_수도권_실내_12401.wav",
+    "recrdTime" : "4.090",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-26 21:42:53",
+    "scriptSetNo" : "T_일반통합_7"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526272257",
+    "age" : 54
+  }
+}

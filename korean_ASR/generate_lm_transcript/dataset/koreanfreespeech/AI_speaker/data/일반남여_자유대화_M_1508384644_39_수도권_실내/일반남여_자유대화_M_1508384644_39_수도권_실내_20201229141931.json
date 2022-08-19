@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "시나리오",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1508384644_39_수도권_실내_20201229141931.wav",
+    "recrdTime" : "2.560",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-29 14:19:32",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "자유"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1508384644",
+    "age" : 39
+  }
+}

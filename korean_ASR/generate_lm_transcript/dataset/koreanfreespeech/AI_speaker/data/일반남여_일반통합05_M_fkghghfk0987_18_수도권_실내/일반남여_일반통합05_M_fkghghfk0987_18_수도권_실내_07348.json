@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "아무래도 그래야지",
+    "scriptId" : "07348",
+    "fileNm" : "일반남여_일반통합05_M_fkghghfk0987_18_수도권_실내_07348.wav",
+    "recrdTime" : "3.240",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-12 15:42:13",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "손소독제 위험"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "fkghghfk0987",
+    "age" : 18
+  }
+}

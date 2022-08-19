@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "이렇게 사람마다 죽는 것은 서로 같지 않다 ",
+    "scriptId" : "일반통합-16807",
+    "fileNm" : "일반남여_일반통합12_M_1527875425_39_수도권_실내_16807.wav",
+    "recrdTime" : "5.970",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-19 17:22:00",
+    "scriptSetNo" : "T_일반통합_12"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527875425",
+    "age" : 39
+  }
+}

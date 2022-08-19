@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "다행이네요 조용히 나가야 하나 고민했어요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1534063807_39_수도권_실내_20201118213826.wav",
+    "recrdTime" : "4.610",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-18 21:38:27",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "#육아 #양육"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1534063807",
+    "age" : 39
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "응 메콩강의 까이랑 수상 시장이라는 곳이었는데 새벽에 문을 열어 ",
+    "scriptId" : "일반통합-23668",
+    "fileNm" : "일반남여_일반통합16_F_1520908356_27_전라_실내_23668.wav",
+    "recrdTime" : "6.480",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-08 20:31:59",
+    "scriptSetNo" : "T_일반통합_16"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "전라",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "세계의 시장"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1520908356",
+    "age" : 27
+  }
+}

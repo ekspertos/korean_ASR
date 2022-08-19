@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(SN:입술소리)너는 그런 걸 어떻게 알았어",
+    "scriptId" : "06380",
+    "fileNm" : "일반남여_일반통합05_M_lhj5170_35_수도권_실내_06380.wav",
+    "recrdTime" : "5.200",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-13 09:47:17",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "오래된 구강청결제 버리지 마세요"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "lhj5170",
+    "age" : 35
+  }
+}

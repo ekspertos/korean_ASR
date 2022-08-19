@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(SN:) 씨엠에이 통장 그게 뭐야 (NO:) ",
+    "scriptId" : "06568",
+    "fileNm" : "일반남여_일반통합05_F_daya1009_20_수도권_실내_06568.wav",
+    "recrdTime" : "5.360",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-11 16:01:06",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "CMA 통장이 뭐야"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "daya1009",
+    "age" : 20
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "다림질 할때 바지를 팽팽히 당겨주는 거 잊지 말고",
+    "scriptId" : "일반통합-15995",
+    "fileNm" : "일반남여_일반통합11_F_1527000216_43_수도권_실내_15995.wav",
+    "recrdTime" : "4.520",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-16 15:38:04",
+    "scriptSetNo" : "T_일반통합_11"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "자취생 빨래 잘하는 법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1527000216",
+    "age" : 43
+  }
+}

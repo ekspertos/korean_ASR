@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "현재 전국의 고기압권 내에서 맑은 상태입니다",
+    "scriptId" : "일반통합-15595",
+    "fileNm" : "일반남여_일반통합09_M_1528862683_38_수도권_실내_15595.wav",
+    "recrdTime" : "3.240",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-30 11:54:51",
+    "scriptSetNo" : "T_일반통합_9"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1528862683",
+    "age" : 38
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그치 며칠 전에 기사에서 봤는데 사람들이 코로나 이후에 가장 하고 싶은 걸로 꼽은 게 여행이래",
+    "scriptId" : "일반통합-23806",
+    "fileNm" : "일반남여_일반통합16_F_1527681614_32_전라_실내_23806.wav",
+    "recrdTime" : "8.870",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-12 13:47:55",
+    "scriptSetNo" : "T_일반통합_16"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "전라",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "코로나가 종식된다면 나는"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1527681614",
+    "age" : 32
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그러게요 코로나 땜에 해외여행을 커녕 국내여행도 마음대로 할 수가 없으니",
+    "scriptId" : "일반통합-19892",
+    "fileNm" : "일반남여_일반통합14_F_1526829062_42_경상_실내_19892.wav",
+    "recrdTime" : "6.400",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-11 00:53:16",
+    "scriptSetNo" : "T_일반통합_14"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "아이와 함께 한 해외여행 Ⅱ"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526829062",
+    "age" : 42
+  }
+}

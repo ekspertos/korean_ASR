@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "아후 근데 둘째 낳고 나니까 그 수발이 어디 쉽니",
+    "scriptId" : "일반통합-10191",
+    "fileNm" : "일반남여_일반통합07_F_1526947547_45_수도권_실내_10191.wav",
+    "recrdTime" : "7.420",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-16 14:51:45",
+    "scriptSetNo" : "T_일반통합_7"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "이웃집 이혼 이야기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526947547",
+    "age" : 45
+  }
+}

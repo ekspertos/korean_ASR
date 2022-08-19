@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "여자 분들이야 화장실에 들어가서 문 닫으면 몰카 걱정은 되시겠지만 남자들은 서서 볼일을 봐야 하잖아요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1576523737_34_수도권_실내_20201231152333.wav",
+    "recrdTime" : "10.830",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 15:23:36",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "구디"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1576523737",
+    "age" : 34
+  }
+}

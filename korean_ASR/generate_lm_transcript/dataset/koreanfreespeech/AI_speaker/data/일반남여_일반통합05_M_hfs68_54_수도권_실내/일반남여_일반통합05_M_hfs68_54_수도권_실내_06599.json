@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그런 단어들을 들으니까 또 무서워지는데 괜한 짓 하는 건 아니겠지",
+    "scriptId" : "06599",
+    "fileNm" : "일반남여_일반통합05_M_hfs68_54_수도권_실내_06599.wav",
+    "recrdTime" : "8.040",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-05 13:57:20",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "CMA 통장이 뭐야"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "hfs68",
+    "age" : 54
+  }
+}

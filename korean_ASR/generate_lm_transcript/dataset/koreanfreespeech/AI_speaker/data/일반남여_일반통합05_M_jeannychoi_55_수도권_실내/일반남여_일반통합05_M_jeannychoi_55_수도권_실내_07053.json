@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "친구들과 경쟁심이 생겨서 (SP:) 더 잘 외워지기도 하겠는데",
+    "scriptId" : "07053",
+    "fileNm" : "일반남여_일반통합05_M_jeannychoi_55_수도권_실내_07053.wav",
+    "recrdTime" : "5.870",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-18 20:04:54",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "암기 잘하는 법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "jeannychoi",
+    "age" : 55
+  }
+}

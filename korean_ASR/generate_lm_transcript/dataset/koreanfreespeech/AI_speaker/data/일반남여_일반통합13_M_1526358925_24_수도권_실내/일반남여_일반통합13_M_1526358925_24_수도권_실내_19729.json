@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "어디 성장뿐이니 소멸 역시 마찬가지지 이렇게 성장의 회귀를 거치면서 반복되겠지",
+    "scriptId" : "일반통합-19729",
+    "fileNm" : "일반남여_일반통합13_M_1526358925_24_수도권_실내_19729.wav",
+    "recrdTime" : "6.230",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-10 16:15:16",
+    "scriptSetNo" : "T_일반통합_13"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "사랑 고백"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1526358925",
+    "age" : 24
+  }
+}

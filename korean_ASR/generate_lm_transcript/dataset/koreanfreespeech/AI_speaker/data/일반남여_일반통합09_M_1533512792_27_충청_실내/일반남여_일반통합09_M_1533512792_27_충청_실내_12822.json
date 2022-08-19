@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "무슨 말씀을요 복부 비만 중에서도 특히 내장 비만은 각종 성인병의 원인이 되기 쉽다고요",
+    "scriptId" : "일반통합-12822",
+    "fileNm" : "일반남여_일반통합09_M_1533512792_27_충청_실내_12822.wav",
+    "recrdTime" : "8.700",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-16 12:18:18",
+    "scriptSetNo" : "T_일반통합_9"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "내장비만 줄이는 방법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1533512792",
+    "age" : 27
+  }
+}

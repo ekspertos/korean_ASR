@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(NO:) 채소 잎에 물이 닿으면 병이 생길 수도 있거든요.",
+    "scriptId" : "06802",
+    "fileNm" : "일반남여_일반통합05_F_Juliannelee04_18_수도권_실내_06802.wav",
+    "recrdTime" : "6.440",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-09 19:04:22",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "베란다에 텃밭 가꾸기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "Juliannelee04",
+    "age" : 18
+  }
+}

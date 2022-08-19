@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "내가 아는 어떤 선배는 매년 똑같은 장소에서 똑같은 포즈로 사진을 찍거든",
+    "scriptId" : "일반통합-09992",
+    "fileNm" : "일반남여_일반통합08_F_1526758068_19_수도권_실내_09992.wav",
+    "recrdTime" : "7.250",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-12 04:36:27",
+    "scriptSetNo" : "T_일반통합_8"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "비혼주의에 대한 생각"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526758068",
+    "age" : 19
+  }
+}

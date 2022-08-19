@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "열 시간 넘게 운전하는 일도 허다하니까 말이야.",
+    "scriptId" : "07206",
+    "fileNm" : "일반남여_일반통합05_F_psycys0211_41_수도권_실내_07206.wav",
+    "recrdTime" : "5.280",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-10 23:18:05",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "고속도로 휴게소 백배 이용하기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "psycys0211",
+    "age" : 41
+  }
+}

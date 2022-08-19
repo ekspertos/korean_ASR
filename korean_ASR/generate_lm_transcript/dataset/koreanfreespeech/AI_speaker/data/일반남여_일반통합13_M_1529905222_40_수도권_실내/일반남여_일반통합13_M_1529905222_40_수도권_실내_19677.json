@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그냥 책읽고 글씁니다 티비도 잘 안봐요",
+    "scriptId" : "일반통합-19677",
+    "fileNm" : "일반남여_일반통합13_M_1529905222_40_수도권_실내_19677.wav",
+    "recrdTime" : "5.030",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-28 13:12:42",
+    "scriptSetNo" : "T_일반통합_13"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "출연자 인터뷰"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1529905222",
+    "age" : 40
+  }
+}

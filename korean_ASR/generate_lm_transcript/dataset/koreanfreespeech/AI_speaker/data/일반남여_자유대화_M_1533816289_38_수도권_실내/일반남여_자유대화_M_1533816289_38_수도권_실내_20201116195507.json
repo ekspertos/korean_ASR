@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(FP:입소리)음악도 고급스러운 음악이 있고 그렇지 않은 음악도 있는 거 같아요 동의하시나요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1533816289_38_수도권_실내_20201116195507.wav",
+    "recrdTime" : "15.050",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-16 19:55:09",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "Windows Server 2008 R2 / 7",
+    "convrsThema" : "#음악"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1533816289",
+    "age" : 38
+  }
+}

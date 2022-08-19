@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "방탄소년단은 진짜 노래가 정말 좋아요 ",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1530048028_21_경상_실내_20201117124638.wav",
+    "recrdTime" : "3.920",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-17 12:46:38",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "#음악"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1530048028",
+    "age" : 21
+  }
+}

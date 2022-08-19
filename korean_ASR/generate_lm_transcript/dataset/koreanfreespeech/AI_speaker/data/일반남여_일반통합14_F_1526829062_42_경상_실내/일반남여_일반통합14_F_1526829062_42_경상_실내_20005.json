@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "날이 궂은 날은 무릎이 시리고 안 좋아요",
+    "scriptId" : "일반통합-20005",
+    "fileNm" : "일반남여_일반통합14_F_1526829062_42_경상_실내_20005.wav",
+    "recrdTime" : "4.180",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-12 00:08:09",
+    "scriptSetNo" : "T_일반통합_14"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526829062",
+    "age" : 42
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "아무래도 주차지 (SN:) ",
+    "scriptId" : "07069",
+    "fileNm" : "일반남여_일반통합05_M_23tmddn_20_수도권_실내_07069.wav",
+    "recrdTime" : "5.640",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-05 14:30:43",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "운전 초보자 주차하기"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "23tmddn",
+    "age" : 20
+  }
+}

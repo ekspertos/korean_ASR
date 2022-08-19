@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(NO:) 모처럼의 황금 연휴를 해외에서 보내자 (NO:)",
+    "scriptId" : "07110",
+    "fileNm" : "일반남여_일반통합05_M_offline1004_23_수도권_실내_07110.wav",
+    "recrdTime" : "5.640",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-05 14:39:50",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "offline1004",
+    "age" : 23
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "근데 맥을 쓰는 사람들은 진짜 잘 쓰고 진짜 편하다고 말하기는 하더라구요 맥북만이 주는 감성 있는 것 같아요 아이폰 안에는 인문학이 담겨 있는 거 같아요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1542570778_32_수도권_실내_20201204115234.wav",
+    "recrdTime" : "13.990",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-04 11:52:34",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "#자유"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1542570778",
+    "age" : 32
+  }
+}

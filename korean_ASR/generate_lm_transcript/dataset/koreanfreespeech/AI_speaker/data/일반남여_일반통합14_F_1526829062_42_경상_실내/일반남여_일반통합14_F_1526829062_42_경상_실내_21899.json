@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "적발된 회원들의 반응도 가지가지입니다",
+    "scriptId" : "일반통합-21899",
+    "fileNm" : "일반남여_일반통합14_F_1526829062_42_경상_실내_21899.wav",
+    "recrdTime" : "3.330",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-02 01:47:32",
+    "scriptSetNo" : "T_일반통합_14"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526829062",
+    "age" : 42
+  }
+}

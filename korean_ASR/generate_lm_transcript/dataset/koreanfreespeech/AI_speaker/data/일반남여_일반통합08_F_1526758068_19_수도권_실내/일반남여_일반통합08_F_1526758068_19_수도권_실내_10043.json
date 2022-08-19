@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "쌓여있는 짐을 정리하고 새로운 공간으로 만들어주는 게 정말 드라마틱하던데",
+    "scriptId" : "일반통합-10043",
+    "fileNm" : "일반남여_일반통합08_F_1526758068_19_수도권_실내_10043.wav",
+    "recrdTime" : "7.170",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-12 04:43:24",
+    "scriptSetNo" : "T_일반통합_8"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "요즘 나를 행복하게 하는 것"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526758068",
+    "age" : 19
+  }
+}

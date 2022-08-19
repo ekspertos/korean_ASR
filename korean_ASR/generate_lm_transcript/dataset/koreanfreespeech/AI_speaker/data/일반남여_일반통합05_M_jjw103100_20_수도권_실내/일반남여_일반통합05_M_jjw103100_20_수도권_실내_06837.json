@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "올리브 오일도 기름의 일종이니 장을 부드럽게 해줄 거 같긴 한데 그래서 도움이 되는 건가?",
+    "scriptId" : "06837",
+    "fileNm" : "일반남여_일반통합05_M_jjw103100_20_수도권_실내_06837.wav",
+    "recrdTime" : "9.240",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-04 19:02:43",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "변비에 좋은 음식"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "jjw103100",
+    "age" : 20
+  }
+}

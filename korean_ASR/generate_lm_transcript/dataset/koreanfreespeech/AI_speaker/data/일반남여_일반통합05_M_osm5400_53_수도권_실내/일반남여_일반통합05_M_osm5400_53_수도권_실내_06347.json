@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "메트리스에 드라이기를 쓰는 것도 안 좋나(NO:)",
+    "scriptId" : "06347",
+    "fileNm" : "일반남여_일반통합05_M_osm5400_53_수도권_실내_06347.wav",
+    "recrdTime" : "5.720",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-06 15:22:07",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "장마철 젖은 물건 관리하기"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "osm5400",
+    "age" : 53
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "아니 과탄산소다는 물에 희석해서 세제와 함께 넣어주면 돼",
+    "scriptId" : "일반통합-15979",
+    "fileNm" : "일반남여_일반통합11_F_1527167301_42_수도권_실내_15979.wav",
+    "recrdTime" : "7.760",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-15 23:24:24",
+    "scriptSetNo" : "T_일반통합_11"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "자취생 빨래 잘하는 법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1527167301",
+    "age" : 42
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "취미도 시간적 여유가 있을 때 비로소 즐길 수 있는데 요즘에는 너무 정신이 없어서 조금 바쁘 거든요 그래서 취미생활을 잘 못해요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1542570778_32_수도권_실내_20201204115600.wav",
+    "recrdTime" : "14.330",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-04 11:56:00",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "취미생활"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1542570778",
+    "age" : 32
+  }
+}

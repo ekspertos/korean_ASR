@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "근데 이거는 이렇게 자유 대화 두시간 하고나서 텍스트 읽기 이천건 하면 이제 더이상 뭐 할 수 있는게 없는 거죠",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1542570778_32_수도권_실내_20201125183635.wav",
+    "recrdTime" : "11.180",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-25 18:36:36",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "녹음"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1542570778",
+    "age" : 32
+  }
+}

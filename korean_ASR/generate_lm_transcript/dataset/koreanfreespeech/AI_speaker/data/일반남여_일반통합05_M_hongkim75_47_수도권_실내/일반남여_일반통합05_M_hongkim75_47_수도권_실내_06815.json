@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "아니 그건 아닌데 삼일째 화장실에 못 갔어",
+    "scriptId" : "06815",
+    "fileNm" : "일반남여_일반통합05_M_hongkim75_47_수도권_실내_06815.wav",
+    "recrdTime" : "5.320",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-04 11:39:42",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "변비에 좋은 음식"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "hongkim75",
+    "age" : 47
+  }
+}

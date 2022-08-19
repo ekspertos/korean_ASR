@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그러니까 나 좀 도와주라 ",
+    "scriptId" : "일반통합-12976",
+    "fileNm" : "일반남여_일반통합09_M_1533512792_27_충청_실내_12976.wav",
+    "recrdTime" : "3.240",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-16 13:30:11",
+    "scriptSetNo" : "T_일반통합_9"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "성공적인 소개팅의 비법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1533512792",
+    "age" : 27
+  }
+}

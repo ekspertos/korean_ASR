@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "벽과는 약간의 간격을 두는 게 좋아 ",
+    "scriptId" : "일반통합-06360",
+    "fileNm" : "일반남여_일반통합06_F_1527039385_43_경상_실내_06360.wav",
+    "recrdTime" : "3.750",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-16 09:31:16",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "장마철 젖은 물건 관리하기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1527039385",
+    "age" : 43
+  }
+}

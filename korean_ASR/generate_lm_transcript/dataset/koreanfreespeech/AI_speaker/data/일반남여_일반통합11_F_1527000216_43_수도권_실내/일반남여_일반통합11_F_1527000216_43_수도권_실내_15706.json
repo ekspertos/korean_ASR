@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "네 얼마든지요",
+    "scriptId" : "일반통합-15706",
+    "fileNm" : "일반남여_일반통합11_F_1527000216_43_수도권_실내_15706.wav",
+    "recrdTime" : "3.070",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-11 10:21:48",
+    "scriptSetNo" : "T_일반통합_11"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "출연자 섭외"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1527000216",
+    "age" : 43
+  }
+}

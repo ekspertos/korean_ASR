@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "인간의 혁명은 마음의 궁극적인 도구인 언어로부터 시작된다 ",
+    "scriptId" : "일반통합-16000",
+    "fileNm" : "일반남여_일반통합11_F_1527844391_41_경상_실내_16000.wav",
+    "recrdTime" : "6.310",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-18 14:17:35",
+    "scriptSetNo" : "T_일반통합_11"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1527844391",
+    "age" : 41
+  }
+}

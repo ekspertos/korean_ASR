@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "통풍만 잘 시켜줘도 잘 자라는 양파나 새싹채소를 기르면 되니까요.",
+    "scriptId" : "06784",
+    "fileNm" : "일반남여_일반통합05_F_moonstar4299_56_수도권_실내_06784.wav",
+    "recrdTime" : "9.320",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-05 10:58:44",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "베란다에 텃밭 가꾸기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "moonstar4299",
+    "age" : 56
+  }
+}

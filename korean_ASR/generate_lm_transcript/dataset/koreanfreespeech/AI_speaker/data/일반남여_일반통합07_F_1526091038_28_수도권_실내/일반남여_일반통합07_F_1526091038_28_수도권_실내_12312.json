@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "애기가 밤에 고열이 나고 보채고요",
+    "scriptId" : "일반통합-12312",
+    "fileNm" : "일반남여_일반통합07_F_1526091038_28_수도권_실내_12312.wav",
+    "recrdTime" : "2.640",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-09 20:26:06",
+    "scriptSetNo" : "T_일반통합_7"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526091038",
+    "age" : 28
+  }
+}

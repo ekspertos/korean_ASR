@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "헬스장에서 운동할 때는 한시간 삼십분씩 하거든요 그런데 집에서 운동하려면 삼십분 않은 것도 사실 쉽지 않은 거 같아요 장소가 주는 힘이 있나 봐요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1542570778_32_수도권_실외_20201127204548.wav",
+    "recrdTime" : "13.390",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-27 20:45:51",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실외",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "취미생활"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1542570778",
+    "age" : 32
+  }
+}

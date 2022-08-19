@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "요즘 누가 안경을 눈이 나빠서 쓰냐 패션이지 패션",
+    "scriptId" : "일반통합-12664",
+    "fileNm" : "일반남여_일반통합10_M_1526889050_25_충청_실내_12664.wav",
+    "recrdTime" : "4.860",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-09 18:30:01",
+    "scriptSetNo" : "T_일반통합_10"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "얼굴형에 맞는 안경테 고르기"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1526889050",
+    "age" : 25
+  }
+}

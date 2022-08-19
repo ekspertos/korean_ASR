@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "저는 얼마 전에 덤벨 한 세트 샀는데 처음엔 조금 하다가 요즘에는 잘 안 하고 있네요 진짜 집에서는 잘 안되는 거 같아요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1542570778_32_수도권_실내_20201127225041.wav",
+    "recrdTime" : "11.860",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-27 22:50:43",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "취미생활"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1542570778",
+    "age" : 32
+  }
+}

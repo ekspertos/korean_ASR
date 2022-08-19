@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "축하한다 그럼 오늘 점심은 너가 사겠네",
+    "scriptId" : "일반통합-13168",
+    "fileNm" : "일반남여_일반통합10_M_1527076639_24_수도권_실외_13168.wav",
+    "recrdTime" : "5.030",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-10 21:09:49",
+    "scriptSetNo" : "T_일반통합_10"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실외",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "썸녀의 호감을 얻고 싶다면?"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527076639",
+    "age" : 24
+  }
+}

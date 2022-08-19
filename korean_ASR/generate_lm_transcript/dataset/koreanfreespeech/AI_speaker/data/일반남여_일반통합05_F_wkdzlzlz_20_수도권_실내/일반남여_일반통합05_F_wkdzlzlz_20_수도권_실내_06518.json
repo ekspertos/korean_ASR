@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(SP:맛집에서도) 코로나 때문에 유급휴가를 낼 수 있어서 도전해 볼 생각이야",
+    "scriptId" : "06518",
+    "fileNm" : "일반남여_일반통합05_F_wkdzlzlz_20_수도권_실내_06518.wav",
+    "recrdTime" : "6.080",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-13 15:51:44",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "에어비앤비 실패하지 않고 고르는 법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "wkdzlzlz",
+    "age" : 20
+  }
+}

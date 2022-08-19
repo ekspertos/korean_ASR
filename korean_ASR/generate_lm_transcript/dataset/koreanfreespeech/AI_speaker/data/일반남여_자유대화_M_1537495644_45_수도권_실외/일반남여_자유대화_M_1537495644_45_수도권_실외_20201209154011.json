@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "순리대로 오는 것을 거절하지 말고 순리대로 가는 것을 잡지 말며 내 몸 대우 없음에 바라지 말고 지나간 일은 생각하지 말라",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1537495644_45_수도권_실외_20201209154011.wav",
+    "recrdTime" : "14.330",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-09 15:40:23",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실외",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "#외국명언 #국내명언"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1537495644",
+    "age" : 45
+  }
+}

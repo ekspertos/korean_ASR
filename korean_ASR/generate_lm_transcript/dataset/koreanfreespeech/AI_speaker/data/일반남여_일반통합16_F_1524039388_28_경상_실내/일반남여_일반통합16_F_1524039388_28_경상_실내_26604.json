@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "이러한 의미에서의 생각이 논리학의 대상이 될 수는 없다 ",
+    "scriptId" : "일반통합-26604",
+    "fileNm" : "일반남여_일반통합16_F_1524039388_28_경상_실내_26604.wav",
+    "recrdTime" : "5.290",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-25 00:14:25",
+    "scriptSetNo" : "T_일반통합_16"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524039388",
+    "age" : 28
+  }
+}

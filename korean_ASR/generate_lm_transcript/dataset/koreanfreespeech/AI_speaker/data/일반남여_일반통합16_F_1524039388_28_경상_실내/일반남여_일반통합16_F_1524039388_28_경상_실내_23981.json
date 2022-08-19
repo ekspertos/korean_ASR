@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "한 자리에서 고기를 몇 킬로그램씩 먹는 사람도 있고",
+    "scriptId" : "일반통합-23981",
+    "fileNm" : "일반남여_일반통합16_F_1524039388_28_경상_실내_23981.wav",
+    "recrdTime" : "4.010",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-12 17:04:41",
+    "scriptSetNo" : "T_일반통합_16"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "나도 먹방 찍어볼까?"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524039388",
+    "age" : 28
+  }
+}

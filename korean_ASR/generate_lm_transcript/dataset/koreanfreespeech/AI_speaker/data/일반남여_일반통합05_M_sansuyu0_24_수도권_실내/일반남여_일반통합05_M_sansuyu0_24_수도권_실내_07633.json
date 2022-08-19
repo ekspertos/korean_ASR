@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "악몽을 먹고 사는 소년이 너무 괴로우니까 기억을 지워달라고 해",
+    "scriptId" : "07633",
+    "fileNm" : "일반남여_일반통합05_M_sansuyu0_24_수도권_실내_07633.wav",
+    "recrdTime" : "6.280",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-11 23:58:49",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "동화책 소개"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "sansuyu0",
+    "age" : 24
+  }
+}

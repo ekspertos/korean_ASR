@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "베란다에서 텃밭을 일구려면 먼저 몇 가지 확인할 게 있는데요",
+    "scriptId" : "06772",
+    "fileNm" : "일반남여_일반통합05_M_qyeobk_56_수도권_실내_06772.wav",
+    "recrdTime" : "6.680",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-09 14:04:16",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "베란다에 텃밭 가꾸기"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "qyeobk",
+    "age" : 56
+  }
+}

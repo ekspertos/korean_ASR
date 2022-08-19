@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "커피 찌꺼기는 화분 거름으로 사용해도 좋아",
+    "scriptId" : "06934",
+    "fileNm" : "일반남여_일반통합05_M_firecheetah_47_수도권_실내_06934.wav",
+    "recrdTime" : "3.680",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-11 11:00:58",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "커피 찌꺼기 활용법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "firecheetah",
+    "age" : 47
+  }
+}

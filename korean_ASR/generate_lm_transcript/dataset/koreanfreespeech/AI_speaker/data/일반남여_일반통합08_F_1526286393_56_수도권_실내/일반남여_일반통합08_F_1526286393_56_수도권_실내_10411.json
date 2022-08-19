@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "잡다한 변화는 우리의 착각에서 생각되어 진다 ",
+    "scriptId" : "일반통합-10411",
+    "fileNm" : "일반남여_일반통합08_F_1526286393_56_수도권_실내_10411.wav",
+    "recrdTime" : "3.840",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-22 18:40:12",
+    "scriptSetNo" : "T_일반통합_8"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526286393",
+    "age" : 56
+  }
+}

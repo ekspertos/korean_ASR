@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "요즘은 의미가 더 폭넓어졌더라고",
+    "scriptId" : "06965",
+    "fileNm" : "일반남여_일반통합05_F_moonstar4299_56_수도권_실내_06965.wav",
+    "recrdTime" : "7.200",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-05 11:27:37",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "혼족을 위한 지원 정책"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "moonstar4299",
+    "age" : 56
+  }
+}

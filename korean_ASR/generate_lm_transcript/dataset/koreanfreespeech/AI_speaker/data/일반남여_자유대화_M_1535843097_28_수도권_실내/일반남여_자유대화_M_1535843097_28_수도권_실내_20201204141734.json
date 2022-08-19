@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "저는 독일에 사는데 보일러가 없어가지고 발이 너무 시려요 항상 양말을 신거나 슬리퍼를 신고 있어야 돼요 보일러 교체라도 할 수 있는 게 참 좋은 거 같네요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1535843097_28_수도권_실내_20201204141734.wav",
+    "recrdTime" : "14.930",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-04 14:17:50",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "#자유"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1535843097",
+    "age" : 28
+  }
+}

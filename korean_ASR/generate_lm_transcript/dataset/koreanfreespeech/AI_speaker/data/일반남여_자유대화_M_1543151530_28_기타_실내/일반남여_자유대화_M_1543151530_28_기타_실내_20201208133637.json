@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그랬더니 십이일 만에 텍스트를 보고 읽는건 한 세트를 맞췄어요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1543151530_28_기타_실내_20201208133637.wav",
+    "recrdTime" : "9.640",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-08 13:36:38",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "기타",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "연습"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1543151530",
+    "age" : 28
+  }
+}

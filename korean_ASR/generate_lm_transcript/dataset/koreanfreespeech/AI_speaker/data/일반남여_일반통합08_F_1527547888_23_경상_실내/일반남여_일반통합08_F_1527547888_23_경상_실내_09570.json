@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "지난달에 시작했으면 이제 두 달째인데 포기는 이르지",
+    "scriptId" : "일반통합-09570",
+    "fileNm" : "일반남여_일반통합08_F_1527547888_23_경상_실내_09570.wav",
+    "recrdTime" : "5.970",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-10 12:35:01",
+    "scriptSetNo" : "T_일반통합_8"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "가계부 쓰기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1527547888",
+    "age" : 23
+  }
+}

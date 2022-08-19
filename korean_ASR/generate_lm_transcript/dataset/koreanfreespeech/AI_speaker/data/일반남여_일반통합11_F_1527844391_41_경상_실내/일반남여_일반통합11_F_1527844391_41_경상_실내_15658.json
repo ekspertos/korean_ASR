@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "제일 쉬운 방법을 제일 나중에 알려주는 그 심보는 뭐냐",
+    "scriptId" : "일반통합-15658",
+    "fileNm" : "일반남여_일반통합11_F_1527844391_41_경상_실내_15658.wav",
+    "recrdTime" : "5.890",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-15 14:41:25",
+    "scriptSetNo" : "T_일반통합_11"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "병뚜껑 쉽게 여는 법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1527844391",
+    "age" : 41
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "몇 가지만 주의하면 싸고 좋은 곳을 찾을 수 있어",
+    "scriptId" : "일반통합-06525",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_06525.wav",
+    "recrdTime" : "4.860",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-10 21:15:25",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "Windows 10",
+    "convrsThema" : "에어비앤비 실패하지 않고 고르는 법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

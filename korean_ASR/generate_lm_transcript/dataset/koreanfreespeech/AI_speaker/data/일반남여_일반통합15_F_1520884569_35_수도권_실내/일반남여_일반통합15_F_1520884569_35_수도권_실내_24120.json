@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "눈으로 건강을 체크할 수 있는 다른 방법들도 있는데 알려줄까",
+    "scriptId" : "일반통합-24120",
+    "fileNm" : "일반남여_일반통합15_F_1520884569_35_수도권_실내_24120.wav",
+    "recrdTime" : "5.030",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-05 23:25:01",
+    "scriptSetNo" : "T_일반통합_15"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "눈으로 체크할 수 있는 질병"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1520884569",
+    "age" : 35
+  }
+}

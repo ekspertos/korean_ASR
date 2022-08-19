@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "안녕하세요 (FP:어) 저는 음악을 좋아해서 음악 대화방 채널에 들어왔는데요 (FP:어) 요즘 크리스마스 시즌이 다가와서 요즘에는 크리스마스 관련된 노래를 듣고 있습니다 여러분은 어떠세요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1533683176_38_수도권_실내_20201116173508.wav",
+    "recrdTime" : "15.020",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-16 17:35:09",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "#음악"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1533683176",
+    "age" : 38
+  }
+}

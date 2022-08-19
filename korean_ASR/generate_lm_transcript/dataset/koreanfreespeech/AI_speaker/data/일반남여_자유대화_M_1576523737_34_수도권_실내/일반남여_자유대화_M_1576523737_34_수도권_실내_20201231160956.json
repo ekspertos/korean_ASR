@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "차라리 구로 역이나 신도림역 근처에 맛있는 집들 많으니 그쪽으로 나와서 드시는 것도 방법이라고 생각해요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1576523737_34_수도권_실내_20201231160956.wav",
+    "recrdTime" : "10.240",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 16:10:00",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "구디"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1576523737",
+    "age" : 34
+  }
+}

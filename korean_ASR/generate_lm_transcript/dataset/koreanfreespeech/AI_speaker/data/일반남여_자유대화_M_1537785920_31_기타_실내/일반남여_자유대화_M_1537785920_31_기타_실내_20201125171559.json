@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "저는 한 오일 정도 걸렸어요 하루 날 잡고 정말 열심히 했었거든요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1537785920_31_기타_실내_20201125171559.wav",
+    "recrdTime" : "7.850",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-25 17:16:03",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "기타",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "집"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1537785920",
+    "age" : 31
+  }
+}

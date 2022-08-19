@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "애들이 편식이 심해서 싫어하는 건 쏙쏙 골라내버리거든",
+    "scriptId" : "일반통합-09692",
+    "fileNm" : "일반남여_일반통합08_F_1526286393_56_수도권_실내_09692.wav",
+    "recrdTime" : "7.760",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-10 00:18:25",
+    "scriptSetNo" : "T_일반통합_8"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "무화과 맛잇게 먹는 방법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526286393",
+    "age" : 56
+  }
+}

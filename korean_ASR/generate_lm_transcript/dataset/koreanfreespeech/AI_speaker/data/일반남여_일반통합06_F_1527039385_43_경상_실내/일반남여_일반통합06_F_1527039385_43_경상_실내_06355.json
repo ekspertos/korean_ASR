@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그렇지 베이킹 소다는 자연성분이라 인체에 해로움이 덜 해서 피부가 닿는 곳에 사용하면 좋아",
+    "scriptId" : "일반통합-06355",
+    "fileNm" : "일반남여_일반통합06_F_1527039385_43_경상_실내_06355.wav",
+    "recrdTime" : "7.680",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-16 09:30:23",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "장마철 젖은 물건 관리하기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1527039385",
+    "age" : 43
+  }
+}

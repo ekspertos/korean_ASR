@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "어 네가 가르쳐준 방법대로 하니까 생각보다 쉽네",
+    "scriptId" : "07106",
+    "fileNm" : "일반남여_일반통합05_F_hangyeol1379_19_수도권_실내_07106.wav",
+    "recrdTime" : "6.920",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-12 11:18:51",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "운전 초보자 주차하기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "hangyeol1379",
+    "age" : 19
+  }
+}

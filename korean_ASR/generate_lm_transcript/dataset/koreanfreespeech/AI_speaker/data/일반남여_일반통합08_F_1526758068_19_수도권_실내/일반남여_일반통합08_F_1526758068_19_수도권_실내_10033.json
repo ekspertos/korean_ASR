@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "응 집에 있는 시간이 늘어나다보니 자연스럽게 호두랑 보내는 시간도 많아졌거든",
+    "scriptId" : "일반통합-10033",
+    "fileNm" : "일반남여_일반통합08_F_1526758068_19_수도권_실내_10033.wav",
+    "recrdTime" : "7.000",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-12 04:42:08",
+    "scriptSetNo" : "T_일반통합_8"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "요즘 나를 행복하게 하는 것"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526758068",
+    "age" : 19
+  }
+}

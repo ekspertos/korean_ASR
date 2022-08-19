@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "얼마를 먹는 게 적당한데",
+    "scriptId" : "06855",
+    "fileNm" : "일반남여_일반통합05_M_afrz_20_수도권_실내_06855.wav",
+    "recrdTime" : "3.080",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-11 16:01:26",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "변비에 좋은 음식"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "afrz",
+    "age" : 20
+  }
+}

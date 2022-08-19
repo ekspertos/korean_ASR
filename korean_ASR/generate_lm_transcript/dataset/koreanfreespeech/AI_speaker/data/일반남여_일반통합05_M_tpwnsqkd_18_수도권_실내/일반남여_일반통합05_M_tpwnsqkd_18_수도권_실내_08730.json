@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "나도 그래. 근데 그것도 좋은 습관은 아니라더라.",
+    "scriptId" : "08730",
+    "fileNm" : "일반남여_일반통합05_M_tpwnsqkd_18_수도권_실내_08730.wav",
+    "recrdTime" : "4.630",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-18 22:12:16",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "내 몸을 망치는 안 좋은 아침 습관"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "tpwnsqkd",
+    "age" : 18
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "이런 상대방과 대화하고 있는 건 검수가 빨리 되는데 왜 스크립트 읽기는 늦게 되는 걸까요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1535533347_18_수도권_실내_20201120134548.wav",
+    "recrdTime" : "8.020",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-20 13:45:48",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "Windows 10",
+    "convrsThema" : "#잡담 #일상 #일 #그냥"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1535533347",
+    "age" : 18
+  }
+}

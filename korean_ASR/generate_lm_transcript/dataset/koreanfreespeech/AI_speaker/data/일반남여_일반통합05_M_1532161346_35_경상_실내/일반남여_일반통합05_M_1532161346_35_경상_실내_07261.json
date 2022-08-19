@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "첫 정상회담이 벌어지고 있는 곳입니다",
+    "scriptId" : "일반통합-07261",
+    "fileNm" : "일반남여_일반통합05_M_1532161346_35_경상_실내_07261.wav",
+    "recrdTime" : "4.180",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-24 17:13:50",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1532161346",
+    "age" : 35
+  }
+}

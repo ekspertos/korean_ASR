@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "다행히 식구들이 사과는 별로 좋아하지 않아서 잘 사지 않아요",
+    "scriptId" : "일반통합-09552",
+    "fileNm" : "일반남여_일반통합07_F_1526744676_45_수도권_실내_09552.wav",
+    "recrdTime" : "4.610",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-16 10:50:04",
+    "scriptSetNo" : "T_일반통합_7"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "냉장고 정리하기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526744676",
+    "age" : 45
+  }
+}

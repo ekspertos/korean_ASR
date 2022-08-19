@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "친구분께서 매우 유쾌한 분이라고 했는데 정말 그런 거 같아요",
+    "scriptId" : "일반통합-16021",
+    "fileNm" : "일반남여_일반통합11_F_1527167301_42_수도권_실내_16021.wav",
+    "recrdTime" : "5.200",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-16 12:14:50",
+    "scriptSetNo" : "T_일반통합_11"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "소개팅 1"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1527167301",
+    "age" : 42
+  }
+}

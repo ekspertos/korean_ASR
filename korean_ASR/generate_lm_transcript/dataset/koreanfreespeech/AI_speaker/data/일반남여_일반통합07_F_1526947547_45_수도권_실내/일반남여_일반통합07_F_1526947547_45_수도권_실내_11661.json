@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "우리는 분명히 창조주 하나님을 우리의 중심에서 믿고 있습니다 ",
+    "scriptId" : "일반통합-11661",
+    "fileNm" : "일반남여_일반통합07_F_1526947547_45_수도권_실내_11661.wav",
+    "recrdTime" : "5.630",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-02-05 19:42:16",
+    "scriptSetNo" : "T_일반통합_7"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526947547",
+    "age" : 45
+  }
+}

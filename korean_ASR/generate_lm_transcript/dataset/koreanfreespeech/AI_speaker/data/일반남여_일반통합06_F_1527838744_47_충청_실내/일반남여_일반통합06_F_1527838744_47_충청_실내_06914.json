@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "맛이 어때 괜찮아",
+    "scriptId" : "일반통합-06914",
+    "fileNm" : "일반남여_일반통합06_F_1527838744_47_충청_실내_06914.wav",
+    "recrdTime" : "4.690",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-11 18:53:24",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "커피 찌꺼기 활용법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1527838744",
+    "age" : 47
+  }
+}

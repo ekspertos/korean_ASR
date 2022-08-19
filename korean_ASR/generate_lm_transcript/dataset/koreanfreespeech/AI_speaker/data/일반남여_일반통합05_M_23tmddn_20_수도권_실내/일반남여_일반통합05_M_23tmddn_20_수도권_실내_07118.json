@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(NO:) 이러니까 냉장고가 맨날 꽉 차서 넣을 데가 없다고 하는 거 아니야. (NO:)",
+    "scriptId" : "07118",
+    "fileNm" : "일반남여_일반통합05_M_23tmddn_20_수도권_실내_07118.wav",
+    "recrdTime" : "7.360",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-05 14:36:36",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "김빠진 콜라 활용법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "23tmddn",
+    "age" : 20
+  }
+}

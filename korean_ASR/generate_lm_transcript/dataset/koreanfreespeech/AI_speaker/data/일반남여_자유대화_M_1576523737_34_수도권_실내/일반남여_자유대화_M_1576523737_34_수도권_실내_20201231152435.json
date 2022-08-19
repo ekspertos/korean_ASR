@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "특히 회식 때는 술 마시는 일도 많은데 술취한 여자분들 들어오셔서 몸이 부딪히거나 하면 정말 난감 해요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1576523737_34_수도권_실내_20201231152435.wav",
+    "recrdTime" : "9.640",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 15:24:38",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "구디"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1576523737",
+    "age" : 34
+  }
+}

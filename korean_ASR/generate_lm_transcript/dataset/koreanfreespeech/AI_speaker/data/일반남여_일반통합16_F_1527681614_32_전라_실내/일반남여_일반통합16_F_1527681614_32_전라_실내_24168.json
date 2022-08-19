@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "여자는 옆에 타거나 운전석에 앉아도 운전은 안하고 립스틱을 칠하고 있더라고",
+    "scriptId" : "일반통합-24168",
+    "fileNm" : "일반남여_일반통합16_F_1527681614_32_전라_실내_24168.wav",
+    "recrdTime" : "7.680",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-16 00:11:07",
+    "scriptSetNo" : "T_일반통합_16"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "전라",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "성차별적인 광고"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1527681614",
+    "age" : 32
+  }
+}

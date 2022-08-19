@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(SN:) 그건 아니구 관심이 있으니까 그런 거 아닐까",
+    "scriptId" : "07303",
+    "fileNm" : "일반남여_일반통합05_M_sansuyu0_24_수도권_실내_07303.wav",
+    "recrdTime" : "4.520",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-11 23:11:42",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "요리 개발하기 "
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "sansuyu0",
+    "age" : 24
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(NO:) 슬로우푸드가 좋다는 건 알고 있지만 안 그래도 바쁜데 매 끼니마다 유기농 식단을 차릴 수도 없고 (SN:)",
+    "scriptId" : "06827",
+    "fileNm" : "일반남여_일반통합05_M_hamdonx_36_수도권_실내_06827.wav",
+    "recrdTime" : "9.520",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-04 10:51:54",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "변비에 좋은 음식"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "hamdonx",
+    "age" : 36
+  }
+}

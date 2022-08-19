@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "심지어 몇 번을 다시 해도 계속 안 눌러져서 그냥 꺼 버릴 때도 있어요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1534063807_39_수도권_실내_20201118211144.wav",
+    "recrdTime" : "7.340",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-18 21:11:45",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "#일상 #기록"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1534063807",
+    "age" : 39
+  }
+}

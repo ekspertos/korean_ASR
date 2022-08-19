@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "게다가 무려 천 팔백 팔십 오년에 시작됐다니 백 오십여년 가까이나 되는 유서 깊은 시장인 셈이지",
+    "scriptId" : "일반통합-23683",
+    "fileNm" : "일반남여_일반통합15_F_1529853328_37_경상_실내_23683.wav",
+    "recrdTime" : "7.590",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-15 23:18:37",
+    "scriptSetNo" : "T_일반통합_15"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "세계의 시장"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1529853328",
+    "age" : 37
+  }
+}

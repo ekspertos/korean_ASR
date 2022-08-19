@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "정말 나는 지난해 추석 때 타이어 공기가 빠져서 (SN:) 긴급 출동 서비스를 이용했는데 미리 알면 좋았을걸",
+    "scriptId" : "07193",
+    "fileNm" : "일반남여_일반통합05_F_kimmr9752_16_수도권_실내_07193.wav",
+    "recrdTime" : "9.960",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-13 12:53:39",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "고속도로 휴게소 백배 이용하기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "kimmr9752",
+    "age" : 16
+  }
+}

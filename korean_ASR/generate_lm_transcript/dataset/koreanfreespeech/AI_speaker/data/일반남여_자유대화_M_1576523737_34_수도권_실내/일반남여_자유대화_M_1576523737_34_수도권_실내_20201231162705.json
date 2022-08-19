@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "예전에는 샤브샤브에 랍스터를 추가할 수도 있었던 걸로 기억하는데 안 간지 오래되서 기억이 가물가물 하네요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1576523737_34_수도권_실내_20201231162705.wav",
+    "recrdTime" : "10.750",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 16:27:09",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "구디"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1576523737",
+    "age" : 34
+  }
+}

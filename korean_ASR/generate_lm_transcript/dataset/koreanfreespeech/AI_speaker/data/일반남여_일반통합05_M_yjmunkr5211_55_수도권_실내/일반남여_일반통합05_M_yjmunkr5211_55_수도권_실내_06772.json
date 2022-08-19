@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(SN:) 베란다에서 텃밭을 일구려면 먼저 몇가지 확인 할 게 있는데요 (SN:)",
+    "scriptId" : "06772",
+    "fileNm" : "일반남여_일반통합05_M_yjmunkr5211_55_수도권_실내_06772.wav",
+    "recrdTime" : "5.680",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-10 16:11:00",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "베란다에 텃밭 가꾸기"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "yjmunkr5211",
+    "age" : 55
+  }
+}

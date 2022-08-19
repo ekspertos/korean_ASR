@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "담당 의사에게 조용히 마지막 문의를 한다 ",
+    "scriptId" : "일반통합-26411",
+    "fileNm" : "일반남여_일반통합16_F_1520908356_27_전라_실내_26411.wav",
+    "recrdTime" : "4.090",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-29 20:59:07",
+    "scriptSetNo" : "T_일반통합_16"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "전라",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1520908356",
+    "age" : 27
+  }
+}

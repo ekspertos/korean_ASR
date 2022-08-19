@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그래? 그거까지는 몰랐네.",
+    "scriptId" : "06330",
+    "fileNm" : "일반남여_일반통합05_F_thjyjh_54_수도권_실내_06330.wav",
+    "recrdTime" : "7.000",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-12 15:08:20",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "장마철 젖은 물건 관리하기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "thjyjh",
+    "age" : 54
+  }
+}

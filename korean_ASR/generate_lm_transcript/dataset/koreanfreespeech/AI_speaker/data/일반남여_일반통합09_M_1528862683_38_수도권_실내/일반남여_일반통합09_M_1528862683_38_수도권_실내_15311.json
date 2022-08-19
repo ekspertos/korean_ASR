@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "말하자면 중고생을 위한 음악 강의로는 실패했던 것이지요 ",
+    "scriptId" : "일반통합-15311",
+    "fileNm" : "일반남여_일반통합09_M_1528862683_38_수도권_실내_15311.wav",
+    "recrdTime" : "4.010",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-30 11:01:01",
+    "scriptSetNo" : "T_일반통합_9"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1528862683",
+    "age" : 38
+  }
+}

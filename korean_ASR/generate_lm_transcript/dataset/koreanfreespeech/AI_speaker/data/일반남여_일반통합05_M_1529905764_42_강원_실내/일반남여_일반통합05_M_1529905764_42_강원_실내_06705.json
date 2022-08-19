@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "마음이 급하면 더 안 찾아지더라구요",
+    "scriptId" : "일반통합-06705",
+    "fileNm" : "일반남여_일반통합05_M_1529905764_42_강원_실내_06705.wav",
+    "recrdTime" : "3.840",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-15 08:46:49",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "강원",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "일의 능률을 올려주는 휴대폰 어플"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1529905764",
+    "age" : 42
+  }
+}

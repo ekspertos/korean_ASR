@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(SN:) 우리 때는 남들 시선을 의식하느라 하고 싶은 대로 하지 못하는 경우도 많았잖아.",
+    "scriptId" : "06969",
+    "fileNm" : "일반남여_일반통합05_M_leejongwon0113_18_수도권_실내_06969.wav",
+    "recrdTime" : "7.060",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-22 23:27:14",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "혼족을 위한 지원 정책"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "leejongwon0113",
+    "age" : 18
+  }
+}

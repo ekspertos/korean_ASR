@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "이십대 때는 내가 싫어하는 사람도 어쩔 수 없이 만나야 했다면 지금은 그런 경우가 적어요",
+    "scriptId" : "일반통합-23888",
+    "fileNm" : "일반남여_일반통합16_F_1520908356_27_전라_실내_23888.wav",
+    "recrdTime" : "7.760",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-09 19:56:32",
+    "scriptSetNo" : "T_일반통합_16"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "전라",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "내가 나이 들었다고 느낄 때"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1520908356",
+    "age" : 27
+  }
+}

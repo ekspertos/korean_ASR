@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "너보다 훨씬 못 생긴 사람들도 자기 장점을 잘 알고 꾸며서 패셔니스타가 되기도 하는데 말(SN:)",
+    "scriptId" : "일반통합-12696",
+    "fileNm" : "일반남여_일반통합10_M_1524868190_31_수도권_실내_12696.wav",
+    "recrdTime" : "6.570",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-08 16:30:19",
+    "scriptSetNo" : "T_일반통합_10"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "얼굴형에 맞는 안경테 고르기"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1524868190",
+    "age" : 31
+  }
+}

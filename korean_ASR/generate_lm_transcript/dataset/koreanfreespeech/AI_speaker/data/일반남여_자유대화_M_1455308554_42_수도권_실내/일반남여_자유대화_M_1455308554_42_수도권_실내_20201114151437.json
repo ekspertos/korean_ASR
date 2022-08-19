@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "주말 인데도 녹음 작업 하시는 분들이 많나요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1455308554_42_수도권_실내_20201114151437.wav",
+    "recrdTime" : "4.440",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-14 15:14:37",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "녹음"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1455308554",
+    "age" : 42
+  }
+}

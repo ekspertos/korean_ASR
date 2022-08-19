@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(NO:)(SP:샐러드) 만들어서 식구들이랑 드세요 (NO:)",
+    "scriptId" : "06764",
+    "fileNm" : "일반남여_일반통합05_F_daya1009_20_수도권_실내_06764.wav",
+    "recrdTime" : "4.400",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-11 16:33:27",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "베란다에 텃밭 가꾸기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "daya1009",
+    "age" : 20
+  }
+}

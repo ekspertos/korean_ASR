@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "자주 쓸수록 당첨 확률이 높아지기 때문입니다",
+    "scriptId" : "일반통합-24092",
+    "fileNm" : "일반남여_일반통합15_F_1528442936_33_경상_실내_24092.wav",
+    "recrdTime" : "5.630",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-04 14:59:39",
+    "scriptSetNo" : "T_일반통합_15"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1528442936",
+    "age" : 33
+  }
+}

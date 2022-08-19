@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "대신 꽃다발을 오래 보관하는 방법도 같이 알려주면 되죠",
+    "scriptId" : "일반통합-12578",
+    "fileNm" : "일반남여_일반통합09_M_1525465796_34_수도권_실내_12578.wav",
+    "recrdTime" : "6.830",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-09 03:11:48",
+    "scriptSetNo" : "T_일반통합_9"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "꽃다발 오래 보관하는 방법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1525465796",
+    "age" : 34
+  }
+}

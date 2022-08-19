@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "경찰사이렌 소리가 나면 조용했다가 다시 오고 그러네요 동네에서 뭔가 하긴 해야겠어요",
+    "scriptId" : "일반통합-15771",
+    "fileNm" : "일반남여_일반통합11_F_1528170230_40_전라_실내_15771.wav",
+    "recrdTime" : "8.280",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-10 23:38:07",
+    "scriptSetNo" : "T_일반통합_11"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "전라",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "데이트"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1528170230",
+    "age" : 40
+  }
+}

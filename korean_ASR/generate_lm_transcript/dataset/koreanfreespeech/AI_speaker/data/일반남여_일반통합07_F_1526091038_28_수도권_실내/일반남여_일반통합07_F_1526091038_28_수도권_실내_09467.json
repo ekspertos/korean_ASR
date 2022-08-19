@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "가을도 되고 해서 집안 정리 한번 하려고",
+    "scriptId" : "일반통합-09467",
+    "fileNm" : "일반남여_일반통합07_F_1526091038_28_수도권_실내_09467.wav",
+    "recrdTime" : "3.920",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-10 22:27:49",
+    "scriptSetNo" : "T_일반통합_7"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "욕실화 힘들이지 않고 세탁하는 법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526091038",
+    "age" : 28
+  }
+}

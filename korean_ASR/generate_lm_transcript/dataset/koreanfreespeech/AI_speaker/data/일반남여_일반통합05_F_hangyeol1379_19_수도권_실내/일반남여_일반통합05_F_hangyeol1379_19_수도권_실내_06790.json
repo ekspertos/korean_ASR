@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "만약 더 다양한 채소를 키우고 싶다면 식물 재배용 엘이디 전등을 사서 달면 돼요",
+    "scriptId" : "06790",
+    "fileNm" : "일반남여_일반통합05_F_hangyeol1379_19_수도권_실내_06790.wav",
+    "recrdTime" : "9.440",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-11 14:12:06",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "베란다에 텃밭 가꾸기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "hangyeol1379",
+    "age" : 19
+  }
+}

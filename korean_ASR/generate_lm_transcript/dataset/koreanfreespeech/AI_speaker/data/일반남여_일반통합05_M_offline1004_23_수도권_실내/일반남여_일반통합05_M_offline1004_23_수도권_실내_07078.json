@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(NO:) 하지만 주차 공간이 좁은 곳이나 마트 주차장은 전진 주차도 쉽지 않더라구. (NO:)",
+    "scriptId" : "07078",
+    "fileNm" : "일반남여_일반통합05_M_offline1004_23_수도권_실내_07078.wav",
+    "recrdTime" : "8.520",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-05 14:36:35",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "운전 초보자 주차하기"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "offline1004",
+    "age" : 23
+  }
+}

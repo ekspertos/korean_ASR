@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(SN:)아보카도 반 개와 오이 슬라이스한 것 네 개를 믹서에 갈아서 냉장고에 한 시간 동안 차게 식힌 뒤 발라주면 돼(NO:)",
+    "scriptId" : "일반통합-06749",
+    "fileNm" : "일반남여_일반통합05_M_1527608468_43_수도권_실내_06749.wav",
+    "recrdTime" : "15.020",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-11 01:39:28",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "Windows 10",
+    "convrsThema" : "아보카도, 피부에 양보하세요"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527608468",
+    "age" : 43
+  }
+}

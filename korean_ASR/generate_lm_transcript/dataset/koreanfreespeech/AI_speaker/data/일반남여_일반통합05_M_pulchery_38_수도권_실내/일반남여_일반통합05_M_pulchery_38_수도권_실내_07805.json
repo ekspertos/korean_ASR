@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "모르겠어요 제 친구도 살이 쪽 빠져서 왔는데 그거 했다구",
+    "scriptId" : "07805",
+    "fileNm" : "일반남여_일반통합05_M_pulchery_38_수도권_실내_07805.wav",
+    "recrdTime" : "5.960",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-13 18:22:40",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "간헐적 단식 효과 "
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "pulchery",
+    "age" : 38
+  }
+}

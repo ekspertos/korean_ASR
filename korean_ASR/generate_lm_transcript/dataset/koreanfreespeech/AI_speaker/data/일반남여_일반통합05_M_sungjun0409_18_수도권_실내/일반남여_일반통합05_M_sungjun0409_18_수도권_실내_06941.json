@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(NO:) 커피 찌꺼기가 피부 미용에 도움이 된다는 이야기는 들어봤어",
+    "scriptId" : "06941",
+    "fileNm" : "일반남여_일반통합05_M_sungjun0409_18_수도권_실내_06941.wav",
+    "recrdTime" : "6.840",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-10 23:00:42",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "커피 찌꺼기 활용법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "sungjun0409",
+    "age" : 18
+  }
+}

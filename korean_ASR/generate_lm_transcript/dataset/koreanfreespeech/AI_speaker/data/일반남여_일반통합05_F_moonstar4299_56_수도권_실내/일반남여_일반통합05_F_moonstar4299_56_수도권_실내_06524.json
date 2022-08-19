@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(SN:)사기 당하는 사람도 많다던데",
+    "scriptId" : "06524",
+    "fileNm" : "일반남여_일반통합05_F_moonstar4299_56_수도권_실내_06524.wav",
+    "recrdTime" : "7.560",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-05 10:19:57",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "에어비앤비 실패하지 않고 고르는 법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "moonstar4299",
+    "age" : 56
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "나는 지난 결혼기념일에 여행을 가면서 케이크를 신청했는데 아내가 엄청 좋아하더라구",
+    "scriptId" : "일반통합-12649",
+    "fileNm" : "일반남여_일반통합10_M_1526889050_25_충청_실내_12649.wav",
+    "recrdTime" : "7.000",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-09 18:29:07",
+    "scriptSetNo" : "T_일반통합_10"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "기내식 백배 활용하기"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1526889050",
+    "age" : 25
+  }
+}

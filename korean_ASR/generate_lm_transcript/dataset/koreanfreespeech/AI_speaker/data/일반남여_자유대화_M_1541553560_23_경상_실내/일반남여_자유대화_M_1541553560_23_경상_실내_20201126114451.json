@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그때 그 기분이 너무 좋아서 나는 운동을 계속하기 시작했다",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1541553560_23_경상_실내_20201126114451.wav",
+    "recrdTime" : "4.350",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-26 11:44:51",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "#취미#베스트셀러#노래#공부"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1541553560",
+    "age" : 23
+  }
+}

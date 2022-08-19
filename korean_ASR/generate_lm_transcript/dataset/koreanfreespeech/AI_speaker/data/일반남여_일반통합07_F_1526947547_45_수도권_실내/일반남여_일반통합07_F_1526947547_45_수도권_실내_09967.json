@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "어우 내 얘기인줄 그래도 넌 어쩌다 한번이잖아",
+    "scriptId" : "일반통합-09967",
+    "fileNm" : "일반남여_일반통합07_F_1526947547_45_수도권_실내_09967.wav",
+    "recrdTime" : "4.610",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-10 15:41:01",
+    "scriptSetNo" : "T_일반통합_7"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "비혼주의에 대한 생각"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526947547",
+    "age" : 45
+  }
+}

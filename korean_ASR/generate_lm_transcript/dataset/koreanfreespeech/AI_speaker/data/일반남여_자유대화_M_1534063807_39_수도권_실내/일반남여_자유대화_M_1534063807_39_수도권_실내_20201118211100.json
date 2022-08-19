@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "저만 그런가요 다른 분들은 그런 적 없으신가요 왜 그런 지 잘 모르겠어요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1534063807_39_수도권_실내_20201118211100.wav",
+    "recrdTime" : "7.420",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-18 21:11:01",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "#일상 #기록"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1534063807",
+    "age" : 39
+  }
+}

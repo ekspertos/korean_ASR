@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(NO:)그런데 희한한 데 꽂혀서 쓸데없이 힘을 뺐지 뭐야",
+    "scriptId" : "일반통합-09468",
+    "fileNm" : "일반남여_일반통합07_F_1526272257_54_수도권_실내_09468.wav",
+    "recrdTime" : "5.120",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-08 23:52:30",
+    "scriptSetNo" : "T_일반통합_7"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "욕실화 힘들이지 않고 세탁하는 법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526272257",
+    "age" : 54
+  }
+}

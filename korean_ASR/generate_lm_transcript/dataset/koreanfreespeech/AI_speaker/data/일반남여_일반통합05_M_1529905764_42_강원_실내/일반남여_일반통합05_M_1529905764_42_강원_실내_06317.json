@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "큰 맘 먹고 산 명품 신발인데",
+    "scriptId" : "일반통합-06317",
+    "fileNm" : "일반남여_일반통합05_M_1529905764_42_강원_실내_06317.wav",
+    "recrdTime" : "4.950",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-12 17:30:25",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "강원",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "장마철 젖은 물건 관리하기"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1529905764",
+    "age" : 42
+  }
+}

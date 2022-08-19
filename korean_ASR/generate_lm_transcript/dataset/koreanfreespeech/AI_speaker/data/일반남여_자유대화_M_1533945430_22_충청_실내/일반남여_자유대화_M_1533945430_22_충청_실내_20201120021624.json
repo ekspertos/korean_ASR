@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "실패하는 것은 곧 성공을 향한 것이다",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1533945430_22_충청_실내_20201120021624.wav",
+    "recrdTime" : "6.230",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-20 02:16:25",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "Windows 10",
+    "convrsThema" : "#외국명언 #국내명언"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1533945430",
+    "age" : 22
+  }
+}

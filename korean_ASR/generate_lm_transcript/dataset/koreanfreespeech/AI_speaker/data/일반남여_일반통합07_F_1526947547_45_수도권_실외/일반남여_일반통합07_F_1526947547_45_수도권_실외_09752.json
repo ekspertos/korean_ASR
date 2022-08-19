@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "안그래도 가지고 싶어하는 로봇이 있었는데 그걸로 얘기해 봐야겠다",
+    "scriptId" : "일반통합-09752",
+    "fileNm" : "일반남여_일반통합07_F_1526947547_45_수도권_실외_09752.wav",
+    "recrdTime" : "6.230",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-10 15:03:36",
+    "scriptSetNo" : "T_일반통합_7"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실외",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "치과 공포증 극복하기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526947547",
+    "age" : 45
+  }
+}

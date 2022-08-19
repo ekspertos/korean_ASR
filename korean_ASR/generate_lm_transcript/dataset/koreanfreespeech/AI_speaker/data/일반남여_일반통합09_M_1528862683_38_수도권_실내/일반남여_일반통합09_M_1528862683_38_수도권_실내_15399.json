@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "교회는 인간의 계획에 의해 세워진 인간적 조직체가 아니다 ",
+    "scriptId" : "일반통합-15399",
+    "fileNm" : "일반남여_일반통합09_M_1528862683_38_수도권_실내_15399.wav",
+    "recrdTime" : "4.440",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-30 11:17:21",
+    "scriptSetNo" : "T_일반통합_9"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1528862683",
+    "age" : 38
+  }
+}

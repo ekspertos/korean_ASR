@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "잠시라도 눈을 붙이거나 씻고 싶은 마음이 굴뚝일 때가 많았는데",
+    "scriptId" : "07207",
+    "fileNm" : "일반남여_일반통합05_M_finsyi_57_수도권_실내_07207.wav",
+    "recrdTime" : "7.240",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-24 18:20:46",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "고속도로 휴게소 백배 이용하기"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "finsyi",
+    "age" : 57
+  }
+}

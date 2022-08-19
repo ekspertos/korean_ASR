@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "좋아 이번 주말엔 제대로 대청소 도전이다",
+    "scriptId" : "일반통합-23754",
+    "fileNm" : "일반남여_일반통합15_F_1526831911_19_수도권_실내_23754.wav",
+    "recrdTime" : "4.690",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-12 11:38:30",
+    "scriptSetNo" : "T_일반통합_15"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "청소 쉽게 하는 꿀팁"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526831911",
+    "age" : 19
+  }
+}

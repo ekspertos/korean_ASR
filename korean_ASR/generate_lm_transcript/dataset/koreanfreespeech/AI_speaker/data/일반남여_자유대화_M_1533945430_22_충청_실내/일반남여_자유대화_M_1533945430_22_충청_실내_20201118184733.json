@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "저는 오늘같이 비오는 날이면 감성 힙합을 주로 듣는 편이에요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1533945430_22_충청_실내_20201118184733.wav",
+    "recrdTime" : "5.800",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-18 18:47:33",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "Windows 10",
+    "convrsThema" : "#음악"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1533945430",
+    "age" : 22
+  }
+}

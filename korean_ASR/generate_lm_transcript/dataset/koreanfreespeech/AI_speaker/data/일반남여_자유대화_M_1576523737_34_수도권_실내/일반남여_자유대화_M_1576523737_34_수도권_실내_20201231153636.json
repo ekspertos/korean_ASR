@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "어사출또는 회식 보다 팀별 아니면 친한 분들과 같이 식사를 하시는 게 더 좋을 분위기 라고 생각해요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1576523737_34_수도권_실내_20201231153636.wav",
+    "recrdTime" : "11.350",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 15:36:40",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "구디"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1576523737",
+    "age" : 34
+  }
+}

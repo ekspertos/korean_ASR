@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "민주주의는 정지된 것이 아니라 영원히 계속되는 행진이다 루즈벨트",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1537495644_45_수도권_실외_20201210104823.wav",
+    "recrdTime" : "11.180",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-10 10:48:26",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실외",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "#외국명언 #국내명언"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1537495644",
+    "age" : 45
+  }
+}

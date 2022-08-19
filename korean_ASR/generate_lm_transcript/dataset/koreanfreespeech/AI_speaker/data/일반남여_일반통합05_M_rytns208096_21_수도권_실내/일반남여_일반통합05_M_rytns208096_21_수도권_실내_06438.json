@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(NO:) 퀄리티야 왠만한 식당이 부럽지 않지",
+    "scriptId" : "06438",
+    "fileNm" : "일반남여_일반통합05_M_rytns208096_21_수도권_실내_06438.wav",
+    "recrdTime" : "3.960",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-10 14:02:46",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "해외에서 시차 적응 잘하는 방법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "rytns208096",
+    "age" : 21
+  }
+}

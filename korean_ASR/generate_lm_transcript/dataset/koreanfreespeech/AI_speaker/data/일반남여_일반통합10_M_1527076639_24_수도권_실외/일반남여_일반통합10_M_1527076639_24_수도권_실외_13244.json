@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "달이 밝은데 우리 산책이라도 할까 뭐 이런 뜻이라고",
+    "scriptId" : "일반통합-13244",
+    "fileNm" : "일반남여_일반통합10_M_1527076639_24_수도권_실외_13244.wav",
+    "recrdTime" : "6.650",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-10 21:22:29",
+    "scriptSetNo" : "T_일반통합_10"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실외",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "아내가 화를 내는 이유"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527076639",
+    "age" : 24
+  }
+}

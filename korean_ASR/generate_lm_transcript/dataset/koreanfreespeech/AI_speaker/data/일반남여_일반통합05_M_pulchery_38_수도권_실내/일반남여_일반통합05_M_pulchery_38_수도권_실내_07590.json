@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "사업한다고 하면 심통 부리니까, 잘 얘기 안 하는데, 무슨 여행 앱 같은 거래.",
+    "scriptId" : "07590",
+    "fileNm" : "일반남여_일반통합05_M_pulchery_38_수도권_실내_07590.wav",
+    "recrdTime" : "7.840",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-13 17:00:37",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "유니콘 기업 "
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "pulchery",
+    "age" : 38
+  }
+}

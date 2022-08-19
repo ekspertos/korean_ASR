@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "햇빛이 잘 들어오면 방울토마토나 로메인 상추 치커리 케일 청경채가 좋아요",
+    "scriptId" : "06780",
+    "fileNm" : "일반남여_일반통합05_M_juny1105_43_수도권_실내_06780.wav",
+    "recrdTime" : "7.440",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-11 13:59:10",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "베란다에 텃밭 가꾸기"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "juny1105",
+    "age" : 43
+  }
+}

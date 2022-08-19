@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "맞아 해외 여행 가면 그 나라의 디저트 먹어보는 재미도 쏠쏠하더라",
+    "scriptId" : "일반통합-23621",
+    "fileNm" : "일반남여_일반통합15_F_1524961277_33_수도권_실내_23621.wav",
+    "recrdTime" : "6.480",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-07 20:41:32",
+    "scriptSetNo" : "T_일반통합_15"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "세계의 디저트"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524961277",
+    "age" : 33
+  }
+}

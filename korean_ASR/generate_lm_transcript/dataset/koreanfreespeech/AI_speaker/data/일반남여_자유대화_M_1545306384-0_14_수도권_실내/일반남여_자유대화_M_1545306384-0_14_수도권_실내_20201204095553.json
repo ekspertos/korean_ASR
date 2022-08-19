@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "이런 상황에 어제 뉴스를 보니 일본은 내년에 올림픽을 연다고 하더라구요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1545306384-0_14_수도권_실내_20201204095553.wav",
+    "recrdTime" : "8.620",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-04 09:55:53",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "#자유"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1545306384-0",
+    "age" : 14
+  }
+}

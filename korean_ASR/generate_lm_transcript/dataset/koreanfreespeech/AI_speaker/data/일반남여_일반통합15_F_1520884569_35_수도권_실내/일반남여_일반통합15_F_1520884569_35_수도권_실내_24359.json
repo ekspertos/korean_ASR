@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "기름기 다 걷어내고 끓였지 멸치 육수도 넣고 (SN:)고기국물로만 하면 느글거려",
+    "scriptId" : "일반통합-24359",
+    "fileNm" : "일반남여_일반통합15_F_1520884569_35_수도권_실내_24359.wav",
+    "recrdTime" : "7.420",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-17 16:52:50",
+    "scriptSetNo" : "T_일반통합_15"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "아침 식사 대화 1"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1520884569",
+    "age" : 35
+  }
+}

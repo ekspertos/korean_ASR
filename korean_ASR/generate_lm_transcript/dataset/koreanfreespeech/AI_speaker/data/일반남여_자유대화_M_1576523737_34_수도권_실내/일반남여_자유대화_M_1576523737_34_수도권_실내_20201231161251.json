@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "곰탕이나 갈비탕 이라면 제이엔 케이 디지털 타워에 있는 동남 집을 추천 드릴 만 해요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1576523737_34_수도권_실내_20201231161251.wav",
+    "recrdTime" : "9.040",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 16:12:54",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "구디"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1576523737",
+    "age" : 34
+  }
+}

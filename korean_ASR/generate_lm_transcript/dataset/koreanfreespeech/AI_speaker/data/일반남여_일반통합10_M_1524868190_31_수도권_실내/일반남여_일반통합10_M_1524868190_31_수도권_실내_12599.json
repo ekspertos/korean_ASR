@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "저희 (NO:어머니) 집안 꾸미는 거 엄청 좋아하시는데 인테리어에는 어떤 잎식물이 좋나요",
+    "scriptId" : "일반통합-12599",
+    "fileNm" : "일반남여_일반통합10_M_1524868190_31_수도권_실내_12599.wav",
+    "recrdTime" : "6.480",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-07 17:00:30",
+    "scriptSetNo" : "T_일반통합_10"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "꽃다발 오래 보관하는 방법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1524868190",
+    "age" : 31
+  }
+}

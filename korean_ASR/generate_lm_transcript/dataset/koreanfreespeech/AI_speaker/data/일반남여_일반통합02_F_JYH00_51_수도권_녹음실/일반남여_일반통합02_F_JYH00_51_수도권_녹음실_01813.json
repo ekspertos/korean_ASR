@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "어 영 잠이 안 와서 잠을 좀 설쳤는데",
+    "scriptId" : "01813",
+    "fileNm" : "일반남여_일반통합02_F_JYH00_51_수도권_녹음실_01813.wavp",
+    "recrdTime" : "5.900",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-10-06 13:13:42",
+    "scriptSetNo" : "일반통합02"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "녹음실",
+    "colctUnitCode" : "스튜디오",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AI스피커",
+    "convrsThema" : "찜질 증상에 맞게 하자"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "JYH00",
+    "age" : 51
+  }
+}

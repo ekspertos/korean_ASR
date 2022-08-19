@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "카레에 케찹이 들어가",
+    "scriptId" : "06637",
+    "fileNm" : "일반남여_일반통합05_M_tpwnsqkd_18_수도권_실내_06637.wav",
+    "recrdTime" : "3.800",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-13 18:08:44",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "카레에서 고기 잡내 없애기"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "tpwnsqkd",
+    "age" : 18
+  }
+}

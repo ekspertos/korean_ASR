@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "도저히 안 되겠으니 날만 좋기를 바랍니다",
+    "scriptId" : "일반통합-14302",
+    "fileNm" : "일반남여_일반통합09_M_1528862683_38_수도권_실내_14302.wav",
+    "recrdTime" : "3.070",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-29 15:59:29",
+    "scriptSetNo" : "T_일반통합_9"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1528862683",
+    "age" : 38
+  }
+}

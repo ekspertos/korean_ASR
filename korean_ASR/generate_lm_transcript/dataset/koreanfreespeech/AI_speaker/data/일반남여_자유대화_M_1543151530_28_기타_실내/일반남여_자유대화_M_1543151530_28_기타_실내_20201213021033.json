@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그 일을 직접 해본 사람처럼 연기를 너무 잘해서 메소드 연기가 일품이에요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1543151530_28_기타_실내_20201213021033.wav",
+    "recrdTime" : "9.470",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-13 02:10:33",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "기타",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "취미생활"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1543151530",
+    "age" : 28
+  }
+}

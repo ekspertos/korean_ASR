@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "나도 마스크를 끼고 있을 때는 괜찮은데 벗을 때 화장품이 묻어있으면 좀 창피하긴 하더라고",
+    "scriptId" : "일반통합-09447",
+    "fileNm" : "일반남여_일반통합07_F_1527853282_32_경상_실내_09447.wav",
+    "recrdTime" : "7.340",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-10 23:43:24",
+    "scriptSetNo" : "T_일반통합_7"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "마스크 속 피부 관리"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1527853282",
+    "age" : 32
+  }
+}

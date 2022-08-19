@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "요즘 커피 전문점들에 가면 육 천원이 넘는 커피가 수두룩 하더라고.",
+    "scriptId" : "06501",
+    "fileNm" : "일반남여_일반통합05_M_imk070511_17_수도권_실내_06501.wav",
+    "recrdTime" : "7.040",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-06 19:01:39",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "커피 싸게 마시는 방법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "imk070511",
+    "age" : 17
+  }
+}

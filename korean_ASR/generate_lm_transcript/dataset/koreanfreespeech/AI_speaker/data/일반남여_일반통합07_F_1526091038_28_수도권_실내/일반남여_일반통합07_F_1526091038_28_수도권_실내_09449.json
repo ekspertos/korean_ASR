@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "위생적으로도 좋을 거 같네",
+    "scriptId" : "일반통합-09449",
+    "fileNm" : "일반남여_일반통합07_F_1526091038_28_수도권_실내_09449.wav",
+    "recrdTime" : "2.470",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-10 22:24:41",
+    "scriptSetNo" : "T_일반통합_7"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "마스크 속 피부 관리"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526091038",
+    "age" : 28
+  }
+}

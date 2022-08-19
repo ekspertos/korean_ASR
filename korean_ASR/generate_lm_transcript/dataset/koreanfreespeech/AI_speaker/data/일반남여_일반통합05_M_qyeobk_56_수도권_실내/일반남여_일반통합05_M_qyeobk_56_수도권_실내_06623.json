@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "카레가 거기서 거기지 뭐 다를 게 있나",
+    "scriptId" : "06623",
+    "fileNm" : "일반남여_일반통합05_M_qyeobk_56_수도권_실내_06623.wav",
+    "recrdTime" : "4.680",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-09 13:42:57",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "카레에서 고기 잡내 없애기"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "qyeobk",
+    "age" : 56
+  }
+}

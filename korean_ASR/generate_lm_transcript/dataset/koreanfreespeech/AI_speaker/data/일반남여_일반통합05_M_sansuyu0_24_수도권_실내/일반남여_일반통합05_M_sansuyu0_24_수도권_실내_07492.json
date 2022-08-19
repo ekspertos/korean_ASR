@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "여의도에 커피 소녀라는 커피숍이 있었는데 그 사장님이 컵 뚜껑에 한 마디씩 써줬어",
+    "scriptId" : "07492",
+    "fileNm" : "일반남여_일반통합05_M_sansuyu0_24_수도권_실내_07492.wav",
+    "recrdTime" : "6.560",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-11 23:37:26",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "컵홀더 응원 문구"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "sansuyu0",
+    "age" : 24
+  }
+}

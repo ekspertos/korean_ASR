@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(SN:) 요즘 같은 (SN:) 여름철에는 습기 (SN:) 제거에도 (SN:) 최고야.",
+    "scriptId" : "06930",
+    "fileNm" : "일반남여_일반통합05_F_moonstar4299_56_수도권_실내_06930.wav",
+    "recrdTime" : "6.520",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-05 11:21:40",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "커피 찌꺼기 활용법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "moonstar4299",
+    "age" : 56
+  }
+}

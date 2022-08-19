@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "엄마가 치과 치료를 받는 걸 보여주면서 치료가 그리 무섭지않고 금방 끝난다는 걸 보여주라는 거지",
+    "scriptId" : "일반통합-09738",
+    "fileNm" : "일반남여_일반통합07_F_1526091038_28_수도권_실내_09738.wav",
+    "recrdTime" : "8.360",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-15 10:09:17",
+    "scriptSetNo" : "T_일반통합_7"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "치과 공포증 극복하기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526091038",
+    "age" : 28
+  }
+}

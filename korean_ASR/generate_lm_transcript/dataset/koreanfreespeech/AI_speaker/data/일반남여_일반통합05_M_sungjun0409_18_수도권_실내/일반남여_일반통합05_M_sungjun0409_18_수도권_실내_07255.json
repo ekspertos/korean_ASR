@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "워낙 많이 줘서 그냥 그거 다 먹고 그 다음에 물어보려구",
+    "scriptId" : "07255",
+    "fileNm" : "일반남여_일반통합05_M_sungjun0409_18_수도권_실내_07255.wav",
+    "recrdTime" : "6.560",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-12 14:15:30",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "홍차 마시기 "
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "sungjun0409",
+    "age" : 18
+  }
+}

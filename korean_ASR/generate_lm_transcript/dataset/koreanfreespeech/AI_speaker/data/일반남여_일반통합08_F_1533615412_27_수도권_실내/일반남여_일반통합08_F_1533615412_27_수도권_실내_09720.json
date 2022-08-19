@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "혹시 애한테 너 양치질 안하면 치과 가서 아야한다라는 말 자주 한 거 아니야",
+    "scriptId" : "일반통합-09720",
+    "fileNm" : "일반남여_일반통합08_F_1533615412_27_수도권_실내_09720.wav",
+    "recrdTime" : "5.550",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-16 15:25:21",
+    "scriptSetNo" : "T_일반통합_8"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "치과 공포증 극복하기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1533615412",
+    "age" : 27
+  }
+}

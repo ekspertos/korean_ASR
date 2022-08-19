@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "어떤 분야에서는 유능 해지고 성공하기 위해선 세가지가 필요하다 타고난 천성과 공부 그리고 부단한 노력이 그것이다",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1533945430_22_충청_실내_20201231175204.wav",
+    "recrdTime" : "14.080",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 17:52:06",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "Windows 10",
+    "convrsThema" : "#외국명언 #국내명언"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1533945430",
+    "age" : 22
+  }
+}

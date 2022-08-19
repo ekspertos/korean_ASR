@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "나는 사과가 아니라 덜 익은 감자라고 했는데",
+    "scriptId" : "06650",
+    "fileNm" : "일반남여_일반통합05_M_afrz_20_수도권_실내_06650.wav",
+    "recrdTime" : "4.520",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-11 15:35:28",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "카레에서 고기 잡내 없애기"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "afrz",
+    "age" : 20
+  }
+}

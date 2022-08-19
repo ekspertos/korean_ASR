@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "치킨 가격에 따라 배달료가 다른 건가요 아니면 치킨 양에 따라 배달료가  다른 건가요 아니면 교촌치(SP:켠이) 아니면 교촌치킨이면 더 비싼가요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1537785920_31_기타_실내_20201122184517.wav",
+    "recrdTime" : "14.160",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-22 18:45:20",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "기타",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "저녁 식단"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1537785920",
+    "age" : 31
+  }
+}

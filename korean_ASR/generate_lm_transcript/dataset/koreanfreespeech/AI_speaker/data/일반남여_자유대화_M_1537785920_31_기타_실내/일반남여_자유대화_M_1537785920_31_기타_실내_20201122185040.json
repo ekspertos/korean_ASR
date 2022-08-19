@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그리고 아무 말이나 해서 육십분을 채우면 되나요 한시간이 정말 긴 시간인데 주제를 정하자니 또 이상하고 어렵기도 하고요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1537785920_31_기타_실내_20201122185040.wav",
+    "recrdTime" : "12.800",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-22 18:50:43",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "기타",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "집"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1537785920",
+    "age" : 31
+  }
+}

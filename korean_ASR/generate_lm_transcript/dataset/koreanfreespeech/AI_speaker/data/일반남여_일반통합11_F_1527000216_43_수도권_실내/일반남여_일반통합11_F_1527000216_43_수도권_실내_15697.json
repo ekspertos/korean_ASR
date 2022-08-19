@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "저희는 진행자 분들이 대화에 참여하는 것을 권장하고는 있지만요",
+    "scriptId" : "일반통합-15697",
+    "fileNm" : "일반남여_일반통합11_F_1527000216_43_수도권_실내_15697.wav",
+    "recrdTime" : "5.120",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-11 10:20:42",
+    "scriptSetNo" : "T_일반통합_11"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "출연자 섭외"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1527000216",
+    "age" : 43
+  }
+}

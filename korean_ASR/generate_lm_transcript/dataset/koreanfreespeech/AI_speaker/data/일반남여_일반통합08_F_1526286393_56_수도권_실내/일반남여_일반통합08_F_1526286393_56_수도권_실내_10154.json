@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "운동 다이어트할 때도 운동을 좀 하긴 했는데 내 경험으론 살 빼는데는 별 효과가 없던데 ",
+    "scriptId" : "일반통합-10154",
+    "fileNm" : "일반남여_일반통합08_F_1526286393_56_수도권_실내_10154.wav",
+    "recrdTime" : "7.510",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-20 19:00:54",
+    "scriptSetNo" : "T_일반통합_8"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "다이어트 후, 체중 유지하려면?"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526286393",
+    "age" : 56
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그렇기는 해요 저도 신간 나와서 방송 나가면 이야기 할 시간이 부족하더라고요",
+    "scriptId" : "일반통합-15676",
+    "fileNm" : "일반남여_일반통합12_M_1527875425_39_수도권_실내_15676.wav",
+    "recrdTime" : "7.760",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-12 17:22:31",
+    "scriptSetNo" : "T_일반통합_12"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "출연자 섭외"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527875425",
+    "age" : 39
+  }
+}

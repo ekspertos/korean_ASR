@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "어째 불안불안한데.",
+    "scriptId" : "07067",
+    "fileNm" : "일반남여_일반통합05_M_eunbee77_44_수도권_실내_07067.wav",
+    "recrdTime" : "4.400",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-06 11:33:26",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "운전 초보자 주차하기"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "eunbee77",
+    "age" : 44
+  }
+}

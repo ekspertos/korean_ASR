@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "유익하지 않은 말을 함부로 하지 말고 나와 관계없는 일에 부질없이 참견하지 말라",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1537495644_45_수도권_실외_20201209153927.wav",
+    "recrdTime" : "11.940",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-09 15:39:33",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실외",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "#외국명언 #국내명언"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1537495644",
+    "age" : 45
+  }
+}

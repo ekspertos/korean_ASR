@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(SN:) 사실 매달 내는 월세는 너무 아까워 (NO:)",
+    "scriptId" : "06994",
+    "fileNm" : "일반남여_일반통합05_F_cofls0528_20_수도권_실내_06994.wav",
+    "recrdTime" : "4.640",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-13 14:27:37",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "혼족을 위한 지원 정책"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "cofls0528",
+    "age" : 20
+  }
+}

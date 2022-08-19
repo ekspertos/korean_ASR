@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "피부 트러블을 막기 위한 여러분들 만의 노하우가 있나요 아니면 그냥 생기면 생기는 대로 안 생기면 안생기는 대로 그냥 방치하는 편 이신가요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1542570778_32_수도권_실내_20201209190953.wav",
+    "recrdTime" : "13.650",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-09 19:09:55",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "#자유"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1542570778",
+    "age" : 32
+  }
+}

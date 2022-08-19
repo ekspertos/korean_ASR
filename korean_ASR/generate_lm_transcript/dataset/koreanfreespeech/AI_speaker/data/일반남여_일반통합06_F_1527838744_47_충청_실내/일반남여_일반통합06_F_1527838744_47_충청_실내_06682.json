@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "명함을 휴대폰으로 촬영하기만 하면되는데 뭐가 (SP:복잡해)",
+    "scriptId" : "일반통합-06682",
+    "fileNm" : "일반남여_일반통합06_F_1527838744_47_충청_실내_06682.wav",
+    "recrdTime" : "7.510",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-11 12:39:12",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "일의 능률을 올려주는 휴대폰 어플"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1527838744",
+    "age" : 47
+  }
+}

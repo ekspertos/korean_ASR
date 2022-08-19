@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(SN:) 친구들하고 같이 노래 부르면서 외우니 재미도 있고 (SN:) ",
+    "scriptId" : "07047",
+    "fileNm" : "일반남여_일반통합05_M_elovek_35_수도권_실내_07047.wav",
+    "recrdTime" : "7.360",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-12 13:04:52",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "암기 잘하는 법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "elovek",
+    "age" : 35
+  }
+}

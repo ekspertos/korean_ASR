@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "다음으로 박현채 선생의 견해를 살펴 보도록 하겠다 ",
+    "scriptId" : "일반통합-19201",
+    "fileNm" : "일반남여_일반통합11_F_1527000216_43_수도권_실내_19201.wav",
+    "recrdTime" : "4.520",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-02 23:55:42",
+    "scriptSetNo" : "T_일반통합_11"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1527000216",
+    "age" : 43
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그렇게 하면 부담돼서 하고 싶어도 못하니까",
+    "scriptId" : "일반통합-17551",
+    "fileNm" : "일반남여_일반통합12_M_1527875425_39_수도권_실내_17551.wav",
+    "recrdTime" : "5.370",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-23 15:26:07",
+    "scriptSetNo" : "T_일반통합_12"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527875425",
+    "age" : 39
+  }
+}

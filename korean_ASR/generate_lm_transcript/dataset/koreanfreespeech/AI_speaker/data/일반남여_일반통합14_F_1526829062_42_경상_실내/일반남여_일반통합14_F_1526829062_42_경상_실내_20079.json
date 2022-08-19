@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "야외에서 행사를 많이 하거나 농작물을 기르는 사람들에게 도움이 되겠네요",
+    "scriptId" : "일반통합-20079",
+    "fileNm" : "일반남여_일반통합14_F_1526829062_42_경상_실내_20079.wav",
+    "recrdTime" : "6.400",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-28 00:12:33",
+    "scriptSetNo" : "T_일반통합_14"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "날씨 변화로 달라진 것들"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526829062",
+    "age" : 42
+  }
+}

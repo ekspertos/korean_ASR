@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그렇지 않으면 그는 지나친 슬픔에 빠져들지도 모릅니다 ",
+    "scriptId" : "일반통합-15757",
+    "fileNm" : "일반남여_일반통합12_M_1527875425_39_수도권_실내_15757.wav",
+    "recrdTime" : "5.970",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-16 15:55:56",
+    "scriptSetNo" : "T_일반통합_12"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527875425",
+    "age" : 39
+  }
+}

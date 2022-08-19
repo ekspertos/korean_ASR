@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그리고 오늘 마신 커피 찌꺼기도 (SP:담아주면) 더 고맙고.",
+    "scriptId" : "06924",
+    "fileNm" : "일반남여_일반통합05_F_daya1009_20_수도권_실내_06924.wav",
+    "recrdTime" : "5.320",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-11 17:01:01",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "커피 찌꺼기 활용법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "daya1009",
+    "age" : 20
+  }
+}

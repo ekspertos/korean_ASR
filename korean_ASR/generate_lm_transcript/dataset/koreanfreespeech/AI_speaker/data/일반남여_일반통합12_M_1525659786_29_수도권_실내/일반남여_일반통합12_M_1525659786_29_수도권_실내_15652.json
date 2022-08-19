@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "즉 내용물이 녹을 뿐만 아니라 금속 뚜껑이 팽창한 미세한 틈이 생겨났습니다",
+    "scriptId" : "일반통합-15652",
+    "fileNm" : "일반남여_일반통합12_M_1525659786_29_수도권_실내_15652.wav",
+    "recrdTime" : "8.530",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-08 16:22:29",
+    "scriptSetNo" : "T_일반통합_12"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "병뚜껑 쉽게 여는 법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1525659786",
+    "age" : 29
+  }
+}

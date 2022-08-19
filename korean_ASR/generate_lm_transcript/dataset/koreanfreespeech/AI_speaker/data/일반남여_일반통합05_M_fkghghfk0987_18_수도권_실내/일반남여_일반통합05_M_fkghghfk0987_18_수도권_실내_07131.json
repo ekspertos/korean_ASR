@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "찜 닭 만들 때 콜라를 넣는다는 얘기는 들어 봤는데 고기를 콜라에 재워 둔다는 얘기는 금시초문이네.",
+    "scriptId" : "07131",
+    "fileNm" : "일반남여_일반통합05_M_fkghghfk0987_18_수도권_실내_07131.wav",
+    "recrdTime" : "8.600",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-11 14:08:16",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "김빠진 콜라 활용법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "fkghghfk0987",
+    "age" : 18
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "일렉 기타로 연주할 수 있는 유명한 음악들이 많다는 것을 그때 알았어요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1533816289_38_수도권_실내_20201125003517.wav",
+    "recrdTime" : "14.580",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-25 00:35:20",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "Windows Server 2008 R2 / 7",
+    "convrsThema" : "#음악"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1533816289",
+    "age" : 38
+  }
+}

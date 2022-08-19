@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "차량 안은 밀폐된 공간이거든요",
+    "scriptId" : "일반통합-22605",
+    "fileNm" : "일반남여_일반통합14_F_1526829062_42_경상_실내_22605.wav",
+    "recrdTime" : "2.900",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-08 01:49:50",
+    "scriptSetNo" : "T_일반통합_14"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526829062",
+    "age" : 42
+  }
+}

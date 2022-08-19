@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "가을은 멋쟁이들의 계절이잖아 자기도 한껏 뽐낼 수 있는 옷을 찾아 봐",
+    "scriptId" : "일반통합-19643",
+    "fileNm" : "일반남여_일반통합13_M_1529905222_40_수도권_실내_19643.wav",
+    "recrdTime" : "6.570",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-12 17:00:01",
+    "scriptSetNo" : "T_일반통합_13"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "결혼식에 입고 갈 옷 고르기"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1529905222",
+    "age" : 40
+  }
+}

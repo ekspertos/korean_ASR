@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그래서 처음 시작한 김에 하루에 삼십분 정도 한달 정도 사용해야 된다고 계획을 세우고 있어요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1543151530_28_기타_실내_20201208133523.wav",
+    "recrdTime" : "11.090",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-08 13:35:23",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "기타",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "연습"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1543151530",
+    "age" : 28
+  }
+}

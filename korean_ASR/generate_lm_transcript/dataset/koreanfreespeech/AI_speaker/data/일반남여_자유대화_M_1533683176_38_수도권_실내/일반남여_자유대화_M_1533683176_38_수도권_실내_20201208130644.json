@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "빨리 코로나도 없어지고 날씨도 따뜻한 봄이 왔으면 힘이 넘쳐 날텐데 말이지요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1533683176_38_수도권_실내_20201208130644.wav",
+    "recrdTime" : "8.960",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-08 13:06:48",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "취미생활"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1533683176",
+    "age" : 38
+  }
+}

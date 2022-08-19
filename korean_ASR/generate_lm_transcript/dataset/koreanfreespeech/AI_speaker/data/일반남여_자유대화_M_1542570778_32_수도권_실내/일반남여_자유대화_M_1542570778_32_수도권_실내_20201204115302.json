@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "저도 핸드폰 지금 아이폰 쓰고 있는데 애플이 이렇게 크게 성장하게 될 지 누가 알아듣겠어요 처음에는 원래 엠피쓰리 회사 정도에 불과했는데 참 대단한 것 같아요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1542570778_32_수도권_실내_20201204115302.wav",
+    "recrdTime" : "13.820",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-04 11:53:03",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "#자유"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1542570778",
+    "age" : 32
+  }
+}

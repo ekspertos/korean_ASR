@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(NO:) 나는 타인의 시선을 의식하지 않는다는 게 멋지다는 생각이 들기도 해 (NO:)",
+    "scriptId" : "06968",
+    "fileNm" : "일반남여_일반통합05_M_offline1004_23_수도권_실내_06968.wav",
+    "recrdTime" : "8.520",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-05 14:21:30",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "혼족을 위한 지원 정책"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "offline1004",
+    "age" : 23
+  }
+}

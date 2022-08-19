@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그것은 내가 너는 교수에게 무엇인가를 질문하였을 때이었다 ",
+    "scriptId" : "일반통합-20608",
+    "fileNm" : "일반남여_일반통합14_F_1526829062_42_경상_실내_20608.wav",
+    "recrdTime" : "4.780",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-28 02:17:36",
+    "scriptSetNo" : "T_일반통합_14"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526829062",
+    "age" : 42
+  }
+}

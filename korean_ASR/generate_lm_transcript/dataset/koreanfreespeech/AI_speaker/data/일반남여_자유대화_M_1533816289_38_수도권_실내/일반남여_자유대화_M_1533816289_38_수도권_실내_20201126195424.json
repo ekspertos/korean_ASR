@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "식당에 갔을 때 가장 무난하게 먹을수 있는 음식 중에 하나가 제 생각에는 돈까스 인것 같아요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1533816289_38_수도권_실내_20201126195424.wav",
+    "recrdTime" : "14.670",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-26 19:54:26",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "Windows Server 2008 R2 / 7",
+    "convrsThema" : "#자유"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1533816289",
+    "age" : 38
+  }
+}

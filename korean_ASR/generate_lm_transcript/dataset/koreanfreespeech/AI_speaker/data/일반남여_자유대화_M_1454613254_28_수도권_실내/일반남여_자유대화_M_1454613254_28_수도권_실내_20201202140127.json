@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "저는 요즘 노래 들보다 예전 노래가 좋아요 가사가 인상적인 거든요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1454613254_28_수도권_실내_20201202140127.wav",
+    "recrdTime" : "6.830",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-02 14:01:27",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "Windows 10",
+    "convrsThema" : "#음악"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1454613254",
+    "age" : 28
+  }
+}

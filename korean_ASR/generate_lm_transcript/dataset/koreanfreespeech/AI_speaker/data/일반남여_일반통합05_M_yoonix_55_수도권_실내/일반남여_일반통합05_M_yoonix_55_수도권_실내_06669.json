@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "워낙 미팅이 많으니까 일주일이나 한 달 단위로 엑셀에 정리해두는데 며칠 전 미팅이라 아직 정리를 못했어요",
+    "scriptId" : "06669",
+    "fileNm" : "일반남여_일반통합05_M_yoonix_55_수도권_실내_06669.wav",
+    "recrdTime" : "10.280",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-04 16:00:56",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "일의 능률을 올려주는 휴대폰 어플"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "yoonix",
+    "age" : 55
+  }
+}

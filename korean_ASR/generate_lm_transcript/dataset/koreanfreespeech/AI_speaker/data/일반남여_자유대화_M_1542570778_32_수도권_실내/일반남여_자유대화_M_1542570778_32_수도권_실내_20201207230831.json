@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "저는 제주도 중에서 특히 가파도라고 있거든요 가파도를 꼭 가보고 싶어요 가파도는 제주도 남서쪽 있었던 거 같아요 거기서 배를 타고 십분 정도 가야된다고 합니다",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1542570778_32_수도권_실내_20201207230831.wav",
+    "recrdTime" : "13.990",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-07 23:08:38",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "#여행"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1542570778",
+    "age" : 32
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "차량과 승객을 함께 실어 나르는 열차입니다",
+    "scriptId" : "일반통합-23857",
+    "fileNm" : "일반남여_일반통합15_F_1520884569_35_수도권_실내_23857.wav",
+    "recrdTime" : "4.090",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-05 16:50:00",
+    "scriptSetNo" : "T_일반통합_15"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1520884569",
+    "age" : 35
+  }
+}

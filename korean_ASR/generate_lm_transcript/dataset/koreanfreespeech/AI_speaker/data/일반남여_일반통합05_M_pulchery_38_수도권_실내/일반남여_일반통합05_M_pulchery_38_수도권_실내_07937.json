@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(SN:)그 어머니는 알고 있었던 거야 그래서 이 아이를 키울 때 주의 깊게 관찰하고 그러면서 키웠다나 봐",
+    "scriptId" : "07937",
+    "fileNm" : "일반남여_일반통합05_M_pulchery_38_수도권_실내_07937.wav",
+    "recrdTime" : "9.320",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-13 18:44:17",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "싸이코패스의 뇌 알기"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "pulchery",
+    "age" : 38
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(NO:)아직도 비행기 탈 때 까지 한 시간 정도 남았다",
+    "scriptId" : "일반통합-13384",
+    "fileNm" : "일반남여_일반통합10_M_1527076639_24_수도권_실외_13384.wav",
+    "recrdTime" : "4.950",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-11 00:04:49",
+    "scriptSetNo" : "T_일반통합_10"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실외",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "면세점 쇼핑"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527076639",
+    "age" : 24
+  }
+}

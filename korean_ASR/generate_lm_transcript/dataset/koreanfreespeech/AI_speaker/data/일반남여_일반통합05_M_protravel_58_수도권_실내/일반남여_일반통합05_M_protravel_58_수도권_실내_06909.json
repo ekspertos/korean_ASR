@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(SN:)식초 스프레이를 만들어서 한번 뿌려봐야겠다.",
+    "scriptId" : "06909",
+    "fileNm" : "일반남여_일반통합05_M_protravel_58_수도권_실내_06909.wav",
+    "recrdTime" : "4.960",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-06 11:59:35",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "식초 활용법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "protravel",
+    "age" : 58
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "차라리 커피값 (SP:자체)를 좀 내려주면 안 되나?",
+    "scriptId" : "06500",
+    "fileNm" : "일반남여_일반통합05_M_hamdonx_36_수도권_실내_06500.wav",
+    "recrdTime" : "6.080",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-04 10:01:37",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "커피 싸게 마시는 방법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "hamdonx",
+    "age" : 36
+  }
+}

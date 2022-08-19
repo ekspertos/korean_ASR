@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "창조적인 삶을 살기 위해 우리는 잘못되는 것에 대한 두려움을 버려야 한다",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1533945430_22_충청_실내_20201231174917.wav",
+    "recrdTime" : "11.770",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 17:49:18",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "Windows 10",
+    "convrsThema" : "#외국명언 #국내명언"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1533945430",
+    "age" : 22
+  }
+}

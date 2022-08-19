@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "마음은 결국 부단히 마음으로부터 벗어남이며 동시에 마음으로 태어남이다 ",
+    "scriptId" : "일반통합-16008",
+    "fileNm" : "일반남여_일반통합12_M_1527875425_39_수도권_실내_16008.wav",
+    "recrdTime" : "8.700",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-16 17:00:23",
+    "scriptSetNo" : "T_일반통합_12"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527875425",
+    "age" : 39
+  }
+}

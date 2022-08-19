@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "스타킹을 옷걸이에 씌워 문질러주면 먼지가 잘 나오거든",
+    "scriptId" : "일반통합-23752",
+    "fileNm" : "일반남여_일반통합16_F_1527681614_32_전라_실내_23752.wav",
+    "recrdTime" : "5.120",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-12 13:34:50",
+    "scriptSetNo" : "T_일반통합_16"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "전라",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "청소 쉽게 하는 꿀팁"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1527681614",
+    "age" : 32
+  }
+}

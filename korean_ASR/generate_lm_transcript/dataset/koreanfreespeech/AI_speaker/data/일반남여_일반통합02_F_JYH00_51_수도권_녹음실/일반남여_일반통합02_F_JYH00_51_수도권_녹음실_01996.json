@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "들어간 재료는 다 비슷한 것 같은데 맛이 다 다른 것도 신기했고 말이지",
+    "scriptId" : "01996",
+    "fileNm" : "일반남여_일반통합02_F_JYH00_51_수도권_녹음실_01996.wavp",
+    "recrdTime" : "8.190",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-10-06 13:32:06",
+    "scriptSetNo" : "일반통합02"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "녹음실",
+    "colctUnitCode" : "스튜디오",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AI스피커",
+    "convrsThema" : "김밥을 싸자 "
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "JYH00",
+    "age" : 51
+  }
+}

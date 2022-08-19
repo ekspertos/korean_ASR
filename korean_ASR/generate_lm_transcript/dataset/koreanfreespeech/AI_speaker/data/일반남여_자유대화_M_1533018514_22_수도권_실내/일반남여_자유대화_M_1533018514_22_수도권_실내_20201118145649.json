@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "날씨가 흐려서(SP:오늘) 낮잠 자기 정말 좋은 거 같아요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1533018514_22_수도권_실내_20201118145649.wav",
+    "recrdTime" : "7.420",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-18 14:56:53",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "#일상 #기록"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1533018514",
+    "age" : 22
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(NO:)어디 나가지도 못하고 진짜 (SP:와) 완전히 영화 속에서 살고 있는 거 같아요 나가면 좀비 떼들이 막 이렇게 있는 것 같은 그런 느낌 있죠 나가지도 못하는 그런 상황",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1542570778_32_수도권_실외_20201129082741.wav",
+    "recrdTime" : "13.990",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-29 08:27:43",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실외",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "녹음"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1542570778",
+    "age" : 32
+  }
+}

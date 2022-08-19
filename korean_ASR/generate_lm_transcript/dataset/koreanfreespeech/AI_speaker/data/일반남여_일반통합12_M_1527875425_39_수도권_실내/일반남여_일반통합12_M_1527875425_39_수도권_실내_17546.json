@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "이회창 한나라당 총재는 화환을 보냈습니다",
+    "scriptId" : "일반통합-17546",
+    "fileNm" : "일반남여_일반통합12_M_1527875425_39_수도권_실내_17546.wav",
+    "recrdTime" : "5.290",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-23 15:23:44",
+    "scriptSetNo" : "T_일반통합_12"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527875425",
+    "age" : 39
+  }
+}

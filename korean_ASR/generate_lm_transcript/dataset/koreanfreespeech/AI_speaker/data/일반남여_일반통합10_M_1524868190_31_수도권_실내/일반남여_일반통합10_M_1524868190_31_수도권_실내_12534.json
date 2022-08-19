@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "축사의 분뇨 냄새 파리와 모기 쥐나 뱀 이런 거에 익숙해질 필요가 있거든",
+    "scriptId" : "일반통합-12534",
+    "fileNm" : "일반남여_일반통합10_M_1524868190_31_수도권_실내_12534.wav",
+    "recrdTime" : "7.250",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-07 16:09:51",
+    "scriptSetNo" : "T_일반통합_10"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "귀농에 성공하는 법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1524868190",
+    "age" : 31
+  }
+}

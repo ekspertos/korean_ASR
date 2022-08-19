@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "자주보는 회사 사람들은 그렇다 치더라도 외부 미팅을 할 때는 좀 민망하더라구",
+    "scriptId" : "일반통합-09440",
+    "fileNm" : "일반남여_일반통합07_F_1526947547_45_수도권_실내_09440.wav",
+    "recrdTime" : "6.060",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-09 19:02:14",
+    "scriptSetNo" : "T_일반통합_7"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "마스크 속 피부 관리"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526947547",
+    "age" : 45
+  }
+}

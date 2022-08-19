@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "지금 굉장히 괴로운 상태거든요",
+    "scriptId" : "일반통합-13610",
+    "fileNm" : "일반남여_일반통합10_M_1524868190_31_수도권_실내_13610.wav",
+    "recrdTime" : "3.330",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-09 18:51:59",
+    "scriptSetNo" : "T_일반통합_10"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1524868190",
+    "age" : 31
+  }
+}

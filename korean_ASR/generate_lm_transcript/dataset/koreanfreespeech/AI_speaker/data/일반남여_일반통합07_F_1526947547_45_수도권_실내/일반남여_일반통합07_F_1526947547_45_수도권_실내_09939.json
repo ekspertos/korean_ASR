@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "모기가 싫어하는 오일을 뿌리면 모기 기피제로도 쓸 수 있고",
+    "scriptId" : "일반통합-09939",
+    "fileNm" : "일반남여_일반통합07_F_1526947547_45_수도권_실내_09939.wav",
+    "recrdTime" : "5.200",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-10 15:36:39",
+    "scriptSetNo" : "T_일반통합_7"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "아이스팩 활용법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526947547",
+    "age" : 45
+  }
+}

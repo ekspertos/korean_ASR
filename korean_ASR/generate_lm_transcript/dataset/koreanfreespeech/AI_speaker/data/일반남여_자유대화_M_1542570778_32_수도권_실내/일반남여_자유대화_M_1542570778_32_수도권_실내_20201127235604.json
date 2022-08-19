@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "근데 헬스장이나 체육관이 면 모를까 어 집에서 홈트레이닝 하는데 파트 너랑 같이 운동하는 건 거이 사실상 쉽지 않죠",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1542570778_32_수도권_실내_20201127235604.wav",
+    "recrdTime" : "14.420",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-27 23:56:07",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "취미생활"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1542570778",
+    "age" : 32
+  }
+}

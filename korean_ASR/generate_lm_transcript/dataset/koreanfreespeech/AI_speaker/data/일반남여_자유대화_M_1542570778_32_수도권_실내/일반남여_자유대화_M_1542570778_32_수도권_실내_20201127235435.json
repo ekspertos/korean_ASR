@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그리고 운동은 혼자 사는 것보다 옆에서 같이 보조로 할 수 있는 사람 있으면은 그러니까 파트너가 있으면 진짜 훨씬 더 시너지가 일어나는 거 같아요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1542570778_32_수도권_실내_20201127235435.wav",
+    "recrdTime" : "13.990",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-27 23:54:38",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "취미생활"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1542570778",
+    "age" : 32
+  }
+}

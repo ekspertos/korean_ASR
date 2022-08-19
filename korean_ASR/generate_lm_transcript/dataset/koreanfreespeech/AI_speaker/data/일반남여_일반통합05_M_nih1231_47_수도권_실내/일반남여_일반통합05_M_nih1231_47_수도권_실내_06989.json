@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(SN:) 만 십구 세부터 만 (SP:삼십) 세 이하의 대학생과 (SN:) 취업 준비생 등을 대상으로 (SN:) 부족한 전세자금을 지원해주는 제도야.",
+    "scriptId" : "06989",
+    "fileNm" : "일반남여_일반통합05_M_nih1231_47_수도권_실내_06989.wav",
+    "recrdTime" : "13.440",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-04 11:33:45",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "혼족을 위한 지원 정책"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "nih1231",
+    "age" : 47
+  }
+}

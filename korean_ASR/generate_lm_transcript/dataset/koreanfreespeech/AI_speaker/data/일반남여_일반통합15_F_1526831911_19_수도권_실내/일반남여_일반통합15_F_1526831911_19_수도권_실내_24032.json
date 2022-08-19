@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "아무래도 서로 공통점이 있어서 만난 사이는 아니라서 그럴 거야",
+    "scriptId" : "일반통합-24032",
+    "fileNm" : "일반남여_일반통합15_F_1526831911_19_수도권_실내_24032.wav",
+    "recrdTime" : "5.290",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-12 12:13:27",
+    "scriptSetNo" : "T_일반통합_15"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "새로운 친구 사귀기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526831911",
+    "age" : 19
+  }
+}

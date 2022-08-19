@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "난 밀떡 양념 맛이 확 밴 밀떡이야말로 진정한 떡볶이지 ",
+    "scriptId" : "일반통합-23827",
+    "fileNm" : "일반남여_일반통합15_F_1522862361_45_수도권_실내_23827.wav",
+    "recrdTime" : "6.740",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-08 09:00:43",
+    "scriptSetNo" : "T_일반통합_15"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "떡볶이에 관하여 "
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1522862361",
+    "age" : 45
+  }
+}

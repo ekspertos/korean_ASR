@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "종금형과 알피형 중에 어떤 게 나을지 고민해 봐야겠구나",
+    "scriptId" : "06610",
+    "fileNm" : "일반남여_일반통합05_M_dbtmd8301_20_수도권_실내_06610.wav",
+    "recrdTime" : "6.440",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-12 10:40:48",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "CMA 통장이 뭐야"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "dbtmd8301",
+    "age" : 20
+  }
+}

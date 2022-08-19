@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그래서 (SN:피)부과(SP:와)의사들이 조심하라는 기사(SP:스럽게생각)많이 쓰 더라구.",
+    "scriptId" : "07343",
+    "fileNm" : "일반남여_일반통합05_M_fkghghfk0987_18_수도권_실내_07343.wav",
+    "recrdTime" : "5.200",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-12 15:20:57",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "손소독제 위험"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "fkghghfk0987",
+    "age" : 18
+  }
+}

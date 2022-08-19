@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "요즘은 안경을 실용적인 목적으로만 쓰는게 아니라서 엄청 다양한 디자인과 색깔이 있다고",
+    "scriptId" : "일반통합-12684",
+    "fileNm" : "일반남여_일반통합10_M_1526889050_25_충청_실내_12684.wav",
+    "recrdTime" : "6.480",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-09 18:31:12",
+    "scriptSetNo" : "T_일반통합_10"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "얼굴형에 맞는 안경테 고르기"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1526889050",
+    "age" : 25
+  }
+}

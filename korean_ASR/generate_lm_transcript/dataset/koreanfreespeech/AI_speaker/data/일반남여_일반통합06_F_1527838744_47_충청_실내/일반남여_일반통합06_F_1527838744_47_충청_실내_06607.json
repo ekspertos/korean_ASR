@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "종금형보다 이자가 높고 문제가 생겼을 때는 채권을 판매해 현금으로 받을 수 있다는 장점이 있지",
+    "scriptId" : "일반통합-06607",
+    "fileNm" : "일반남여_일반통합06_F_1527838744_47_충청_실내_06607.wav",
+    "recrdTime" : "10.660",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-11 12:19:56",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "CMA 통장이 뭐야"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1527838744",
+    "age" : 47
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "좀 편안 하이힐을 신고 싶다면 뾰족한 디자인 보다는 발가락 부분의 공간이 넓거나 오픈 토 형태를 고르는 것도 방법이야",
+    "scriptId" : "일반통합-09654",
+    "fileNm" : "일반남여_일반통합07_F_1526091038_28_수도권_실내_09654.wav",
+    "recrdTime" : "9.810",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-14 23:38:56",
+    "scriptSetNo" : "T_일반통합_7"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "하이힐 건강하게 신는 법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526091038",
+    "age" : 28
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그렇지 뇌가 그러면 다 사이코 패스가 된다 이렇게 생각했던 사람이니까",
+    "scriptId" : "07941",
+    "fileNm" : "일반남여_일반통합05_M_pulchery_38_수도권_실내_07941.wav",
+    "recrdTime" : "7.680",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-13 18:44:51",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "싸이코패스의 뇌 알기"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "pulchery",
+    "age" : 38
+  }
+}

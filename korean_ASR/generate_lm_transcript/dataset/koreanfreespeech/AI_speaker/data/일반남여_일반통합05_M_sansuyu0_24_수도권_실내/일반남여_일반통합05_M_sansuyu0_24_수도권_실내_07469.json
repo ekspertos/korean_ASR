@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "당신이 행복하길 바랄게요",
+    "scriptId" : "07469",
+    "fileNm" : "일반남여_일반통합05_M_sansuyu0_24_수도권_실내_07469.wav",
+    "recrdTime" : "4.160",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-11 23:35:40",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "컵홀더 응원 문구"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "sansuyu0",
+    "age" : 24
+  }
+}

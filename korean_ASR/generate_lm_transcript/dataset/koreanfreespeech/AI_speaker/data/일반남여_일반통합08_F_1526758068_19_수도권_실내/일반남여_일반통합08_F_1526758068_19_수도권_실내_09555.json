@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그리고 도어 윗부분에는 캔이나 부피가 크지 않은 용기를 배치하면 실용적이에요",
+    "scriptId" : "일반통합-09555",
+    "fileNm" : "일반남여_일반통합08_F_1526758068_19_수도권_실내_09555.wav",
+    "recrdTime" : "7.850",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-11 04:27:42",
+    "scriptSetNo" : "T_일반통합_8"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "냉장고 정리하기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526758068",
+    "age" : 19
+  }
+}

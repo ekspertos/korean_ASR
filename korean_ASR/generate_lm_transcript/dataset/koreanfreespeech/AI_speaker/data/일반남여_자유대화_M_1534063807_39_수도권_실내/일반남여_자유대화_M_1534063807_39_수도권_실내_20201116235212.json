@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "빨리 말하면 시간만 주니까 조금 천천히 말 해서 확실하게 시간을 확보하는게 더 유리하지 않을까요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1534063807_39_수도권_실내_20201116235212.wav",
+    "recrdTime" : "9.900",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-16 23:52:14",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "#일상 #기록"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1534063807",
+    "age" : 39
+  }
+}

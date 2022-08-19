@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "근데 그 동네가 시로 승격하고 앞으로 도로가 뚫리면서 가격이 엄청 오른 거지",
+    "scriptId" : "일반통합-10254",
+    "fileNm" : "일반남여_일반통합07_F_1526947547_45_수도권_실내_10254.wav",
+    "recrdTime" : "7.680",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-16 15:00:44",
+    "scriptSetNo" : "T_일반통합_7"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "아는 집 이혼 이야기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526947547",
+    "age" : 45
+  }
+}

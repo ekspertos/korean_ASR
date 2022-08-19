@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(NO:)애들하고 여행할 때도 일반 기내식을 먹었지",
+    "scriptId" : "일반통합-12633",
+    "fileNm" : "일반남여_일반통합09_M_1525465796_34_수도권_실내_12633.wav",
+    "recrdTime" : "5.030",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-10 19:28:53",
+    "scriptSetNo" : "T_일반통합_9"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "기내식 백배 활용하기"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1525465796",
+    "age" : 34
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "학교 종이 땡땡땡 어서 모이자. 선생님이 우리를 기다리신다.",
+    "scriptId" : "07045",
+    "fileNm" : "일반남여_일반통합05_M_lhj5170_35_수도권_실내_07045.wav",
+    "recrdTime" : "8.560",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-13 11:30:04",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "암기 잘하는 법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "lhj5170",
+    "age" : 35
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(NO:) 그래서 피부과 의사들이 조심하라는 기사 많이 쓰더라구",
+    "scriptId" : "07343",
+    "fileNm" : "일반남여_일반통합05_M_sungjun0409_18_수도권_실내_07343.wav",
+    "recrdTime" : "6.800",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-13 13:01:13",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "손소독제 위험"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "sungjun0409",
+    "age" : 18
+  }
+}

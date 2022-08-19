@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "원칙적으로는 출연하시는 저자분의 이야기를 많이 듣고 싶어요",
+    "scriptId" : "일반통합-15698",
+    "fileNm" : "일반남여_일반통합11_F_1527167301_42_수도권_실내_15698.wav",
+    "recrdTime" : "5.890",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-14 11:48:43",
+    "scriptSetNo" : "T_일반통합_11"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "출연자 섭외"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1527167301",
+    "age" : 42
+  }
+}

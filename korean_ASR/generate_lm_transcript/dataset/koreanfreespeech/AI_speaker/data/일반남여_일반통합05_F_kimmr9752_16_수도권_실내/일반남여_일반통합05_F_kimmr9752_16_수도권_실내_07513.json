@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(NO:) 나 오늘 이 책 하나로 행복하다",
+    "scriptId" : "07513",
+    "fileNm" : "일반남여_일반통합05_F_kimmr9752_16_수도권_실내_07513.wav",
+    "recrdTime" : "4.480",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-13 13:41:56",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "독서 후기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "kimmr9752",
+    "age" : 16
+  }
+}

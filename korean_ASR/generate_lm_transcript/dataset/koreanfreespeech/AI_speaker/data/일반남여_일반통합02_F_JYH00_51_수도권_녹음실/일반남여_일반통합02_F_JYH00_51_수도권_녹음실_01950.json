@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "위장 장애에 야식이 좋을 리가 없잖아",
+    "scriptId" : "01950",
+    "fileNm" : "일반남여_일반통합02_F_JYH00_51_수도권_녹음실_01950.wavp",
+    "recrdTime" : "4.800",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-10-06 13:27:34",
+    "scriptSetNo" : "일반통합02"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "녹음실",
+    "colctUnitCode" : "스튜디오",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AI스피커",
+    "convrsThema" : "야식을 먹고 싶다"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "JYH00",
+    "age" : 51
+  }
+}

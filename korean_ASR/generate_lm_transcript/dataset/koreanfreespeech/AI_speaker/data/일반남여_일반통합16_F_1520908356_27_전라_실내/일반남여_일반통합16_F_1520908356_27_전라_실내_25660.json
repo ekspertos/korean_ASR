@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "교복을 사복처럼 입고 들어와요",
+    "scriptId" : "일반통합-25660",
+    "fileNm" : "일반남여_일반통합16_F_1520908356_27_전라_실내_25660.wav",
+    "recrdTime" : "3.410",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-27 17:37:44",
+    "scriptSetNo" : "T_일반통합_16"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "전라",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1520908356",
+    "age" : 27
+  }
+}

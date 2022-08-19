@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "키가 엄청 크시고 체격이 좋은 분이셨는데도 재활이 쉽지가 않았습니다",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1543151530_28_기타_실내_20201224143826.wav",
+    "recrdTime" : "9.980",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-24 14:38:27",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "기타",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "취미생활"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1543151530",
+    "age" : 28
+  }
+}

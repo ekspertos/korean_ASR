@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "터키에서 열린 직원들의 음주 축구 대회입니다",
+    "scriptId" : "일반통합-24094",
+    "fileNm" : "일반남여_일반통합15_F_1525658307_31_수도권_실내_24094.wav",
+    "recrdTime" : "4.950",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-18 18:03:59",
+    "scriptSetNo" : "T_일반통합_15"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1525658307",
+    "age" : 31
+  }
+}

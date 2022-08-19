@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "먹는 것도 좋아하면 반은 먹고 반은 피부에 양보하면 되잖아 (NO:)",
+    "scriptId" : "06741",
+    "fileNm" : "일반남여_일반통합05_F_wldud14990_19_수도권_실내_06741.wav",
+    "recrdTime" : "5.760",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-04 18:46:43",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "아보카도, 피부에 양보하세요"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "wldud14990",
+    "age" : 19
+  }
+}

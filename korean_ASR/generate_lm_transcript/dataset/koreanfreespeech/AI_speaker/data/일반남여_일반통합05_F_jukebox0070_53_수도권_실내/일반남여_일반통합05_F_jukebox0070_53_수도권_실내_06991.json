@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(NO:) (SN:) 수도권의 경우 최대 일억 이천 만원 광역시는 구천 오백 만원까지 지원을 받을 수 있다니 괜찮지 않아",
+    "scriptId" : "06991",
+    "fileNm" : "일반남여_일반통합05_F_jukebox0070_53_수도권_실내_06991.wav",
+    "recrdTime" : "8.400",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-12 11:32:27",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "혼족을 위한 지원 정책"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "jukebox0070",
+    "age" : 53
+  }
+}

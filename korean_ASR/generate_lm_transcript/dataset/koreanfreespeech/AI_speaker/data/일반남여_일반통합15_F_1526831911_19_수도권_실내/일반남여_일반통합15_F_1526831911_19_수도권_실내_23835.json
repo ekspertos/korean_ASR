@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "순대를 소금에 찍어 먹는 사람들이 많지만 난 무조건 떡볶이야",
+    "scriptId" : "일반통합-23835",
+    "fileNm" : "일반남여_일반통합15_F_1526831911_19_수도권_실내_23835.wav",
+    "recrdTime" : "6.060",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-12 11:48:55",
+    "scriptSetNo" : "T_일반통합_15"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "떡볶이에 관하여 "
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526831911",
+    "age" : 19
+  }
+}

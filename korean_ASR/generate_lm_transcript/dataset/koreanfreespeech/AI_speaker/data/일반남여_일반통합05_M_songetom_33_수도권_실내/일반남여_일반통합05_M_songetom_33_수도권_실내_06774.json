@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "작물 재배에서 물주기는 빼놓을 수 없기 때문에 방수 처리 없이 텃밭을 가꾸었다간 곰팡이의 무자비한 습격을 받게 되거든요",
+    "scriptId" : "06774",
+    "fileNm" : "일반남여_일반통합05_M_songetom_33_수도권_실내_06774.wav",
+    "recrdTime" : "11.040",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-13 16:05:35",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "베란다에 텃밭 가꾸기"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "songetom",
+    "age" : 33
+  }
+}

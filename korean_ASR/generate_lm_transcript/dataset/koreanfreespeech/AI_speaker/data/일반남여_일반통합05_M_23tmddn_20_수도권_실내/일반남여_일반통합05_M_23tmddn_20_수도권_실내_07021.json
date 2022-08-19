@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "이해하는 과목은 쉬운데 외우는 과목이 너무 어렵대",
+    "scriptId" : "07021",
+    "fileNm" : "일반남여_일반통합05_M_23tmddn_20_수도권_실내_07021.wav",
+    "recrdTime" : "7.840",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-05 14:25:22",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "암기 잘하는 법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "23tmddn",
+    "age" : 20
+  }
+}

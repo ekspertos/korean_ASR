@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "음료수랑 커피도 있으니 후식 까지도 걱정이 없어요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1576523737_34_수도권_실내_20201231162559.wav",
+    "recrdTime" : "5.800",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 16:26:01",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "구디"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1576523737",
+    "age" : 34
+  }
+}

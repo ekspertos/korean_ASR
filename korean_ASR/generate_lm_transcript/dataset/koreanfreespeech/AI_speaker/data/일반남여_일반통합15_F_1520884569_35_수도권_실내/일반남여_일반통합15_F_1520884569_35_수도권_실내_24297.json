@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(SN:)아니 꼭 그런 건 아닌데 나도 모르게 그렇게 되더라",
+    "scriptId" : "일반통합-24297",
+    "fileNm" : "일반남여_일반통합15_F_1520884569_35_수도권_실내_24297.wav",
+    "recrdTime" : "4.520",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-05 23:44:43",
+    "scriptSetNo" : "T_일반통합_15"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "소개팅 후기 2"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1520884569",
+    "age" : 35
+  }
+}

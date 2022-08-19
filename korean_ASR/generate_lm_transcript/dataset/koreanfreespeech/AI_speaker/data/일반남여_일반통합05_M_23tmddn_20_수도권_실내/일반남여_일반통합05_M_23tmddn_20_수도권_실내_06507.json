@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그렇게 하면 비싼 커피를 싸게 마시는 느낌이 드니까.",
+    "scriptId" : "06507",
+    "fileNm" : "일반남여_일반통합05_M_23tmddn_20_수도권_실내_06507.wav",
+    "recrdTime" : "9.160",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-05 13:03:25",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "커피 싸게 마시는 방법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "23tmddn",
+    "age" : 20
+  }
+}

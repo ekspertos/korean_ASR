@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "검찰과 교육부가 즉각 조사에 나섰습니다",
+    "scriptId" : "일반통합-16698",
+    "fileNm" : "일반남여_일반통합11_F_1527844391_41_경상_실내_16698.wav",
+    "recrdTime" : "4.440",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-11 12:30:51",
+    "scriptSetNo" : "T_일반통합_11"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1527844391",
+    "age" : 41
+  }
+}

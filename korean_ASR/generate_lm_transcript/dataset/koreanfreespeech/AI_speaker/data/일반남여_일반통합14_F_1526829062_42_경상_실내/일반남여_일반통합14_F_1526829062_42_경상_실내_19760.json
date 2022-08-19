@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그렇지 않(SP:아)습니다 너는 너를 알았지만 나를 잘 알지 있잖아 널 아프게 하지 않아",
+    "scriptId" : "일반통합-19760",
+    "fileNm" : "일반남여_일반통합14_F_1526829062_42_경상_실내_19760.wav",
+    "recrdTime" : "6.480",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-11 00:23:03",
+    "scriptSetNo" : "T_일반통합_14"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "사랑 고백"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526829062",
+    "age" : 42
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "죽음은 삶 속에 내재해 있다",
+    "scriptId" : "06412",
+    "fileNm" : "일반남여_일반통합05_F_qazedcwsx1111_18_수도권_실내_06412.wav",
+    "recrdTime" : "5.480",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-13 17:46:58",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "qazedcwsx1111",
+    "age" : 18
+  }
+}

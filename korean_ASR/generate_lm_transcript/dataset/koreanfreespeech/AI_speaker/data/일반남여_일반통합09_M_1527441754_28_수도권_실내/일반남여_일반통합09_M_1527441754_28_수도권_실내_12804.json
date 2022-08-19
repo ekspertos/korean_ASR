@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "학교 다닐 때는 별 생각없이 다녔는데 막상 떠나려니 이런 생각들이 나네",
+    "scriptId" : "일반통합-12804",
+    "fileNm" : "일반남여_일반통합09_M_1527441754_28_수도권_실내_12804.wav",
+    "recrdTime" : "4.860",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-23 23:04:00",
+    "scriptSetNo" : "T_일반통합_9"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "대학 졸업식장에서 친구와"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527441754",
+    "age" : 28
+  }
+}

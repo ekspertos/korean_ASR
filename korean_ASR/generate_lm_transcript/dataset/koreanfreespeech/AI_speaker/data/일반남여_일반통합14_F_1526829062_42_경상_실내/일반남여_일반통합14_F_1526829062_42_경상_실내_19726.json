@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "못 (SP:벗어날)것 것 같이 매번 규칙적으로 맞지",
+    "scriptId" : "일반통합-19726",
+    "fileNm" : "일반남여_일반통합14_F_1526829062_42_경상_실내_19726.wav",
+    "recrdTime" : "4.440",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-11 00:16:11",
+    "scriptSetNo" : "T_일반통합_14"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "사랑 고백"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526829062",
+    "age" : 42
+  }
+}

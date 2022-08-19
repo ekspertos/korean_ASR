@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "눈에 콩깍지가 씌였을때는 먹는 것도 예뻐보이지만 꼴도 보기 싫은데 쩝쩝대고 먹어봐",
+    "scriptId" : "일반통합-23967",
+    "fileNm" : "일반남여_일반통합15_F_1525658307_31_수도권_실내_23967.wav",
+    "recrdTime" : "9.130",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-09 17:54:26",
+    "scriptSetNo" : "T_일반통합_15"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "나도 먹방 찍어볼까?"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1525658307",
+    "age" : 31
+  }
+}

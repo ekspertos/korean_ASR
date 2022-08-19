@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "여자 친구를 만들고 안경테를 바꾸려고 하지 말고, 안경테를 바꾸면 여자 친구가 생길 수도 있잖아?",
+    "scriptId" : "일반통합-12682",
+    "fileNm" : "일반남여_일반통합10_M_1524868190_31_수도권_실내_12682.wav",
+    "recrdTime" : "6.480",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-08 16:21:09",
+    "scriptSetNo" : "T_일반통합_10"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "얼굴형에 맞는 안경테 고르기"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1524868190",
+    "age" : 31
+  }
+}

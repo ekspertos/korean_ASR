@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "종교인들을 위한 이슬람교식 힌두교식 유대교식도 있지",
+    "scriptId" : "일반통합-12622",
+    "fileNm" : "일반남여_일반통합10_M_1526940967_27_충청_실내_12622.wav",
+    "recrdTime" : "5.290",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-10 16:31:55",
+    "scriptSetNo" : "T_일반통합_10"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "기내식 백배 활용하기"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1526940967",
+    "age" : 27
+  }
+}

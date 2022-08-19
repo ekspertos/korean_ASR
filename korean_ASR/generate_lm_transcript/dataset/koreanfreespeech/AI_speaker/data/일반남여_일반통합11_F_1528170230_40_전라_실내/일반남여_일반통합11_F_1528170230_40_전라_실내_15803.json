@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "차가 많이 막히네요 어디로 가실 거예요 강변 아니면 올림픽대로",
+    "scriptId" : "일반통합-15803",
+    "fileNm" : "일반남여_일반통합11_F_1528170230_40_전라_실내_15803.wav",
+    "recrdTime" : "6.650",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-10 23:43:01",
+    "scriptSetNo" : "T_일반통합_11"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "전라",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "데이트"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1528170230",
+    "age" : 40
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "아무래도 소형차이니까 시야가 좀 좁아지죠",
+    "scriptId" : "일반통합-17543",
+    "fileNm" : "일반남여_일반통합11_F_1527000216_43_수도권_실내_17543.wav",
+    "recrdTime" : "4.270",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-21 16:25:36",
+    "scriptSetNo" : "T_일반통합_11"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1527000216",
+    "age" : 43
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "천재지변이니 잔소리를 할 수도 없고 죽을 맛이네요",
+    "scriptId" : "일반통합-09518",
+    "fileNm" : "일반남여_일반통합08_F_1533615412_27_수도권_실내_09518.wav",
+    "recrdTime" : "4.520",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-16 15:01:58",
+    "scriptSetNo" : "T_일반통합_8"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "냉장고 정리하기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1533615412",
+    "age" : 27
+  }
+}

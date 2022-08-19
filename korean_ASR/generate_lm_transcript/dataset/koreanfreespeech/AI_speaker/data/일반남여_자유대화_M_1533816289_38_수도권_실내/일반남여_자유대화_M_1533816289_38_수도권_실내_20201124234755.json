@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "오늘 사회적 경제에 대해서 온라인으로 줌을 이용하여 사람들과 의견을 나누었어요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1533816289_38_수도권_실내_20201124234755.wav",
+    "recrdTime" : "14.670",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-24 23:47:57",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "Windows Server 2008 R2 / 7",
+    "convrsThema" : "#자유"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1533816289",
+    "age" : 38
+  }
+}

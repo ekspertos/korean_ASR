@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "난 친구들과 밤 (NO:)늦도록 같이 맛있는 거 먹고 떠들썩하게 놀던 거",
+    "scriptId" : "일반통합-23765",
+    "fileNm" : "일반남여_일반통합15_F_1522862361_45_수도권_실내_23765.wav",
+    "recrdTime" : "6.650",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-06 21:52:23",
+    "scriptSetNo" : "T_일반통합_15"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "코로나가 종식된다면 나는"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1522862361",
+    "age" : 45
+  }
+}

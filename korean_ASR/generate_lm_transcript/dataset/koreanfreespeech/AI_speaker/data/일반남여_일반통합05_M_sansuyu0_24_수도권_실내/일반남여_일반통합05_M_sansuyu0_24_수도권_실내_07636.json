@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그랬더니 그 악몽의 기억을 이겨야만 성장할 수 있다 뭐 그런 내용이야",
+    "scriptId" : "07636",
+    "fileNm" : "일반남여_일반통합05_M_sansuyu0_24_수도권_실내_07636.wav",
+    "recrdTime" : "6.600",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-11 23:59:17",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "동화책 소개"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "sansuyu0",
+    "age" : 24
+  }
+}

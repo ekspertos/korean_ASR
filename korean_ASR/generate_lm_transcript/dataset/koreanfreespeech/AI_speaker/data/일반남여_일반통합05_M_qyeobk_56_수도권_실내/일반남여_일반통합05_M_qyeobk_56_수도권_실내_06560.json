@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "후기가 적지만 호스트가 정성스럽게 프로필을 작성해 놓은 곳을 골라봐야겠다.",
+    "scriptId" : "06560",
+    "fileNm" : "일반남여_일반통합05_M_qyeobk_56_수도권_실내_06560.wav",
+    "recrdTime" : "8.120",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-09 13:33:40",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "에어비앤비 실패하지 않고 고르는 법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "qyeobk",
+    "age" : 56
+  }
+}

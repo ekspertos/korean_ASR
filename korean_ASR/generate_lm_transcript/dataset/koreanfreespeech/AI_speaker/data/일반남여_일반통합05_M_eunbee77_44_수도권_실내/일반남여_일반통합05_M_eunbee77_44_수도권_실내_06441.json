@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "누가 아예 먹지 말래 적당히 먹으라는 거지",
+    "scriptId" : "06441",
+    "fileNm" : "일반남여_일반통합05_M_eunbee77_44_수도권_실내_06441.wav",
+    "recrdTime" : "6.520",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-06 10:05:15",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "해외에서 시차 적응 잘하는 방법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "eunbee77",
+    "age" : 44
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그랬더니 시어머니가 (SP:어디) 애는 혼자 낳냐고 다 그러고 (SP:낳는거지) 이러고 있다",
+    "scriptId" : "일반통합-10291",
+    "fileNm" : "일반남여_일반통합07_F_1526947547_45_수도권_실내_10291.wav",
+    "recrdTime" : "8.190",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-16 15:07:53",
+    "scriptSetNo" : "T_일반통합_7"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "형제의 난"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526947547",
+    "age" : 45
+  }
+}

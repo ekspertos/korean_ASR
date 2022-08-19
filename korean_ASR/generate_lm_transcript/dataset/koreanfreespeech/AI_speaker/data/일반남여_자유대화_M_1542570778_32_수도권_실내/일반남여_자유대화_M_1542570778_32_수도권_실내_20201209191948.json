@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "한번에 확정되진 않고,(SN:) 예를 들어서 이백 개를 진행했으면 그 이백 개에 해당하는 포인트가 추가로 집계되어있고, (SP:청결)천개을 했으면 천개의 해당되는 포인트가 집계 되더라고요.",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1542570778_32_수도권_실내_20201209191948.wav",
+    "recrdTime" : "14.250",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-09 19:19:50",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "#자유"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1542570778",
+    "age" : 32
+  }
+}

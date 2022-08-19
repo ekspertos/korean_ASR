@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그동안 많이 먹긴 많이 먹었나 봐요 구디에 있는 회사 다니면서 대충 십키로 정도 찐 것 같네요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1576523737_34_수도권_실내_20201231150247.wav",
+    "recrdTime" : "9.040",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 15:02:49",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "구디"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1576523737",
+    "age" : 34
+  }
+}

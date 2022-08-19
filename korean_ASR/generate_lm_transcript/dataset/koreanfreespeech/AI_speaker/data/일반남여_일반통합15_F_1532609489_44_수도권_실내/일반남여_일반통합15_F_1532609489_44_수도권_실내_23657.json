@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그렇지 크레페는 원래 프랑스 디저트인데 요즘은 일본 크레페도 유명하더라 ",
+    "scriptId" : "일반통합-23657",
+    "fileNm" : "일반남여_일반통합15_F_1532609489_44_수도권_실내_23657.wav",
+    "recrdTime" : "8.020",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-16 09:17:42",
+    "scriptSetNo" : "T_일반통합_15"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "세계의 디저트"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1532609489",
+    "age" : 44
+  }
+}

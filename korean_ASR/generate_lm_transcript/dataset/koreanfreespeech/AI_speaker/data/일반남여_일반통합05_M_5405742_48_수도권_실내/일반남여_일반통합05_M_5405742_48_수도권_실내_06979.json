@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(SN:) 우선 네가 말한 행복주택이 그 예인데",
+    "scriptId" : "06979",
+    "fileNm" : "일반남여_일반통합05_M_5405742_48_수도권_실내_06979.wav",
+    "recrdTime" : "4.720",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-12 19:10:28",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "혼족을 위한 지원 정책"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "5405742",
+    "age" : 48
+  }
+}

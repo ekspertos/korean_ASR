@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "씨엠에이 통장을 만들고 싶으면 어떻게 하면 돼?",
+    "scriptId" : "06581",
+    "fileNm" : "일반남여_일반통합05_M_yjmunkr5211_55_수도권_실내_06581.wav",
+    "recrdTime" : "4.440",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-10 15:45:49",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "CMA 통장이 뭐야"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "yjmunkr5211",
+    "age" : 55
+  }
+}

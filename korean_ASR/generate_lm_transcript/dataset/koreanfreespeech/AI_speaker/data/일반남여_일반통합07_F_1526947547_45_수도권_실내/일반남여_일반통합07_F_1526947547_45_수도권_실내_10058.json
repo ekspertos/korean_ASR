@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "코로나 때문에 부모님들 건강이 좀 염려되기도 하고 ",
+    "scriptId" : "일반통합-10058",
+    "fileNm" : "일반남여_일반통합07_F_1526947547_45_수도권_실내_10058.wav",
+    "recrdTime" : "5.800",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-16 13:53:06",
+    "scriptSetNo" : "T_일반통합_7"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "요즘 나를 행복하게 하는 것"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526947547",
+    "age" : 45
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "네, 지금 당장 (SN:깔)게요.",
+    "scriptId" : "일반통합-06708",
+    "fileNm" : "일반남여_일반통합05_M_1527608468_43_수도권_실내_06708.wav",
+    "recrdTime" : "15.020",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-10 23:18:59",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "Windows 10",
+    "convrsThema" : "일의 능률을 올려주는 휴대폰 어플"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527608468",
+    "age" : 43
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "아스파라거스는 껍질을 잘 벗기지 않으면 질기기도 하더라구요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1535533347_19_수도권_실내_20201118232522.wav",
+    "recrdTime" : "5.290",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-18 23:25:22",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "Windows 10",
+    "convrsThema" : "저녁 식단"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1535533347",
+    "age" : 19
+  }
+}

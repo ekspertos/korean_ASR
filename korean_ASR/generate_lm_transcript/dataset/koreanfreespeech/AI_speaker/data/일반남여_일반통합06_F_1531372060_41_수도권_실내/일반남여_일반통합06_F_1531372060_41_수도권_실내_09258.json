@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그런데 이들 양자는 쉽게 조화되지 않는다 ",
+    "scriptId" : "일반통합-09258",
+    "fileNm" : "일반남여_일반통합06_F_1531372060_41_수도권_실내_09258.wav",
+    "recrdTime" : "3.750",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-04 23:09:34",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1531372060",
+    "age" : 41
+  }
+}

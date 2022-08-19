@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "지난번에 프리폰 시로 스타벅쓰 가방 했을 때는 사람들이 진짜 대란 이었어요 많은 사람들이 그 가방 하나 타겠다고 완전 쌩 난리 부르스를 쳤었죠",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1542570778_32_수도권_실내_20201209191709.wav",
+    "recrdTime" : "13.990",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-09 19:17:12",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "#자유"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1542570778",
+    "age" : 32
+  }
+}

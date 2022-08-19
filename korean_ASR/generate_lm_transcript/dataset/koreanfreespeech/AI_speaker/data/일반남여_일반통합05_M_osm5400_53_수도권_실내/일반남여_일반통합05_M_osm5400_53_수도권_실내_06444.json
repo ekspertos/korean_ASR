@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "먹었지 안 먹었을 리가 없지",
+    "scriptId" : "06444",
+    "fileNm" : "일반남여_일반통합05_M_osm5400_53_수도권_실내_06444.wav",
+    "recrdTime" : "5.640",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-06 15:48:59",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "해외에서 시차 적응 잘하는 방법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "osm5400",
+    "age" : 53
+  }
+}

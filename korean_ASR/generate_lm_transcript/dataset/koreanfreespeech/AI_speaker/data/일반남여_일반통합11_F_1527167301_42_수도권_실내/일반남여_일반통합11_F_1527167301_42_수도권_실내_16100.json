@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그분 노래 중에도 동물원 출신이 만든 노래들이 꽤 있을 거예요 ",
+    "scriptId" : "일반통합-16100",
+    "fileNm" : "일반남여_일반통합11_F_1527167301_42_수도권_실내_16100.wav",
+    "recrdTime" : "6.230",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-16 14:12:18",
+    "scriptSetNo" : "T_일반통합_11"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "소개팅 2"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1527167301",
+    "age" : 42
+  }
+}

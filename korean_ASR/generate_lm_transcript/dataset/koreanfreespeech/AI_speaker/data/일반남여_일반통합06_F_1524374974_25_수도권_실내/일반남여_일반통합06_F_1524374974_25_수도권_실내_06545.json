@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "호텔이 아닌 에어비앤비를 찾는데는 그 지역을 있는 그대로 느끼고 싶은 마음이 큰 건데 그런 장점을 누릴 수 없게 되는 거지",
+    "scriptId" : "일반통합-06545",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_06545.wav",
+    "recrdTime" : "10.150",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-10 21:18:15",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "Windows 10",
+    "convrsThema" : "에어비앤비 실패하지 않고 고르는 법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

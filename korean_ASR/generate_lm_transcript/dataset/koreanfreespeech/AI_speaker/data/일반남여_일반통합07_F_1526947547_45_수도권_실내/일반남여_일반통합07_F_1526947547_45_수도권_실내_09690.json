@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그거 좋은 생각이네",
+    "scriptId" : "일반통합-09690",
+    "fileNm" : "일반남여_일반통합07_F_1526947547_45_수도권_실내_09690.wav",
+    "recrdTime" : "2.130",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-10 13:55:56",
+    "scriptSetNo" : "T_일반통합_7"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "무화과 맛잇게 먹는 방법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526947547",
+    "age" : 45
+  }
+}

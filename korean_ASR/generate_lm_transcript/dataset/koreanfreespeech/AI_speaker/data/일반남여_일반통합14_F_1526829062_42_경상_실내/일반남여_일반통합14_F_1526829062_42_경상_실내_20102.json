@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "고온 금형에서는 고온 성형과 똑같은 것이 일어난다 ",
+    "scriptId" : "일반통합-20102",
+    "fileNm" : "일반남여_일반통합14_F_1526829062_42_경상_실내_20102.wav",
+    "recrdTime" : "5.720",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-28 00:14:22",
+    "scriptSetNo" : "T_일반통합_14"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526829062",
+    "age" : 42
+  }
+}

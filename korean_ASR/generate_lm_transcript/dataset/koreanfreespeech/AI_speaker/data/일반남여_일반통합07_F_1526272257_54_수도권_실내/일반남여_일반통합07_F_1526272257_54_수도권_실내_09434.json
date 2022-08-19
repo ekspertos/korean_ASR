@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그러네 스킨 로션 아이크림 수분 크림만 해도 네 겹을 바르는 거니까",
+    "scriptId" : "일반통합-09434",
+    "fileNm" : "일반남여_일반통합07_F_1526272257_54_수도권_실내_09434.wav",
+    "recrdTime" : "8.450",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-08 23:46:44",
+    "scriptSetNo" : "T_일반통합_7"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "마스크 속 피부 관리"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526272257",
+    "age" : 54
+  }
+}

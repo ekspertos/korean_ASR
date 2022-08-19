@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "상담 전화 수화기가 교묘히 내려져 있습니다",
+    "scriptId" : "일반통합-17555",
+    "fileNm" : "일반남여_일반통합12_M_1527875425_39_수도권_실내_17555.wav",
+    "recrdTime" : "5.800",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-23 15:27:27",
+    "scriptSetNo" : "T_일반통합_12"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527875425",
+    "age" : 39
+  }
+}

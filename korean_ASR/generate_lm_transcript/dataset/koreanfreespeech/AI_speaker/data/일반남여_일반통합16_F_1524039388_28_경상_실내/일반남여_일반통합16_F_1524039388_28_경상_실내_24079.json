@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "어깨가 넓으니까 어깨를 줄이고 단추를 요즘 디자인으로 바꿔주시면 좋을 거 같아요",
+    "scriptId" : "일반통합-24079",
+    "fileNm" : "일반남여_일반통합16_F_1524039388_28_경상_실내_24079.wav",
+    "recrdTime" : "7.080",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-15 21:17:30",
+    "scriptSetNo" : "T_일반통합_16"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "옷 리폼하기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524039388",
+    "age" : 28
+  }
+}

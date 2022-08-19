@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "충치가 몇 개냐 나 전당포 한다 금니빨은 받아 금니빨 빼고 모조리 씹어 먹어 줄게",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1533945430_22_충청_실내_20201120022843.wav",
+    "recrdTime" : "13.650",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-20 02:28:47",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "Windows 10",
+    "convrsThema" : "#외국명언 #국내명언"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1533945430",
+    "age" : 22
+  }
+}

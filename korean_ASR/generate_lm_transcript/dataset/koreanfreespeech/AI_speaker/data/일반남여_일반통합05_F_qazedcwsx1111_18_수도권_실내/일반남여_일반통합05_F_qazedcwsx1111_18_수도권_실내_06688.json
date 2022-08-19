@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그럼 제 정보도 다른 사람들이 알 수 있나요",
+    "scriptId" : "06688",
+    "fileNm" : "일반남여_일반통합05_F_qazedcwsx1111_18_수도권_실내_06688.wav",
+    "recrdTime" : "6.440",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-13 18:38:29",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "일의 능률을 올려주는 휴대폰 어플"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "qazedcwsx1111",
+    "age" : 18
+  }
+}

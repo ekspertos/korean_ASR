@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "에어비앤비 써 봤어",
+    "scriptId" : "06523",
+    "fileNm" : "일반남여_일반통합05_M_23tmddn_20_수도권_실내_06523.wav",
+    "recrdTime" : "5.560",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-05 13:06:12",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "에어비앤비 실패하지 않고 고르는 법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "23tmddn",
+    "age" : 20
+  }
+}

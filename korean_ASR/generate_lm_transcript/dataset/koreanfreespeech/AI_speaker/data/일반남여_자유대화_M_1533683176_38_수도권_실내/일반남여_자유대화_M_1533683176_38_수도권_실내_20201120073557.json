@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "오늘 저녁은 열무김치 국수로 저녁을 할까 합니다 아니면은 어 떡갈비를 구워서 맛있게 먹어야지 되겠네요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1533683176_38_수도권_실내_20201120073557.wav",
+    "recrdTime" : "14.930",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-20 07:36:07",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "저녁 식단"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1533683176",
+    "age" : 38
+  }
+}

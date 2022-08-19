@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "네 파일에 끼워서 보관하죠 ",
+    "scriptId" : "일반통합-06698",
+    "fileNm" : "일반남여_일반통합05_M_1529905764_42_강원_실내_06698.wav",
+    "recrdTime" : "3.920",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-15 08:44:54",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "강원",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "일의 능률을 올려주는 휴대폰 어플"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1529905764",
+    "age" : 42
+  }
+}

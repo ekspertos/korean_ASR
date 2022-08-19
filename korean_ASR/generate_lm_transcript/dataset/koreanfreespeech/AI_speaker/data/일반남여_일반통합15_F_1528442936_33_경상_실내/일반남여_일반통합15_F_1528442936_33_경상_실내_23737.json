@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그럼 주방은 지금 집에서 몇 년 살았더니 싱크대가 엄청 더러워졌는데",
+    "scriptId" : "일반통합-23737",
+    "fileNm" : "일반남여_일반통합15_F_1528442936_33_경상_실내_23737.wav",
+    "recrdTime" : "8.020",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-11 14:36:31",
+    "scriptSetNo" : "T_일반통합_15"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "청소 쉽게 하는 꿀팁"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1528442936",
+    "age" : 33
+  }
+}

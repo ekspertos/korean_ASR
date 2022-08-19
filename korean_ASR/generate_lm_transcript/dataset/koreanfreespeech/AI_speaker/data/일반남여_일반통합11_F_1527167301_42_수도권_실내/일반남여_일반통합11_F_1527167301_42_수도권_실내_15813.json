@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "강변북로도 많이 막히네요 내비 앱을 보니 평소보다 삼십 분은 더 걸리겠어요",
+    "scriptId" : "일반통합-15813",
+    "fileNm" : "일반남여_일반통합11_F_1527167301_42_수도권_실내_15813.wav",
+    "recrdTime" : "7.420",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-14 22:39:49",
+    "scriptSetNo" : "T_일반통합_11"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "사귀자는 고백"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1527167301",
+    "age" : 42
+  }
+}

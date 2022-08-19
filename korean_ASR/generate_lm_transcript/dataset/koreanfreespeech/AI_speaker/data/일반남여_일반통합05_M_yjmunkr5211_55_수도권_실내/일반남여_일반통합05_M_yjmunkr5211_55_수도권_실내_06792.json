@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(SN:) 상추 미나리 재배 등 각각의 작물에 맞는 엘이디 조명을 따로 팔아요",
+    "scriptId" : "06792",
+    "fileNm" : "일반남여_일반통합05_M_yjmunkr5211_55_수도권_실내_06792.wav",
+    "recrdTime" : "6.800",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-10 16:15:38",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "베란다에 텃밭 가꾸기"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "yjmunkr5211",
+    "age" : 55
+  }
+}

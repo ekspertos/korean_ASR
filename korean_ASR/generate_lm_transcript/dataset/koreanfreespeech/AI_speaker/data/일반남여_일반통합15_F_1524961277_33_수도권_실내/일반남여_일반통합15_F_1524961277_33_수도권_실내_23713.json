@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "주말에 청소하느라 죽을 뻔했어",
+    "scriptId" : "일반통합-23713",
+    "fileNm" : "일반남여_일반통합15_F_1524961277_33_수도권_실내_23713.wav",
+    "recrdTime" : "3.330",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-07 20:56:18",
+    "scriptSetNo" : "T_일반통합_15"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "청소 쉽게 하는 꿀팁"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524961277",
+    "age" : 33
+  }
+}

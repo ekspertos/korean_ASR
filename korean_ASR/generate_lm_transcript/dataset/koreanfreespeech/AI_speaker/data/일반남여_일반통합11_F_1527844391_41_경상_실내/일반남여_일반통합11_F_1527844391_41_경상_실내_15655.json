@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "어 정말 열린다",
+    "scriptId" : "일반통합-15655",
+    "fileNm" : "일반남여_일반통합11_F_1527844391_41_경상_실내_15655.wav",
+    "recrdTime" : "2.990",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-15 14:41:04",
+    "scriptSetNo" : "T_일반통합_11"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "병뚜껑 쉽게 여는 법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1527844391",
+    "age" : 41
+  }
+}

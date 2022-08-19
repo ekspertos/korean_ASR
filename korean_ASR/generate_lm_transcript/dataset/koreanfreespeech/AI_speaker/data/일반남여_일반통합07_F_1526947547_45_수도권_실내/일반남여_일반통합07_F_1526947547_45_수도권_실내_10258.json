@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "내말이 고단수한테 탈탈 털린 무늬만 고수인 헛똑똑이지",
+    "scriptId" : "일반통합-10258",
+    "fileNm" : "일반남여_일반통합07_F_1526947547_45_수도권_실내_10258.wav",
+    "recrdTime" : "6.740",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-16 15:01:32",
+    "scriptSetNo" : "T_일반통합_7"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "아는 집 이혼 이야기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526947547",
+    "age" : 45
+  }
+}

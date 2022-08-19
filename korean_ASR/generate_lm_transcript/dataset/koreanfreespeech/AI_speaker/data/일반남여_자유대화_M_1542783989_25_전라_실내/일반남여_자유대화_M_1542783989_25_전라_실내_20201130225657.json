@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "배터리가 소고기예요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1542783989_25_전라_실내_20201130225657.wav",
+    "recrdTime" : "2.900",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-30 22:56:57",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "전라",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "#자유"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1542783989",
+    "age" : 25
+  }
+}

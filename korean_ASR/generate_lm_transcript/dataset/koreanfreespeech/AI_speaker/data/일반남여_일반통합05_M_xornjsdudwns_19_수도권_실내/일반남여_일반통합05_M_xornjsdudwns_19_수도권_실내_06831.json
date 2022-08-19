@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "어떤 음식인데 (NO:)",
+    "scriptId" : "06831",
+    "fileNm" : "일반남여_일반통합05_M_xornjsdudwns_19_수도권_실내_06831.wav",
+    "recrdTime" : "3.160",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-05 16:35:52",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "변비에 좋은 음식"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "xornjsdudwns",
+    "age" : 19
+  }
+}

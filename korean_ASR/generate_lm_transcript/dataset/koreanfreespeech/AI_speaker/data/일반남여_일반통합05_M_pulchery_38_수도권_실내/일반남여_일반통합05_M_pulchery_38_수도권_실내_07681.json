@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "'돌은 나무를 의지하고 나무는 돌을 의지한다.' 그런 뜻이래.",
+    "scriptId" : "07681",
+    "fileNm" : "일반남여_일반통합05_M_pulchery_38_수도권_실내_07681.wav",
+    "recrdTime" : "7.040",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-13 18:04:09",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "제주어 배우기 "
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "pulchery",
+    "age" : 38
+  }
+}

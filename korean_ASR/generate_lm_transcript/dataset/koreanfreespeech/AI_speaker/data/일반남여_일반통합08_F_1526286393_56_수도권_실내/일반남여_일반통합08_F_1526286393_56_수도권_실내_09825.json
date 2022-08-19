@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "응 숱은 많은데 난 직모라서 머리가 너무 내려앉아",
+    "scriptId" : "일반통합-09825",
+    "fileNm" : "일반남여_일반통합08_F_1526286393_56_수도권_실내_09825.wav",
+    "recrdTime" : "5.970",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-11 17:07:29",
+    "scriptSetNo" : "T_일반통합_8"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "고데기 고르기 "
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526286393",
+    "age" : 56
+  }
+}

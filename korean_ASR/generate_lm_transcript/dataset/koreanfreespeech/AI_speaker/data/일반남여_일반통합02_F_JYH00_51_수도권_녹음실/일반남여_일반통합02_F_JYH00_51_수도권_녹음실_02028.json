@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "새까만 하늘에서 마치 은하수처럼 불꽃이 쏟아져내리는데 캬",
+    "scriptId" : "02028",
+    "fileNm" : "일반남여_일반통합02_F_JYH00_51_수도권_녹음실_02028.wavp",
+    "recrdTime" : "7.400",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-10-28 15:14:18",
+    "scriptSetNo" : "일반통합02"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "녹음실",
+    "colctUnitCode" : "스튜디오",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AI스피커",
+    "convrsThema" : "여수 여행"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "JYH00",
+    "age" : 51
+  }
+}

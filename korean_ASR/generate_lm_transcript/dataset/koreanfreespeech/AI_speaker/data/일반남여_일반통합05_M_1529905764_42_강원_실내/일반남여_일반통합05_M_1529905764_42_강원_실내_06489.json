@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "환경도 보호하고 커피값도 절약하니 일석이조지",
+    "scriptId" : "일반통합-06489",
+    "fileNm" : "일반남여_일반통합05_M_1529905764_42_강원_실내_06489.wav",
+    "recrdTime" : "5.200",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-12 18:04:01",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "강원",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "커피 싸게 마시는 방법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1529905764",
+    "age" : 42
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "자 그럼 다음 단계 잠시 멈추고 내면을 들여다 봐",
+    "scriptId" : "일반통합-13053",
+    "fileNm" : "일반남여_일반통합10_M_1526889050_25_충청_실내_13053.wav",
+    "recrdTime" : "4.180",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-10 19:10:55",
+    "scriptSetNo" : "T_일반통합_10"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "나도 꼰대인 걸까?"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1526889050",
+    "age" : 25
+  }
+}

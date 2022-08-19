@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "구멍이 너무 작으니까 솔로 문질러도 구멍 안쪽까지 닦이지 않는 거야",
+    "scriptId" : "일반통합-09483",
+    "fileNm" : "일반남여_일반통합07_F_1526272257_54_수도권_실내_09483.wav",
+    "recrdTime" : "7.080",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-08 23:55:27",
+    "scriptSetNo" : "T_일반통합_7"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "욕실화 힘들이지 않고 세탁하는 법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526272257",
+    "age" : 54
+  }
+}

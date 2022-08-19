@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "지난번에 먹어봤는데 맛이 꽤 괜찮더라고",
+    "scriptId" : "01958",
+    "fileNm" : "일반남여_일반통합02_F_JYH00_51_수도권_녹음실_01958.wavp",
+    "recrdTime" : "5.590",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-10-28 15:13:34",
+    "scriptSetNo" : "일반통합02"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "녹음실",
+    "colctUnitCode" : "스튜디오",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AI스피커",
+    "convrsThema" : "야식을 먹고 싶다"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "JYH00",
+    "age" : 51
+  }
+}

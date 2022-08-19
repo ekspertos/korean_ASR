@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "일본인들의 여름은 과연 어떨까요",
+    "scriptId" : "06562",
+    "fileNm" : "일반남여_일반통합05_F_hangyeol1379_19_수도권_실내_06562.wav",
+    "recrdTime" : "5.440",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-11 13:28:25",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "hangyeol1379",
+    "age" : 19
+  }
+}

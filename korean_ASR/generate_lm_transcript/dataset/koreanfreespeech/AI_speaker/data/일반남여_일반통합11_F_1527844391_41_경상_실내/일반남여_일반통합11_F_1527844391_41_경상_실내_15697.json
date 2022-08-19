@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "저희는 진행자 분들이 대화에 참여하는 것을 권장하고는 있지만요",
+    "scriptId" : "일반통합-15697",
+    "fileNm" : "일반남여_일반통합11_F_1527844391_41_경상_실내_15697.wav",
+    "recrdTime" : "8.020",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-15 15:01:46",
+    "scriptSetNo" : "T_일반통합_11"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "출연자 섭외"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1527844391",
+    "age" : 41
+  }
+}

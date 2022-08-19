@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "나에 대해서 처음부터 얘기해야 하니까 그럴 수도 있지.",
+    "scriptId" : "일반통합-24052",
+    "fileNm" : "일반남여_일반통합15_F_1520884569_35_수도권_실내_24052.wav",
+    "recrdTime" : "4.690",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-05 23:16:44",
+    "scriptSetNo" : "T_일반통합_15"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "새로운 친구 사귀기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1520884569",
+    "age" : 35
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "깔깔거리에 오락실 옆에 있는 곳이었는데 상호가 뭐였는지 정말 기억이 나질 않네요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1576523737_34_수도권_실내_20201231152859.wav",
+    "recrdTime" : "8.790",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 15:29:02",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "구디"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1576523737",
+    "age" : 34
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "시중 시세의 육십에서 팔십 프로 수준이고, 최대 이십 년까지 거주할 수 있어.",
+    "scriptId" : "06983",
+    "fileNm" : "일반남여_일반통합05_M_hamdonx_36_수도권_실내_06983.wav",
+    "recrdTime" : "7.600",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-04 11:11:39",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "혼족을 위한 지원 정책"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "hamdonx",
+    "age" : 36
+  }
+}

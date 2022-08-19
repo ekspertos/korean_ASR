@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(SN:)그 시절에 제가 어리긴 했는데 뭔가 그 가수들의 목소리가 너무 저의 마음을 울렸어 가지고 기억에 남아요",
+    "scriptId" : "P",
+    "fileNm" : "일반남여_자유대화_M_1542783989_25_전라_실내_20201128195114.wav",
+    "recrdTime" : "13.560",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-28 19:51:17",
+    "scriptSetNo" : "P"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "전라",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "취미생활"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1542783989",
+    "age" : 25
+  }
+}

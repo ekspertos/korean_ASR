@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(NO:그래야 수돗물의 소독 성분을 없앨 수 있거든요)",
+    "scriptId" : "일반통합-06805",
+    "fileNm" : "일반남여_일반통합05_M_1527608468_43_수도권_실내_06805.wav",
+    "recrdTime" : "15.020",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-17 20:20:15",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "Windows 10",
+    "convrsThema" : "베란다에 텃밭 가꾸기"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527608468",
+    "age" : 43
+  }
+}

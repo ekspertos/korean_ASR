@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(NO:)(SN:)그래야겠네 오늘 당장 집에 가서 신발장에 있는 신발에(SN:) 신문지를 넣어야겠어",
+    "scriptId" : "06343",
+    "fileNm" : "일반남여_일반통합05_M_diu0614bc_31_수도권_실내_06343.wav",
+    "recrdTime" : "8.400",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-11 17:45:57",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "장마철 젖은 물건 관리하기"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "diu0614bc",
+    "age" : 31
+  }
+}

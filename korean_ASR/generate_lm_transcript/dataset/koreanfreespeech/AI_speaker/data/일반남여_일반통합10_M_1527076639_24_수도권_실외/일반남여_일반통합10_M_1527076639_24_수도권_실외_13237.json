@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "남자는 말을 마음 속에 담아놓고 여자는 말 속에 마음을 담아놓는다는 말 몰라",
+    "scriptId" : "일반통합-13237",
+    "fileNm" : "일반남여_일반통합10_M_1527076639_24_수도권_실외_13237.wav",
+    "recrdTime" : "8.620",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-10 21:21:21",
+    "scriptSetNo" : "T_일반통합_10"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실외",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "아내가 화를 내는 이유"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527076639",
+    "age" : 24
+  }
+}

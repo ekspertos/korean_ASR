@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "네 파일에 끼워서 보관하죠",
+    "scriptId" : "06698",
+    "fileNm" : "일반남여_일반통합05_F_qazedcwsx1111_18_수도권_실내_06698.wav",
+    "recrdTime" : "4.360",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-13 18:39:59",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "일의 능률을 올려주는 휴대폰 어플"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "qazedcwsx1111",
+    "age" : 18
+  }
+}

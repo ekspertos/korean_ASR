@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "요즘 은행 이자율 너무 낮지 않아",
+    "scriptId" : "06563",
+    "fileNm" : "일반남여_일반통합05_F_Juliannelee04_18_수도권_실내_06563.wav",
+    "recrdTime" : "5.040",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-09 18:23:17",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "CMA 통장이 뭐야"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "Juliannelee04",
+    "age" : 18
+  }
+}

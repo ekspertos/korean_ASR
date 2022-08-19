@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "네 아무래도 그렇죠 그리고 방송에서는 거르는게 너무 많잖아요",
+    "scriptId" : "일반통합-15677",
+    "fileNm" : "일반남여_일반통합11_F_1527167301_42_수도권_실내_15677.wav",
+    "recrdTime" : "6.310",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-14 11:46:06",
+    "scriptSetNo" : "T_일반통합_11"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "출연자 섭외"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1527167301",
+    "age" : 42
+  }
+}

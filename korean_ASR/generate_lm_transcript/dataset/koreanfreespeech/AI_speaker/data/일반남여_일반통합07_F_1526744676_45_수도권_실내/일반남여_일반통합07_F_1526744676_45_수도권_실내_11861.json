@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "미일 최초의 삼국 정상회담입니다",
+    "scriptId" : "일반통합-11861",
+    "fileNm" : "일반남여_일반통합07_F_1526744676_45_수도권_실내_11861.wav",
+    "recrdTime" : "4.950",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-10 18:22:26",
+    "scriptSetNo" : "T_일반통합_7"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1526744676",
+    "age" : 45
+  }
+}

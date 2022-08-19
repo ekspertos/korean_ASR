@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그래도 사람들이 사 먹으니까 가격이 올라가는 거겠지만 사실 원가를 생각하면 너무 비싸기는 해",
+    "scriptId" : "06505",
+    "fileNm" : "일반남여_일반통합05_M_ruujs41_56_수도권_실내_06505.wav",
+    "recrdTime" : "10.440",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-04 13:39:53",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "커피 싸게 마시는 방법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "ruujs41",
+    "age" : 56
+  }
+}

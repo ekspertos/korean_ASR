@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "여삼의 두 눈에서는 소리 없이 굵은(SP: 눈)물방울이 떨어져 족쇄에 걸린 무쇳덩이 위를 적신다 ",
+    "scriptId" : "일반통합-25657",
+    "fileNm" : "일반남여_일반통합15_F_1520884569_35_수도권_실내_25657.wav",
+    "recrdTime" : "9.040",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-18 15:48:40",
+    "scriptSetNo" : "T_일반통합_15"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1520884569",
+    "age" : 35
+  }
+}

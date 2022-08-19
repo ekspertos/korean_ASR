@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "근데 케찹은 왜 넣게 된 거야",
+    "scriptId" : "06657",
+    "fileNm" : "일반남여_일반통합05_M_fkghghfk0987_18_수도권_실내_06657.wav",
+    "recrdTime" : "4.640",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-10 16:25:35",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "카레에서 고기 잡내 없애기"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "fkghghfk0987",
+    "age" : 18
+  }
+}

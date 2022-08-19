@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그렇긴 하지만 자려고 누우면 눅눅해 하니까 참기가 힘들더라고",
+    "scriptId" : "06350",
+    "fileNm" : "일반남여_일반통합05_M_imk070511_17_수도권_실내_06350.wav",
+    "recrdTime" : "6.440",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-06 18:19:43",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "장마철 젖은 물건 관리하기"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "imk070511",
+    "age" : 17
+  }
+}

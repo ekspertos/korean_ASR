@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "인기 비제이들도 처음부터 그렇게 인기가 많았던 건 아니라고",
+    "scriptId" : "일반통합-23997",
+    "fileNm" : "일반남여_일반통합16_F_1520908356_27_전라_실내_23997.wav",
+    "recrdTime" : "5.030",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-09 20:12:24",
+    "scriptSetNo" : "T_일반통합_16"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "전라",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "나도 먹방 찍어볼까?"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1520908356",
+    "age" : 27
+  }
+}

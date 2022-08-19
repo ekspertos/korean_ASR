@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "장관급인 외교부 (NO:부장)이 영접을 합니다",
+    "scriptId" : "07260",
+    "fileNm" : "일반남여_일반통합05_M_fkghghfk0987_18_수도권_실내_07260.wav",
+    "recrdTime" : "5.200",
+    "recrdQuality" : "16k",
+    "recrdDt" : "2020-11-12 10:22:35",
+    "scriptSetNo" : "일반통합05"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "음성수집 도구",
+    "cityCode" : "수도권",
+    "recrdUnit" : "ANDROID",
+    "convrsThema" : "PBS"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "fkghghfk0987",
+    "age" : 18
+  }
+}
