@@ -1,4 +1,5 @@
 *.log
+*.swp
 __pycache__/
 *.py[cod]
 korean_ASR/*/result/*
