@@ -6,7 +6,7 @@ __pycache__/
 */*/result/*
 */*/dataset/*
 
-!*/*/dataset/.gitkeep
+!*/*/dataset/*/.gitkeep
 !.gitkeep
 
 
