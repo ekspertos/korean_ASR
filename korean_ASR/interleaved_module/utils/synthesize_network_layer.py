@@ -20,7 +20,7 @@ def model_synthesize(
     """
 
     """
-	logger.info("")
+    logger.info("")
     logger.info(f"Importing Interleaved conformer module...")
     logger.info(f"config file from {interleaved_config_path}...")
     forge_stats_file(
@@ -29,7 +29,7 @@ def model_synthesize(
     )
     interleaved_conformer = build_asr_model(interleaved_config_path)
 	
-	logger.info("")
+    logger.info("")
     logger.info(f"loading param_dict from pretrained conformer & pretrained language model...")
     logger.info(f"pretrained conformer path: {conformer_model_path}")
     logger.info(f"pretrained language model path: {language_model_path}")
@@ -37,7 +37,7 @@ def model_synthesize(
     lm_param = load_param(language_model_path)
     interleaved_param = interleaved_conformer.state_dict()
 	
-	logger.info("")
+    logger.info("")
     logger.info(f"Fusing conformer encoder and LM decoder...")
     logger.info(f"Constructing pretrained interleaved model...")
     new_lm_state_dict = {}
@@ -96,7 +96,8 @@ def model_synthesize(
         else:
             interleaved_param[k] = conformer_param[k]
 	
-	logger.info("")
+    logger.info("")
     logger.info(f" ===== saving interleaved model: =====")
-	logger.info(f" ===== {save_path}/interleaved_conformer.pth =====")
+    logger.info(f" ===== {save_path}/interleaved_conformer.pth =====")
     torch.save(interleaved_param, f"{save_path}/interleaved_conformer.pth")
+
