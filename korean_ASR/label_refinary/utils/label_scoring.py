@@ -58,7 +58,7 @@ def calc_filtering_score(
     Returns:
         normalized_filtering_score (List[float]) : filtering score normalized with standard deviation and length."""
 
-    model_path = f"{save_path}/model/{train_type}_regression.pth"
+    model_path = Path(f"{save_path}/model/{train_type}_regression.pth")
     model = FilteringLinearRegression()
     # If train option is set, train regression model. else load model from model_path.
     if if_train:
@@ -68,8 +68,9 @@ def calc_filtering_score(
             log_score=train_log_score,
             script=train_transcript,
             epoch=epoch,
-            learing_rate=learning_rate,
+            learning_rate=learning_rate,
         )
+		model_path.parent.mkdir(exist_ok=True, parents=True)
         torch.save(model.state_dict(), model_path)
     else:
         logger.info(f"Regression loaded from: {model_path}")
@@ -101,6 +102,7 @@ def label_filtering(args: argparse.Namespace, logger: logging.RootLogger) -> Non
     valid_type = args.valid_type
     filtering_weight = args.filtering_weight
     save_path = args.save_path
+	learning_rate = args.learning_rate
 
     # For 'train' step, load LM fused log score & predicted text & ground truth text
     train_log_score, train_predicted = [], []

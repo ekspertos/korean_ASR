@@ -45,10 +45,10 @@ def train(
         filtering_score = model(log_score, script_length)
         loss = loss_fn(filtering_score, torch.zeros_like(filtering_score))
         loss.backward()
+        optimizer.step()
         loss_value = loss.detach().cpu().item()
         if idx % 1000:
             print(f"epoch:{idx+1}, loss:{loss_value}")
-        optimizer.step()
     model = model.to("cpu")
     return model
 
@@ -64,6 +64,6 @@ def validate(
     log_score = torch.tensor(log_score).to(device)
     model.eval()
     with torch.no_grad():
-        score = model(log_score, script_length).numpy()
+        score = model(log_score, script_length).cpu().numpy()
 
     return score

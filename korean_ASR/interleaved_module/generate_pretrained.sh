@@ -21,6 +21,8 @@ save_path=./result/
 
 . ${script_abs_path}/parse_options.sh
 
+. ${script_abs_path}/support_interleaved.sh
+
 log "Generating pretrained interleaved model."
 log "Initialized with Conformer encoder and lm decoder."
 log ""
