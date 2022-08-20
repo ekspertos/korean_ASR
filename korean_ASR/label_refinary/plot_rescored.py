@@ -3,8 +3,8 @@ import argparse
 
 from pathlib import Path
 
-from utils.types import str2bool
-from utils.label_scoring import label_filtering
+from korean_ASR.label_refinary.utils.types import str2bool
+from korean_ASR.label_refinary.utils.label_scoring import label_filtering
 
 from korean_ASR.utils.set_logger import set_logger
 

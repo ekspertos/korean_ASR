@@ -6,7 +6,6 @@ from espnet.nets.pytorch_backend.transformer.positionwise_feed_forward import (
     PositionwiseFeedForward,  # noqa: H301
 )
 from espnet.nets.pytorch_backend.transformer.repeat import repeat
-
 from espnet2.asr.decoder.transformer_decoder import BaseTransformerDecoder
 
 from korean_ASR.interleaved_module.decoder.interleaved_decoder_layer import InterleavedDecoderLayer

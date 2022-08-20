@@ -1,2 +1,0 @@
-from generate_lm_transcript.prepare_text.korean_speech import prepare_text
-from generate_lm_transcript.prepare_text.korean_free_speech import prepare_text
