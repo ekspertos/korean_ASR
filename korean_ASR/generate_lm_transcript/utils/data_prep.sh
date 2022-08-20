@@ -35,5 +35,8 @@ cat ${dst}/${temp}/text.org | utils/lowercase.perl | utils/remove_punctuation.pl
 
 ntext=$(wc -l <$text)
 
-echo "$0: successfully prepared data in ${dst}"
+echo "$0:"
+echo "$0: ====== successfully prepared dataset in ======"
+echo "$0: ====== ${dst} ======"
+echo "$0:"
 exit 0;
