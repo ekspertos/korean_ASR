@@ -31,14 +31,19 @@ log ""
 ${python} -m process_aihub_text \
   --korean-speech "$korean_speech" \
   --korean-free-speech "$korean_free_speech" \
-  --save-path "$save_path"
+  --save-path "$save_path/tmp"
 
 log "Refining dataset.."
 log ""
 
+awk '{print "KoreanSpeech_" NR " :: " $s}' "$save_path/tmp/korean_speech.txt" > "$save_path/tmp/tmp"
+mv "$save_path/tmp/tmp" "$save_path/tmp/korean_speech.txt"
+awk '{print "KoreanFreeSpeech_" NR " :: " $s}' "$save_path/tmp/korean_free_speech.txt" > "$save_path/tmp/tmp"
+mv "$save_path/tmp/tmp" "$save_path/tmp/korean_free_speech.txt"
+
 ./utils/data.sh \
-  --KoreanSpeech "$save_path/korean_free_speech.txt" \
-  --KoreanFreeSpeech "$save_path/korean_speech.txt" \
+  --KoreanSpeech "$save_path/tmp/korean_speech.txt" \
+  --KoreanFreeSpeech "$save_path/tmp/korean_free_speech.txt" \
   --save-path "$save_path"
 
 

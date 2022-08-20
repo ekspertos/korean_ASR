@@ -26,8 +26,6 @@ mkdir -p ${dst} ${dst}/$temp || exit 1;
 
 text=${dst}/text; [[ -f "${text}" ]] && rm ${text}
 
-echo "data: $data"
-
 # 3) prepare text
 cat $data | cut -d' ' -f3- > ${dst}/${temp}/text.org
 cat ${dst}/${temp}/text.org | utils/lowercase.perl | utils/remove_punctuation.pl > ${dst}/text
