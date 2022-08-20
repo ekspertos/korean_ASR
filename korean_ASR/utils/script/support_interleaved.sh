@@ -17,22 +17,24 @@ espnet_path=$("$python" ../utils/python-which.py espnet2)
 espnet_task="$espnet_path/tasks/"
 
 
-[ -z "$(grep 'korean_ASR' $espnet_task/asr.py)" ] \
-		&& log "Including interleaved transformer supports..." \
-		|| ( return & log "Interleaved Transformer is already supported.")
-
-sed 's/transformer=TransformerDecoder/transformer=TransformerDecoder,\n        interleaved=InterleavedTransformerDecoder/' \
+if [ ! -z "$(grep 'korean_ASR' $espnet_task/asr.py)" ]; then
+    log "Interleaved Transformer is already supported."
+else
+	log "Including interleaved transformer supports..."
+	sed 's/transformer=TransformerDecoder/transformer=TransformerDecoder,\n        interleaved=InterleavedTransformerDecoder/' \
         "$espnet_task/asr.py" > "$espnet_task/asr_modified.py"
 
-sed 's/frontend_choices =/from korean_ASR.interleaved_module.decoder.interleaved_transformer_decoder import InterleavedTransformerDecoder\n\nfrontend_choices =/' \
+	sed 's/frontend_choices =/from korean_ASR.interleaved_module.decoder.interleaved_transformer_decoder import InterleavedTransformerDecoder\n\nfrontend_choices =/' \
 	   "$espnet_task/asr_modified.py" > "$espnet_task/asr_modified_2.py"
 
-sed 's/specaug=SpecAug,/specaug=SpecAug,\n        adaptive_specAug=AdaptiveSpecAug,/'\
+	sed 's/specaug=SpecAug,/specaug=SpecAug,\n        adaptive_specAug=AdaptiveSpecAug,/'\
 		"$espnet_task/asr_modified_2.py" > "$espnet_task/asr_modified.py"
 
-sed 's/frontend_choices =/from korean_ASR.adaptive_specaug.adaptive_specaug import AdaptiveSpecAug\n\nfrontend_choices =/' \
+	sed 's/frontend_choices =/from korean_ASR.adaptive_specaug.adaptive_specaug import AdaptiveSpecAug\n\nfrontend_choices =/' \
 	   "$espnet_task/asr_modified.py" > "$espnet_task/asr.py"
 
-log "Interleaved Transformer is supported."
+	log "Interleaved Transformer is supported."
+fi
 
+true
 
