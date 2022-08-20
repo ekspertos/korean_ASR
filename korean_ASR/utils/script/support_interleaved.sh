@@ -16,7 +16,9 @@ python=python3
 espnet_path=$("$python" ../utils/python-which.py espnet2)
 espnet_task="$espnet_path/tasks/"
 
-[ -z '$(grep "korean_ASR" "$espnet_task/asr.py")' ] \
+is_supported=$(grep "korean_ASR" "$espnet_task/asr.py")
+
+[ -z "$is_supported" ] \
 		&& log "Including interleaved transformer supports..." \
 		|| log "Interleaved Transformer is already supported."; return;
 
