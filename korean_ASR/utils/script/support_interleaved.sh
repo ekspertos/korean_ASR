@@ -19,7 +19,7 @@ espnet_task="$espnet_path/tasks/"
 
 [ -z "$(grep 'korean_ASR' $espnet_task/asr.py)" ] \
 		&& log "Including interleaved transformer supports..." \
-		|| log "Interleaved Transformer is already supported." || return;
+		|| ( return & log "Interleaved Transformer is already supported.")
 
 sed 's/transformer=TransformerDecoder/transformer=TransformerDecoder,\n        interleaved=InterleavedTransformerDecoder/' \
         "$espnet_task/asr.py" > "$espnet_task/asr_modified.py"
